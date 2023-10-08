@@ -13,4 +13,5 @@ erstellen. Unsere Forschungsfrage lautet: Ist
 es möglich, aus Bäumen, die mittels Rhetorical
 Structure Theory (RST) für jeweils einen Text
 generiert wurden, gute Zusammenfassungen zu
-generieren
+generieren? Mehr steht im Paper.
+
