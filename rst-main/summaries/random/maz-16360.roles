@@ -1,0 +1,14 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	43,48	0	18	Die Rezeptur für seinen Knatterkrapfen
+other	45,48	0	6	für seinen Knatterkrapfen
+other	46,47	0	8	seinen
+sbj	49,50	0	8	er
+other	50,53	0	19	von seiner Großmutter
+other	51,52	0	8	seiner
+sbj	55,59	1	20	Auch die anderen Bäckermeister
+sbj	122,124	2	0	Die Meister
+other	126,127	2	0	ihre
+dir-obj	126,128	2	4	ihre Spezialitäten
+other	128,132	2	10	auf der Grünen Woche
+other	134,135	2	11	damit
+other	135,138	2	3	für die Prignitz

@@ -1,0 +1,13 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	87,88	0	11	Das
+other	90,93	0	17	für die Jugend
+other	7,9	1	0	aufs Hainholz
+sbj	15,16	1	1	sie
+other	26,29	2	10	des Pritzwalker Bauausschusses
+other	27,28	2	3	Pritzwalker
+other	29,31	2	18	am Mittwoch
+other	35,40	2	8	über die Bewirtschaftung des Stadtforstes
+other	38,40	2	0	des Stadtforstes
+other	40,45	2	7	auf der Tagesordnung ihrer Sitzung
+other	43,44	2	4	ihrer
+other	43,45	2	9	ihrer Sitzung

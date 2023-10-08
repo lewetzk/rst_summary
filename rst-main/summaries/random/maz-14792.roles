@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	78,80	0	1	Die Landesgartenschau
+indir-obj	83,84	0	3	ihnen
+dir-obj	26,27	1	14	Das
+other	28,31	1	5	in diesem Tagen

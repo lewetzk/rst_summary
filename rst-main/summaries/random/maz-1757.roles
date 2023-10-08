@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	70,75	0	13	die inhaltlichen Schwerpunkte der Kandidaten
+other	73,75	0	5	der Kandidaten
+sbj	153,154	1	2	Letzterer
+other	155,158	1	19	im Potsdamer Umland
+sbj	36,42	2	1	Die Einwohner von Städten und Gemeinden
+other	46,51	2	17	vor dem Entscheid auf Bundesebene
+other	53,54	2	1	ihr
+indir-obj	53,57	2	9	ihr direkter politischer Ansprechpartner
+other	57,59	2	8	in Berlin

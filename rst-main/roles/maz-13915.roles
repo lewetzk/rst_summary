@@ -1,0 +1,27 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	5,7	2	0	die Stadt
+other	8,13	2	10	für die Unterhaltung eigener Immobilien
+sbj	16,20	3	11	der Wert der Liegenschaften
+other	18,20	3	12	der Liegenschaften
+sbj	30,32	4	0	die Stadt
+sbj	37,38	4	0	sie
+sbj	42,43	5	0	sie
+other	43,44	5	0	ihr
+dir-obj	43,45	5	13	ihr Vermögen
+sbj	52,54	6	2	Bürgermeister Langerwisch
+other	54,62	6	4	mit dem " zentralen Gebäude- und Liegenschaftsmanagement "
+other	64,67	6	5	Mit dem Konzept
+other	77,85	7	9	für die Sanierung der oft maroden kommunalen Gebäude
+sbj	90,91	8	2	Langerwisch
+dir-obj	91,93	8	7	die Umsetzung
+other	99,102	9	1	in der Verwaltung
+other	129,132	10	1	in der Verwaltung
+dir-obj	140,144	11	6	die Nichteinbringung der Fachbereichsstruktur
+other	144,147	11	3	durch den OB
+indir-obj	148,149	11	2	Langerwisch
+dir-obj	160,161	11	2	ihn
+sbj	164,165	11	2	er
+other	174,175	11	8	dies
+other	180,183	11	1	in der Verwaltung
+other	180,187	11	14	in der Verwaltung und in der SVV
+dir-obj	189,191	11	0	die Stadt

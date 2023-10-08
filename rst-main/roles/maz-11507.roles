@@ -1,0 +1,21 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	25,28	2	10	mit dem Traktor
+other	28,31	2	11	über das Feld
+other	34,35	3	1	ihr
+sbj	34,36	3	_	ihr Job
+sbj	49,51	3	2	Die Landwirtschaft
+other	52,54	4	0	in Brandenburg
+other	55,62	4	13	trotz des hohen Beschäftigungsrückgangs nach der Wende
+other	59,62	4	12	nach der Wende
+other	83,85	5	0	im Land
+other	85,88	5	_	von der Agrarwirtschaft
+other	93,95	5	14	des Bruttosozialproduktes
+other	99,102	6	7	der Fläche Brandenburgs
+other	101,102	6	0	Brandenburgs
+other	105,109	6	8	des Landesamtes für Agarwirtschaft
+sbj	116,118	7	2	der Wirtschaftszweig
+dir-obj	118,121	7	9	den dörflichen Raum
+sbj	144,145	9	15	das
+sbj	148,150	9	4	die Ausbildung
+sbj	167,171	10	6	Die Zeiten der Bauernregeln
+other	169,171	11	5	der Bauernregeln

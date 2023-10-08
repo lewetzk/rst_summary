@@ -1,0 +1,13 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	109,113	0	_	Trotz der rechtlichen Verfehlungen
+indir-obj	115,119	0	13	dem Marktbetreiber Jürgen Wache
+indir-obj	124,127	0	1	den Güterfelder Gemeindevertretern
+other	127,131	0	0	bei ihrer heutigen Entscheidung
+other	128,129	0	1	ihrer
+other	139,141	0	16	zur Natur
+dir-obj	146,150	0	9	das Schicksal von Menschen
+sbj	155,156	0	2	er
+other	156,157	0	3	dafür
+indir-obj	167,169	1	10	diesem Gewissenskonflikt
+other	50,52	2	19	in Güterfelde
+other	54,55	2	18	dazu

@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	21,24	0	5	Wohl die wenigsten
+other	31,33	0	0	des Rewe-Konzerns
+sbj	118,120	1	13	co op
+indir-obj	122,124	1	1	den Beschäftigten

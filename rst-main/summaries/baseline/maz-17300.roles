@@ -1,0 +1,25 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	6,9	0	13	in der Kreispolitik
+dir-obj	10,14	0	17	den Inhalt seines Adventskalenders
+other	12,13	0	0	seines
+other	12,14	0	14	seines Adventskalenders
+sbj	18,23	0	18	die Kandidatur von Schulrat Dolatkiewicz
+other	20,23	0	21	von Schulrat Dolatkiewicz
+other	23,28	0	2	bei der Landratswahl am Donnerstag
+other	26,28	0	15	am Donnerstag
+dir-obj	28,30	0	16	den Abend
+other	87,88	1	1	Seinen
+indir-obj	87,94	1	11	Seinen Zuhörern in der Aula des Oberstufenzentrums
+other	89,94	1	9	in der Aula des Oberstufenzentrums
+other	92,94	1	7	des Oberstufenzentrums
+sbj	102,103	1	1	Gilde
+other	105,109	1	8	auf die eigene Person
+other	109,110	1	1	seinen
+dir-obj	109,111	1	10	seinen Rechenschaftsbericht
+other	166,170	2	4	nicht für den Mann
+other	166,170	2	4	nicht für den Mann
+other	172,175	2	_	für seinen Posten
+other	173,174	2	4	seinen
+dir-obj	177,178	2	4	ihn
+other	178,182	2	23	zum Befürworter des Bombodroms
+other	180,182	2	6	des Bombodroms

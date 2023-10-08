@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	51,53	0	12	dieser Bundeswehr-Einsatz
+other	56,61	0	13	an die Wurzeln ihrer Identität
+other	59,60	0	3	ihrer
+other	59,61	0	14	ihrer Identität
+sbj	95,97	1	1	die Kritiker
+sbj	101,102	1	1	sie
+dir-obj	103,107	1	9	den Krieg in Afghanistan
+other	105,107	1	8	in Afghanistan
+other	112,113	2	6	daran

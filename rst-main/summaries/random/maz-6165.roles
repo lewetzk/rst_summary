@@ -1,0 +1,17 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	77,78	0	4	Die
+other	84,88	0	0	an der Berliner Straße
+other	90,93	0	22	Nahe der Schnellstraße
+other	97,100	0	7	nahe am Klinikum
+sbj	114,118	1	3	der CDU-Abgeordnete Peter Lehmann
+other	116,118	1	8	Peter Lehmann
+dir-obj	118,123	1	6	das Wasserwirtschaftsareal an der Friedrich-Engels-Straße
+other	120,123	1	2	an der Friedrich-Engels-Straße
+other	123,127	1	1	für die Feuerwache Potsdam
+sbj	130,131	1	3	er
+indir-obj	138,140	1	0	Berliner Straße
+indir-obj	141,143	1	5	der Havel
+sbj	150,152	1	15	das Wasserbetriebsgelände
+other	62,65	2	1	für die Feuerwehr
+other	65,70	2	12	beim Wegzug aus der Seelenbinderstraße
+other	67,70	2	13	aus der Seelenbinderstraße

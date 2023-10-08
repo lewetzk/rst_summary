@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	57,61	0	4	die ersten blanken Münzen
+sbj	67,68	0	4	sie
+other	125,130	1	_	von der Ausnahme kreisliche Busgesellschaft
+dir-obj	138,140	1	1	die Einheitswährung
+other	145,146	1	24	seine
+dir-obj	145,148	1	20	seine eigene Mark-Epoche

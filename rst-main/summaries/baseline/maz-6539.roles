@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	149,165	2	10	Das mit Glück und einigem Geschick von Außenminister Joschka Fischer erarbeitete Gewicht Deutschlands in der Krisenregion
+other	155,159	2	9	von Außenminister Joschka Fischer
+other	161,162	2	16	Deutschlands
+other	162,165	2	8	in der Krisenregion

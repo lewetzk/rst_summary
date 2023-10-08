@@ -1,0 +1,19 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	7,10	2	0	vor dem Fest
+dir-obj	23,26	3	7	die letzten Einkäufe
+indir-obj	39,43	4	0	am heutigen Heiligen Abend
+other	43,44	4	12	seinen
+indir-obj	43,45	4	8	seinen Lieben
+indir-obj	53,55	5	9	solcher Vergesslichkeit
+sbj	70,71	6	1	sie
+other	71,75	6	10	über all dem Feiertagstrubel
+sbj	78,94	6	1	die Alten und Einsamen , die Flüchtlinge und Asylsuchenden , die Heimatlosen , Hungernden , Kranken
+sbj	95,97	6	6	Die Erinnerung
+other	97,102	7	1	an diese Verlierer unserer Zeit
+other	100,101	7	11	unserer
+dir-obj	104,106	7	0	sein Weihnachtsfest
+dir-obj	129,132	8	4	das eigene Glück
+sbj	139,141	9	2	solche Gedanken
+sbj	153,155	9	3	die Gelegenheit
+sbj	163,164	10	0	Weihnachten
+sbj	177,179	11	13	die MAZ

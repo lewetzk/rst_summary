@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	81,88	0	10	Unter dem Deckmantel des Wegschauens und Verheimlichens
+other	84,86	0	21	des Wegschauens
+other	84,88	0	18	des Wegschauens und Verheimlichens
+other	84,88	0	18	des Wegschauens und Verheimlichens
+sbj	89,93	0	1	der Drogenhandel und -konsum
+dir-obj	101,103	0	22	die Augen
+other	106,109	0	1	über das Problem
+dir-obj	73,75	1	1	das Problem
+sbj	29,31	2	0	Die Polizei

@@ -1,0 +1,50 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+indir-obj	1,3	1	3	Christian Gildes
+sbj	12,13	3	24	dieser
+other	20,22	3	16	im Tagesgeschäft
+dir-obj	24,25	4	21	das
+sbj	26,27	4	3	Gilde
+other	30,34	5	7	bei der ersten Personalie
+sbj	35,36	5	3	er
+other	37,40	5	9	auf seine Macht
+other	38,39	5	3	seine
+sbj	41,42	5	3	er
+dir-obj	43,45	6	8	den Kompromiss
+other	48,53	7	_	um den Job des Vize-Landrats
+other	51,53	7	_	des Vize-Landrats
+other	54,59	7	20	des zweitmächtigsten Mannes der Kreisverwaltung
+other	57,59	7	0	der Kreisverwaltung
+other	62,63	8	5	das
+sbj	63,65	8	2	Klaus-Peter Appel
+other	68,70	9	3	nach Gilde
+sbj	72,73	9	13	das
+sbj	77,78	10	3	er
+sbj	81,83	10	23	der Kreistag
+dir-obj	83,84	10	18	das
+other	87,88	10	15	Deshalb
+sbj	89,90	11	3	er
+sbj	93,94	11	3	er
+other	97,100	11	2	als seinen Lieblingskandidaten
+other	98,99	11	3	seinen
+other	100,104	11	1	zur Wahl im Kreistag
+other	102,104	11	0	im Kreistag
+sbj	107,108	11	14	Das
+other	118,122	13	17	Im Falle einer Abstimmungs-Niederlage
+sbj	123,124	14	3	er
+other	125,128	14	2	wie sein Kandidat
+other	126,127	14	3	sein
+other	130,131	14	10	Zudem
+sbj	144,145	16	3	Gilde
+other	145,146	16	25	damit
+other	146,151	16	12	in die Hände des Kreistags
+other	149,151	16	0	des Kreistags
+sbj	153,154	17	0	der
+other	156,157	17	6	daran
+indir-obj	159,160	17	3	ihm
+other	163,166	17	11	an die Seite
+dir-obj	181,182	18	3	Gilde
+sbj	189,191	18	4	Der Landrat
+dir-obj	192,194	18	1	die Wahl
+other	199,200	18	4	seinen
+other	203,204	18	22	das
+sbj	205,206	18	4	er

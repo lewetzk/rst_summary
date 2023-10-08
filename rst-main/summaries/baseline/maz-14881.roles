@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	10,13	0	15	an der Realität
+other	89,91	1	19	Beim Neubau
+sbj	151,152	2	3	das
+other	152,157	2	_	wie jener Streich der Schildbürger
+other	155,157	2	1	der Schildbürger
+other	155,157	2	1	der Schildbürger
+other	160,162	2	11	ins Rathaus
+sbj	166,167	2	1	sie
+dir-obj	167,169	2	22	die Fenster

@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	28,29	0	5	er
+other	30,33	0	_	aus den Krimis
+other	35,38	0	11	mit der Wirklichkeit
+sbj	44,49	0	6	der Traum von der Gerechtigkeit
+other	46,49	0	9	von der Gerechtigkeit
+other	49,53	0	10	mit dem realen Leben
+sbj	113,116	1	5	der junge Mann
+sbj	122,123	1	5	er
+other	190,194	2	_	der Probleme Gesellschaft gewesen
+other	193,194	2	_	gewesen

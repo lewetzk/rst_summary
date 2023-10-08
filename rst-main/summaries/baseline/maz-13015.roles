@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	9,10	0	7	Rosco
+sbj	15,16	0	7	er
+other	16,17	0	7	sein
+dir-obj	16,19	0	_	sein stärkstes Faustpfand
+sbj	28,30	0	_	Der Coup
+sbj	32,36	0	1	die CDU-OB-Kandidatin Dietlind Tiemann
+other	36,42	0	2	mit dem Verfüllen des Neustädtischen Marktes
+other	39,42	0	3	des Neustädtischen Marktes
+sbj	134,136	1	5	die SPD
+indir-obj	136,137	1	4	dem

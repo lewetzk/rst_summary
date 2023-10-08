@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+indir-obj	25,31	0	7	der seit Jahren obwaltenden rechtsradikalen Umtriebe
+sbj	33,43	0	3	die Bemühungen um die Integration hier lebender Nicht-Deutscher und Aussiedler
+other	35,43	0	8	um die Integration hier lebender Nicht-Deutscher und Aussiedler
+sbj	66,70	1	9	der Verein Freizeitpark Wittenberge
+dir-obj	70,75	1	10	die Integrationsprogramme der Brandenburgischen Sportjugend
+other	72,75	1	11	der Brandenburgischen Sportjugend
+sbj	130,134	2	5	Der Pritzwalker Harry Stüwe
+other	137,138	2	13	unserer
+other	143,146	2	1	in der Urkunde
+other	149,152	2	0	für sein Engagement

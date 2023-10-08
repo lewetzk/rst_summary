@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,4	0	3	Er
+other	114,115	1	2	seinen
+dir-obj	114,116	1	10	seinen Job
+dir-obj	188,190	2	_	die Courage

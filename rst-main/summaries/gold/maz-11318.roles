@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	76,78	0	1	Sein Nachbar
+dir-obj	79,81	0	0	den Hund
+other	91,94	0	0	um das Tier
+sbj	158,160	1	0	Das Tier
+other	166,168	2	1	des Hundehalters

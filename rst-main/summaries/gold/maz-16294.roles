@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,8	0	16	Der Ausbau des Flughafens Schönefeld
+other	5,8	0	5	des Flughafens Schönefeld
+other	11,14	0	4	für die PDS
+other	56,59	1	2	aus der Hauptstadt
+other	59,61	1	23	ins Dahmeland
+other	71,72	1	28	das
+other	77,79	1	24	im Bürgermeisterwahlkampf
+dir-obj	81,84	2	5	Den Standort Schönefeld
+sbj	85,86	2	0	sie

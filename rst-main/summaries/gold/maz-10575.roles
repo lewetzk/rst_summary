@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	8,10	0	2	Die Stadt
+dir-obj	19,20	0	4	sie
+other	20,23	0	12	in die Erde
+other	29,31	0	13	im Frühjahr
+sbj	148,149	1	20	Das
+other	155,157	1	16	zum Alltag
+sbj	163,168	2	1	Die 30 Mädchen und Jungen
+other	172,178	2	19	in der Neigungsgruppe Biologie und Umwelt

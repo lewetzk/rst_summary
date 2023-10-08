@@ -1,0 +1,32 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,8	1	14	Der Millionen-Kredit des Landes Brandenburg
+other	5,8	2	1	des Landes Brandenburg
+dir-obj	9,13	2	3	für den Abwasserzweckverband Emster
+other	12,13	2	23	Emster
+indir-obj	22,24	3	16	Manfred Meske
+sbj	27,29	4	1	das Land
+other	30,33	4	13	im vorigen Jahr
+other	38,43	4	7	in die Sanierung des AZV
+other	41,43	4	3	des AZV
+sbj	54,59	5	5	Die Verantwortlichen in den Gemeinden
+other	56,59	6	2	in den Gemeinden
+dir-obj	66,68	6	2	Die Region
+other	68,71	7	0	aus der Abwasser-Debatte
+other	74,75	7	5	ihre
+indir-obj	74,76	7	21	ihre Pflicht
+other	77,78	7	10	Dazu
+other	81,84	8	22	der transparenten Öffentlichkeitsarbeit
+indir-obj	85,87	8	1	In Brandenburg
+sbj	88,94	9	0	die Abwasser-Debatte um hoch verschuldetete Zweckverbände
+sbj	99,101	9	1	Das Land
+other	102,105	10	12	mit seinem Schuldenmanagement
+not_specified	103,104	10	11	seinem
+other	108,111	10	18	aus der Misere
+sbj	115,120	11	15	der Lehniner Trink- und Abwasserzweckverband
+other	116,117	11	6	Lehniner
+sbj	128,132	12	9	die fünf zugehörigen Gemeinden
+dir-obj	136,138	12	8	die Haushalte
+dir-obj	147,149	13	4	die Bürgerinitiative
+sbj	158,159	13	4	Die
+sbj	174,180	14	19	das jahrelange Ringen um hohe Millionen-Schulden
+other	181,184	14	20	vor dem Abschluss

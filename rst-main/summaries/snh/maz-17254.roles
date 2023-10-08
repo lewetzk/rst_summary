@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	74,77	0	2	die dortigen Orte
+other	77,80	0	6	aus ihrer Ablehnung
+other	78,79	0	2	ihrer
+sbj	158,159	1	5	Die
+dir-obj	161,162	1	4	Götz
+other	169,176	2	11	Für die austrittswilligen Amtsgemeinden Damsdorf und Gollwitz
+other	173,174	2	28	Damsdorf
+other	175,176	2	29	Gollwitz
+sbj	178,181	2	13	die Groß-Kreutzer Problemlage
+other	179,180	2	7	Groß-Kreutzer

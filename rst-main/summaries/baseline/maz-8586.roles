@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	4,6	0	15	den nächsten
+other	69,74	1	19	für die Krankenhäuser in Rumänien
+other	72,74	1	6	in Rumänien
+other	76,82	1	10	für die hungernden Menschen im Sudan
+other	80,82	1	5	im Sudan
+other	84,90	1	12	für die Opfer einer vernichtenden Überschwemmung
+dir-obj	94,98	1	11	die Kinder in Afghanistan
+other	96,98	1	8	in Afghanistan
+other	98,101	1	9	durch den Winter
+sbj	104,109	1	18	Die verwirrende Zahl von Spendenbegehren
+other	187,188	2	13	darauf

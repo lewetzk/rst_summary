@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,11	0	16	die geplante Abwahl der Kyritzer Bürgermeisterin Bärbel Stewin
+other	6,11	0	3	der Kyritzer Bürgermeisterin Bärbel Stewin
+other	7,8	0	0	Kyritzer
+dir-obj	94,96	1	3	Frau Stewin
+dir-obj	102,104	1	0	die Stadt
+sbj	145,147	2	15	Jeder Kyritzer
+indir-obj	150,153	2	4	bei den Abgeordneten
+other	153,156	2	17	über die Tatsachen
+other	161,164	2	10	aus ihrer Sicht
+other	162,163	2	4	ihrer

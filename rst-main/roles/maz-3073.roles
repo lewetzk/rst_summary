@@ -1,0 +1,30 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	1,5	1	1	Während der vergangenen Monate
+sbj	7,8	2	15	das
+other	10,13	2	8	für die Wochenenden
+sbj	15,21	2	_	sie selten daheim anzutreffen , die
+other	25,28	2	1	In der Erntezeit
+other	33,36	3	9	zur letzten Minute
+other	43,45	4	16	vom Halm
+other	47,50	4	10	aus dem Boden
+sbj	66,68	5	2	die Landwirte
+other	78,81	6	1	in diesen Tagen
+sbj	84,85	6	2	wir
+dir-obj	93,99	7	7	die Arbeit dieser Frauen und Männer
+indir-obj	95,99	7	2	dieser Frauen und Männer
+other	99,101	7	14	übers Jahr
+sbj	106,107	7	2	sie
+dir-obj	111,113	7	3	das Erntefest
+indir-obj	149,151	10	4	der Natur
+sbj	155,172	11	17	die Freude in den Gesichtern der Leute , die Handwagen ziehen , Pferdegespanne führen oder Erntemaschinen lenken
+other	157,160	11	11	in den Gesichtern
+indir-obj	157,172	11	12	in den Gesichtern der Leute , die Handwagen ziehen , Pferdegespanne führen oder Erntemaschinen lenken
+other	160,172	11	2	der Leute , die Handwagen ziehen , Pferdegespanne führen oder Erntemaschinen lenken
+sbj	179,194	11	0	der Ehrgeiz , mit dem sie sich im kommenden Jahr wieder in die Arbeit stürzen
+indir-obj	183,184	11	0	dem
+sbj	184,185	11	2	sie
+indir-obj	186,189	11	18	im kommenden Jahr
+other	190,193	11	13	in die Arbeit
+sbj	196,197	12	6	ich
+other	197,198	12	5	mich
+indir-obj	210,213	12	2	dem lustigen Landvolk

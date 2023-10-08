@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	153,155	2	0	dieses Verwirrspiel
+other	156,157	2	0	es
+dir-obj	159,160	2	2	diejenigen
+dir-obj	166,168	2	1	die Landesgartenschau

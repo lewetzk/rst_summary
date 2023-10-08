@@ -1,0 +1,28 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	16,20	2	4	die Bürger dieser Stadt
+other	18,20	2	2	dieser Stadt
+sbj	24,26	2	2	Die Stadt
+indir-obj	28,31	3	5	der hochverschuldeten Wohnungsbaugesellschaft
+other	32,33	3	2	ihre
+dir-obj	32,34	3	14	ihre Pflichten
+other	37,38	3	13	Das
+sbj	39,52	4	11	der geheime Prüfbericht des Rechnungsprüfungsamtes zur Rolle der Stadt als Gesellschafter des Unternehmens
+other	42,44	4	9	des Rechnungsprüfungsamtes
+other	44,48	4	12	zur Rolle der Stadt
+other	46,48	4	2	der Stadt
+indir-obj	50,52	4	5	des Unternehmens
+other	56,58	5	0	der Geschäftsführung
+sbj	61,62	5	0	Sie
+sbj	86,94	8	7	die Vertreter der Stadt in Gesellschafterversammlung und Aufsichtsrat
+other	88,90	8	2	der Stadt
+other	95,98	8	1	von der Verwaltung
+sbj	103,105	9	8	die Kämmerei
+other	107,112	9	1	für die Vermögensverwaltung der Stadt
+other	108,112	9	10	die Vermögensverwaltung der Stadt
+indir-obj	110,112	9	2	der Stadt
+sbj	121,123	9	15	Das Schlimmste
+sbj	135,138	10	6	Bürgermeister Jochen Wagner
+other	140,143	11	3	auf die Vertraulichkeit
+sbj	147,149	12	4	die Bürger
+other	149,152	12	3	nach diesem Vertrauensbruch
+other	158,161	12	3	aus diesem Desaster

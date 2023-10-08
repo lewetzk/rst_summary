@@ -1,0 +1,31 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	17,20	3	2	An unserer Schule
+other	18,19	4	23	unserer
+sbj	29,31	4	0	Die Polizei
+sbj	52,54	7	17	die Schülerzahlen
+sbj	56,58	7	16	die Schließung
+sbj	61,63	7	2	die Schule
+dir-obj	73,75	8	1	das Problem
+other	81,88	8	10	Unter dem Deckmantel des Wegschauens und Verheimlichens
+other	84,86	9	21	des Wegschauens
+other	84,88	9	18	des Wegschauens und Verheimlichens
+other	84,88	9	18	des Wegschauens und Verheimlichens
+sbj	89,93	9	1	der Drogenhandel und -konsum
+dir-obj	101,103	9	22	die Augen
+other	106,109	9	1	über das Problem
+sbj	111,116	9	12	Die riesigen Gewinnspannen des Drogenhandels
+other	114,116	10	1	des Drogenhandels
+sbj	120,126	10	11	die immensen Preise für illegale Drogen
+dir-obj	127,129	10	14	die Abhängigen
+dir-obj	131,133	10	13	das Geld
+other	143,144	11	15	deshalb
+sbj	148,155	11	8	die Eltern der Jugendlichen im Amtsbereich Temnitz
+other	150,152	11	6	der Jugendlichen
+other	152,155	11	5	im Amtsbereich Temnitz
+other	155,157	11	4	am Dienstag
+other	159,164	11	20	für die Tipps der Polizei
+other	162,164	11	0	der Polizei
+indir-obj	188,190	11	24	der Tochter
+other	190,193	11	7	mit der Taschenlampe
+other	193,195	11	19	ins Auge
+other	198,200	11	3	dieses Wissen

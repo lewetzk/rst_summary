@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,8	0	1	das Bündnis für Arbeit
+sbj	85,89	1	15	Der jüngst geplatzte Termin
+other	91,94	1	23	auf das Gewerkschaftskonto
+other	155,156	2	2	sein
+not_specified	155,157	2	_	sein Erfinder
+other	158,161	2	20	IG-Metall-Chef Klaus Zwickel
+other	165,166	2	2	ihm
+dir-obj	166,168	2	13	den Totenschein

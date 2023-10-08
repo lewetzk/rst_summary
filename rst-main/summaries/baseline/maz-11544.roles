@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,7	0	1	das renommierte Unternehmen Parmalat
+other	6,7	0	3	Parmalat
+sbj	91,92	1	20	das
+sbj	158,165	2	7	die Entscheidung über den Erfolg eines Produkts
+other	160,165	2	8	über den Erfolg eines Produkts

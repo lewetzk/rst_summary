@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	21,23	0	2	Der Bus
+other	25,27	0	12	im Wohnviertel
+other	110,111	1	4	ihre
+dir-obj	110,114	1	8	ihre Wohnung in Berlin
+other	112,114	1	10	in Berlin
+sbj	127,129	2	1	Die Verwaltung
+other	136,141	2	0	gegen den Willen der Bewohner
+other	139,141	2	3	der Bewohner

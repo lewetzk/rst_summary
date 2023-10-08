@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	63,65	1	_	der Eindruck
+other	70,72	1	9	vom Tisch
+sbj	73,75	1	2	die PDS
+sbj	138,142	2	7	die Privatisierung der Flughafengesellschaft
+other	140,142	2	8	der Flughafengesellschaft

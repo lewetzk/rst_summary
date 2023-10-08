@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,9	0	16	der Konflikt im Nahen Osten
+other	6,9	0	18	im Nahen Osten
+other	18,19	0	17	darüber
+sbj	22,24	0	5	Ariel Scharon
+sbj	25,27	0	9	Jassir Arafat
+sbj	132,144	2	13	Das vom israelischen Premier verhängte Reiseverbot für Arafat zur Christmette nach Bethlehem
+other	133,136	2	5	vom israelischen Premier
+other	138,140	2	9	für Arafat
+other	140,144	2	12	zur Christmette nach Bethlehem
+other	142,144	2	14	nach Bethlehem

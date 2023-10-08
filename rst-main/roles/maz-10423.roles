@@ -1,0 +1,36 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,14	1	15	Die von den Elstalern lange herbei gesehnte Umgehungsstraße für den historischen Ortskern
+other	3,6	2	2	von den Elstalern
+other	10,14	2	0	für den historischen Ortskern
+other	17,18	2	24	Damit
+other	20,25	3	18	der wichtigsten Straßenbauvorhaben der Gemeinde
+not_specified	23,25	3	17	der Gemeinde
+sbj	30,32	4	4	die Freude
+sbj	37,39	5	1	die Bahnhofstraße
+other	39,40	5	1	ihrem
+indir-obj	39,41	5	3	ihrem Namen
+sbj	48,50	6	1	die Fahrbahn
+other	65,66	6	26	Daran
+other	87,90	8	1	auf der Fahrbahn
+other	92,95	9	14	für die Freizeitsportler
+other	97,100	9	2	für die Elstaler
+sbj	101,102	9	12	das
+sbj	103,104	9	2	sie
+other	107,108	9	13	damit
+other	112,118	9	0	durch ihre unter Denkmalschutz stehende Ortsmitte
+other	113,114	9	5	ihre
+sbj	122,124	10	16	der Bahnhaltepunkt
+sbj	129,131	10	1	die Straße
+other	131,132	10	1	ihren
+dir-obj	131,134	10	_	ihren eigentlichen Zweck
+dir-obj	137,139	10	8	den Verkehr
+other	139,142	10	7	aus dem Ort
+other	146,147	10	25	Damit
+sbj	150,153	11	11	der anstehende Generalverkehrsplan
+sbj	163,164	11	19	Demex
+other	164,173	11	20	im Zuge der neuen Investitionen am Designer Outlet Center
+other	166,173	11	23	der neuen Investitionen am Designer Outlet Center
+other	169,173	11	22	am Designer Outlet Center
+dir-obj	175,178	11	_	den " Alten
+not_specified	177,180	11	9	Alten Spandauer Weg
+sbj	185,187	11	10	der Außenring

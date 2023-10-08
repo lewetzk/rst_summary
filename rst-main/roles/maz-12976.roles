@@ -1,0 +1,31 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	1,4	1	12	Umweltminister Jürgen Trittin
+dir-obj	5,6	2	16	es
+sbj	12,14	2	13	Die Krise
+other	15,18	3	14	bei den Grünen
+other	18,20	3	15	der Normalzustand
+sbj	30,31	4	1	sie
+dir-obj	34,36	4	_	die Frage
+other	43,46	4	3	in der Bundesregierung
+sbj	49,51	5	18	die Vorzeichen
+other	56,58	5	17	in Rostock
+other	68,71	5	0	gegen den Militär-Einsatz
+other	68,79	5	20	gegen den Militär-Einsatz und für die weitere Beteiligung an der Bundesregierung
+other	72,79	5	19	für die weitere Beteiligung an der Bundesregierung
+other	76,79	5	3	an der Bundesregierung
+sbj	80,83	5	2	Außenminister Joschka Fischer
+other	85,86	6	2	seiner
+indir-obj	85,87	6	4	seiner Basis
+sbj	100,102	7	4	die Basis
+dir-obj	103,105	7	10	die Moral
+dir-obj	107,108	7	2	ihn
+dir-obj	108,111	7	11	die realpolitische Schmutzarbeit
+dir-obj	114,116	7	0	Den Einsatz
+other	124,125	8	7	Brandenburgs
+dir-obj	126,127	8	8	dies
+not_specified	130,134	8	9	der Gipfel parteipolitischer Bigotterie
+sbj	136,138	9	4	die Basis
+dir-obj	139,141	9	2	den Minister
+sbj	142,143	9	4	sie
+dir-obj	144,145	9	2	ihn
+other	146,147	9	6	Dazwischen

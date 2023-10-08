@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	103,106	0	1	die weiße Weihnacht
+indir-obj	111,113	0	20	der Vergangenheit
+sbj	145,147	1	2	des Fest
+indir-obj	159,164	2	6	den Menschen in diesen Regionen
+other	161,164	2	5	in diesen Regionen
+sbj	164,169	2	9	die Wetterunbilden auf den Straßen
+other	166,169	2	7	auf den Straßen
+sbj	180,182	3	8	die Folgen
+other	182,185	3	0	in der Prignitz

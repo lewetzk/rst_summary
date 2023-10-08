@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,4	0	4	Diepensee
+sbj	63,65	1	16	die Stadtverordneten
+other	69,77	1	21	für die weitere Erschließung des neuen Ortsteils Diepensee
+other	73,77	1	4	des neuen Ortsteils Diepensee

@@ -1,0 +1,45 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,7	1	2	Die Deutsche Bahn AG
+sbj	12,13	2	_	Sie
+dir-obj	14,27	3	_	das Ergebnis der Wirtschaftlichkeitsrechnung für den Betrieb der Stammbahn von Potsdam nach Berlin
+other	16,18	3	_	der Wirtschaftlichkeitsrechnung
+other	18,27	3	_	für den Betrieb der Stammbahn von Potsdam nach Berlin
+other	21,27	3	_	der Stammbahn von Potsdam nach Berlin
+other	23,25	3	_	von Potsdam
+other	25,27	3	_	nach Berlin
+other	27,30	3	_	in diesem Jahr
+dir-obj	35,39	3	_	die Bekanntgabe der Zahlen
+other	37,39	3	_	der Zahlen
+sbj	43,45	3	_	Das Unternehmen
+other	46,47	4	_	dadurch
+sbj	50,55	4	_	die bis 1945 existierende Bahnstrecke
+other	65,70	5	_	den neuesten Verlautbarungen des Bahnsprechers
+indir-obj	65,74	5	_	den neuesten Verlautbarungen des Bahnsprechers und der Kleinmachnower Initiative
+other	68,70	5	_	des Bahnsprechers
+other	71,74	5	_	der Kleinmachnower Initiative
+other	72,73	5	3	Kleinmachnower
+other	75,76	5	16	Stammbahn
+other	78,79	5	_	dem
+dir-obj	94,102	6	_	die Belastungen für die Länder Berlin und Brandenburg
+other	96,102	6	_	für die Länder Berlin und Brandenburg
+other	99,100	6	_	Berlin
+other	101,102	6	_	Brandenburg
+other	105,110	6	_	Für die Realisierung des Projekts
+other	108,110	7	_	des Projekts
+sbj	111,113	7	23	die Zeit
+sbj	117,119	8	_	der Bund
+dir-obj	129,137	8	_	die Einführung der Gleise in den Berliner Tiergartentunnel
+other	131,133	8	_	der Gleise
+other	133,137	8	_	in den Berliner Tiergartentunnel
+other	135,136	8	_	Berliner
+sbj	141,143	9	_	die Stammbahn
+sbj	148,152	9	_	die Deutsche Bahn AG
+dir-obj	152,154	9	_	dieses Geld
+other	156,158	9	_	Der Klärung
+other	159,160	10	_	außerdem
+sbj	162,173	10	_	das Problem des Schallschutzes für betroffene Anwohner in Kleinmachnow und Berlin
+other	164,173	10	_	des Schallschutzes für betroffene Anwohner in Kleinmachnow und Berlin
+other	169,171	10	_	in Kleinmachnow
+other	169,173	10	_	in Kleinmachnow und Berlin
+other	181,183	10	_	beim Endlos-Thema
+other	184,185	10	_	Stammbahn

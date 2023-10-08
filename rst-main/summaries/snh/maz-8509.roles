@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	124,126	0	15	die Stadtväter
+dir-obj	126,132	0	7	die für den Bürger kostenlose Laubentsorgung
+other	127,130	0	1	für den Bürger

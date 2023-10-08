@@ -1,0 +1,30 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	15,25	3	1	um die Besetzung eines so wichtigen Postens wie des Bürgermeisters
+other	22,25	3	20	wie des Bürgermeisters
+other	37,41	4	3	vor dem ersten Wahltag
+other	42,44	4	0	in Velten
+sbj	48,53	4	22	der Streit um die Sache
+other	50,53	4	1	um die Sache
+sbj	59,67	4	13	der Treffer am Mann oder an der Frau
+not_specified	61,63	4	23	am Mann
+not_specified	61,67	4	24	am Mann oder an der Frau
+not_specified	64,67	4	4	an der Frau
+sbj	68,69	4	19	Das
+other	75,80	6	2	weniger an den Kandidaten selbst
+other	75,80	6	2	weniger an den Kandidaten selbst
+other	83,85	6	_	an denen
+other	87,89	6	2	hinter ihnen
+sbj	93,96	6	15	Das ganze Programm
+other	99,103	7	17	Auf der einen Seite
+other	107,110	8	18	zur öffentlichen Angelegenheit
+other	112,116	8	16	auf der anderen Seite
+dir-obj	125,127	8	21	die Autoren
+dir-obj	138,143	9	6	das Wahlergebnis vom 11. November
+other	140,143	9	9	vom 11. November
+other	147,150	9	8	am 2. Dezember
+sbj	150,155	9	5	der Sieg des eigenen Kandidaten
+other	152,155	9	7	des eigenen Kandidaten
+other	165,170	10	11	um den Verfall der Sitten
+other	168,170	10	12	der Sitten
+indir-obj	176,178	10	0	der Stadt
+not_specified	180,183	10	25	Nicht dem Ego

@@ -1,0 +1,26 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,5	1	2	Das Thema Tourismus
+other	6,12	2	4	in der größten Stadt des Kreises
+other	10,12	2	0	des Kreises
+other	16,19	2	15	Das jüngste Kapitel
+sbj	20,27	3	_	Die in den letzten Jahren zaghaft gewachsene
+other	21,25	3	16	in den letzten Jahren
+other	28,32	3	5	im Bewusstsein vieler Interessierter
+other	35,38	3	6	in der Stadthalle
+other	39,41	3	7	am Jahresende
+sbj	43,48	3	19	Die bisherige Förderung vom Arbeitsamt
+other	46,48	4	20	vom Arbeitsamt
+other	70,72	7	4	in Falkensee
+not_specified	88,91	8	18	vor diesem Hintergrund
+dir-obj	91,94	8	1	ein Tourismusverband Havelland
+dir-obj	91,94	8	1	ein Tourismusverband Havelland
+other	93,94	8	0	Havelland
+other	102,114	8	13	in seinem schon wegen der Nähe zur Hauptstadt nicht unattraktiven östlichen Teil
+other	103,104	8	1	seinem
+other	104,110	8	12	schon wegen der Nähe zur Hauptstadt
+other	108,110	8	11	zur Hauptstadt
+sbj	123,128	8	9	Die Verantwortlichen im Falkenseer Rathaus
+not_specified	125,128	9	17	im Falkenseer Rathaus
+other	141,143	9	10	im Haushalt
+other	147,150	9	2	für diese Belange
+other	187,189	10	3	an beidem

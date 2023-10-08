@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	159,160	0	2	Sie
+indir-obj	162,165	0	9	dem Landkreis Ost-prignitz-Ruppin
+dir-obj	167,173	0	8	die nichtmilitärische Nutzung der Kyritz-Ruppiner Heide
+other	170,173	0	0	der Kyritz-Ruppiner Heide
+sbj	175,180	1	_	Überzeugung oder einfach nur Verdrängung
+other	38,40	2	7	der Bundesrepublik
+other	47,52	2	6	mit den Interessen des Tourismus
+other	50,52	2	4	des Tourismus

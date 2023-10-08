@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	23,26	0	7	die letzten Einkäufe
+sbj	177,179	1	13	die MAZ
+indir-obj	39,43	2	0	am heutigen Heiligen Abend
+other	43,44	2	12	seinen
+indir-obj	43,45	2	8	seinen Lieben

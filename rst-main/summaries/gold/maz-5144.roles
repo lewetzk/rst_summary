@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	61,64	0	3	Der zuständige Stab
+other	102,105	1	5	Landrat Christian Gilde
+dir-obj	113,121	1	9	das Reagieren auf möglichen Terror und seine Folgen
+other	115,121	1	0	auf möglichen Terror und seine Folgen
+other	119,120	1	0	seine
+other	119,121	1	7	seine Folgen

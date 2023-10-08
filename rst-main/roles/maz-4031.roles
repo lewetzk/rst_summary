@@ -1,0 +1,28 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	5,7	2	11	Die Besucherquote
+dir-obj	8,12	3	12	die Ausrichter des Preußenjahres
+other	10,12	3	1	des Preußenjahres
+other	12,18	3	13	schon zweieinhalb Monate vor seinem Ende
+other	16,17	3	1	seinem
+sbj	20,22	3	5	Das Hohenzollernland
+other	28,29	4	16	Brandenburgs
+other	28,31	4	0	Brandenburgs Kulturministerin Wanka
+dir-obj	28,36	4	3	Brandenburgs Kulturministerin Wanka und ihre Berliner Kollegin Goehler
+other	32,33	4	0	ihre
+other	32,36	4	7	ihre Berliner Kollegin Goehler
+other	36,39	4	6	aus dieser Erhebung
+indir-obj	43,46	5	15	der borussischen Kampagne
+sbj	52,53	5	3	sie
+sbj	59,60	6	4	die
+sbj	70,74	7	_	die große Berliner Eröffnungsschau
+sbj	82,87	7	18	das ehrenwerte Deutsche Historische Museum
+other	92,97	7	10	Nach der jetzt offiziellen Statistik
+sbj	127,128	10	2	Preußen
+other	128,130	10	14	im Titel
+other	137,138	10	2	Preußen
+sbj	142,147	10	17	Die Malerei Kirchners und Caravaggios
+other	144,145	11	21	Kirchners
+other	144,147	11	9	Kirchners und Caravaggios
+other	146,147	11	20	Caravaggios
+indir-obj	158,161	11	8	dem Ruhme Preußens
+other	160,161	11	2	Preußens

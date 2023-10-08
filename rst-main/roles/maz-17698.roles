@@ -1,0 +1,25 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	5,8	2	13	bei dieser Frage
+other	9,12	2	14	auf den Boden
+other	24,28	3	15	die meiste Zeit über
+other	34,35	3	21	dabei
+sbj	39,42	4	5	der Gedanke daran
+other	41,42	4	20	daran
+sbj	50,52	4	4	der Nikotinkonsum
+other	66,68	4	19	im Freien
+other	68,71	4	12	mitten in Manhattan
+sbj	78,79	5	10	Deutschland
+sbj	97,98	6	1	er
+sbj	109,111	7	_	die Beharrlichkeit
+sbj	116,119	7	2	die Falkenseer Stadtverwaltung
+other	117,118	7	18	Falkenseer
+dir-obj	122,127	7	_	die Konzerterlaubnis für die Stadthalle
+other	124,127	7	_	für die Stadthalle
+other	130,134	7	11	der letzten rauchfreien Bastionen
+sbj	146,151	8	_	Wer ernsthaft über Jugendschutz redet
+other	164,166	9	8	zum Bodenturnen
+other	176,181	9	6	am Morgen nach der Weihnachtsfeier
+other	178,181	9	7	nach der Weihnachtsfeier
+sbj	182,184	9	9	Dieses Prinzip
+indir-obj	185,187	9	2	den Verantwortlichen
+sbj	193,194	9	2	sie

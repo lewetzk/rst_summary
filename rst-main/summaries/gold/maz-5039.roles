@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	104,110	2	0	auch die Mitarbeiter des Hennigsdorfer Briefzentrums
+other	107,110	2	10	des Hennigsdorfer Briefzentrums
+other	108,109	2	11	Hennigsdorfer
+sbj	112,113	2	0	sie

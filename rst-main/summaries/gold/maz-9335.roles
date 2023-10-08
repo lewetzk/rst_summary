@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,7	0	11	Die Stimmung im Pritzwalker Minimal-Markt
+other	4,7	0	2	im Pritzwalker Minimal-Markt
+other	5,6	0	14	Pritzwalker
+other	17,20	1	12	vor der Entlassung
+sbj	21,24	2	5	Wohl die wenigsten
+other	31,33	2	0	des Rewe-Konzerns

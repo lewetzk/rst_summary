@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	70,75	1	1	Nach den Anschlägen in Amerika
+other	73,75	1	9	in Amerika
+sbj	76,78	1	17	dieser Zustand
+other	186,189	2	18	in den Köpfen

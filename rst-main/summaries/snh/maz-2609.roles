@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+not_specified	150,151	0	23	Einsteins
+sbj	162,163	1	19	Brandenburg
+dir-obj	165,171	1	9	die rote Laterne in der Wissenschaftsförderung
+other	168,171	1	8	in der Wissenschaftsförderung

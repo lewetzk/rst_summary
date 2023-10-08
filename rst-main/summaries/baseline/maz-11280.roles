@@ -1,0 +1,15 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	8,9	0	3	sie
+sbj	96,100	1	16	die Hälfte der Abfälle
+other	98,100	1	0	der Abfälle
+other	101,105	1	15	in den falschen Kreislauf
+sbj	162,163	2	4	Sie
+other	164,165	2	4	ihre
+dir-obj	164,166	2	10	ihre Entscheidung
+other	171,174	2	_	neben dem Effekt
+sbj	176,178	2	11	die Schmuddelecken
+sbj	181,190	2	23	der Weg mit dem gelben Sack vor die Haustür
+other	183,187	2	26	mit dem gelben Sack
+other	187,190	2	9	vor die Haustür
+other	192,196	2	20	die Fahrt zum Container
+other	194,196	2	22	zum Container

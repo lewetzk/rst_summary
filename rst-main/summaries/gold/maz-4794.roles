@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,5	0	_	Die Palette
+sbj	113,116	1	_	Die Politik hingegen
+other	119,122	1	1	in diesem Jahr

@@ -1,0 +1,4 @@
+#Es bleibt spannend
+0	Die Deutsche Bahn AG macht es richtig spannend.
+5	Für die Realisierung des Projekts wird die Zeit langsam knapp.
+10	Es bleibt also spannend beim Endlos-Thema "Stammbahn".

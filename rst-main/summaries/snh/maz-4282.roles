@@ -1,0 +1,13 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	8,11	0	14	spielen die Dallgower
+other	9,10	0	7	die
+other	15,21	0	17	verzagt wie die deutsche Abwehrreihe der
+other	19,21	0	1	Abwehrreihe der
+other	25,28	1	9	kommt aus der
+sbj	85,86	2	5	sollen
+sbj	89,90	2	5	wie
+dir-obj	90,92	2	0	sie die
+sbj	99,101	3	16	künftig die
+other	105,109	3	15	wäre in der jetzigen
+sbj	141,142	4	3	dass
+other	147,149	4	11	" Döberitzer

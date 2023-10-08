@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+indir-obj	100,102	0	1	der Regierung
+sbj	105,107	0	_	der Mut
+dir-obj	109,111	0	11	den Arbeitsmarkt

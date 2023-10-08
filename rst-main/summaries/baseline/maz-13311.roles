@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	5,8	0	13	Das ganze Leben
+sbj	12,13	0	9	wir
+other	14,17	0	1	nur die Kandidaten
+sbj	23,25	0	2	Hape Kerkeling
+sbj	89,92	1	3	die gebührenfinanzierten Programme
+other	92,93	1	3	ihren
+dir-obj	92,94	1	_	ihren Auftrag
+dir-obj	95,100	1	10	die fernsehpublizistische und politische Grundversorgung

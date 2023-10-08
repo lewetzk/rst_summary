@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	124,126	0	_	Der Verein
+not_specified	127,129	0	15	Historisches Reckahn
+not_specified	128,129	0	30	Reckahn
+other	130,135	0	14	mit seinem Vorsitzenden Otto-Günther Beckmann
+not_specified	131,132	0	24	seinem
+not_specified	134,135	0	17	Beckmann
+other	137,146	0	12	auf die große Resonanz seiner Arbeit in der Öffentlichkeit
+other	141,142	0	7	seiner
+other	141,146	0	13	seiner Arbeit in der Öffentlichkeit
+other	143,146	0	16	in der Öffentlichkeit

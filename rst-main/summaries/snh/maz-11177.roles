@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	66,68	0	2	Die Region
+other	68,71	0	0	aus der Abwasser-Debatte
+other	74,75	0	5	ihre
+indir-obj	74,76	0	21	ihre Pflicht
+dir-obj	147,149	2	4	die Bürgerinitiative

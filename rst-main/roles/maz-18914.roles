@@ -1,0 +1,29 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	1,4	1	2	Mit Helga Kaden
+indir-obj	9,11	2	0	der Stadt
+sbj	14,15	2	2	Sie
+other	16,17	3	2	ihr
+dir-obj	16,19	3	10	ihr traditionsreiches Geschäft
+other	19,23	3	11	wegen der anhaltenden Kundenflaute
+other	33,34	4	2	ihr
+sbj	33,35	4	12	ihr Konzept
+sbj	38,41	4	1	Die exklusiven Sachen
+other	42,43	5	1	ihren
+dir-obj	42,44	5	13	ihren Preis
+sbj	55,56	6	1	das
+indir-obj	66,68	6	14	dem Beispiel
+other	72,76	7	4	in der schönen Weihnachtszeit
+sbj	78,83	7	6	das Elend des innerstädtischen Einzelhandels
+other	80,83	7	9	des innerstädtischen Einzelhandels
+other	94,97	8	0	für die Stadt
+other	107,110	9	5	für den Schwenk
+other	110,113	9	0	in die City
+other	116,120	10	3	für den neuen Bürgermeister
+sbj	121,123	10	0	Die Stadt
+sbj	129,130	11	0	sie
+sbj	137,142	12	16	Die Parkgebühren in der Einkaufszone
+other	139,142	12	15	in der Einkaufszone
+sbj	155,157	13	0	die Stadt
+sbj	165,166	13	0	sie
+indir-obj	171,173	13	17	den Eigentümern
+sbj	187,189	14	7	der Grundsatz

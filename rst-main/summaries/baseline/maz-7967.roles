@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,7	0	1	Die Schönfließer Straße in Glienicke
+other	5,7	0	16	in Glienicke
+other	109,110	1	18	Drum
+sbj	111,113	1	1	die Straße
+other	114,118	1	_	zum Nachteil von Verkehrssicherheit
+other	177,179	2	3	Minister Meyer
+sbj	181,182	2	3	Sie

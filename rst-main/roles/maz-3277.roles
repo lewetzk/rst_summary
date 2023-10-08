@@ -1,0 +1,29 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,5	1	2	Der Vorteil
+other	11,12	2	2	Damit
+sbj	13,16	3	0	die gelbe Post
+sbj	18,19	3	0	sie
+other	20,21	3	0	ihrer
+indir-obj	20,23	3	12	ihrer Tochter McPaper
+dir-obj	69,71	5	16	die Öffnungszeiten
+other	83,85	6	19	am Sonnabend
+other	85,88	6	18	an ihre Schließfächer
+other	86,87	6	4	ihre
+other	102,108	8	15	mit der Schließung in der Bahnhofstraße
+other	105,108	8	10	in der Bahnhofstraße
+other	112,115	8	11	des Kyritzer Postgebäudes
+other	113,114	8	3	Kyritzer
+sbj	127,134	9	1	die Schließung der Filiale am Rehfelder Weg
+other	129,134	9	13	der Filiale am Rehfelder Weg
+other	131,134	9	14	am Rehfelder Weg
+sbj	135,136	9	1	Sie
+indir-obj	137,142	10	6	den Leuten aus Kyritz West
+other	139,142	10	3	aus Kyritz West
+sbj	148,150	11	5	die Älteren
+other	153,156	11	1	auf das Aus
+indir-obj	159,160	12	5	ihnen
+sbj	160,170	12	9	die Verlagerung an einen neuen Standort mit den längeren Öffnungszeiten
+other	166,170	12	8	mit den längeren Öffnungszeiten
+sbj	172,173	12	5	sie
+sbj	180,183	13	_	nur der Hinweis
+indir-obj	185,187	13	_	den Zustellerinnen

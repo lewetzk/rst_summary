@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	155,156	0	2	sein
+not_specified	155,157	0	_	sein Erfinder
+other	158,161	0	20	IG-Metall-Chef Klaus Zwickel
+other	165,166	0	2	ihm
+dir-obj	166,168	0	13	den Totenschein
+sbj	4,8	2	1	das Bündnis für Arbeit

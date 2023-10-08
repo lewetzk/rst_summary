@@ -1,0 +1,32 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	5,12	2	16	das Raumordnungsverfahren für die Autobahntrasse zur A2
+other	7,12	2	3	für die Autobahntrasse zur A2
+other	10,12	2	15	zur A2
+dir-obj	18,20	3	17	die Unterlagen
+other	22,25	3	6	in den Ämtern
+other	27,33	3	7	In den Planungsvarianten für einen A_2-Zubringer
+sbj	34,37	4	1	das Havelstädtchen Pritzerbe
+other	43,46	5	20	der Rathenower Region
+other	44,45	5	5	Rathenower
+other	46,48	5	13	über Milow
+sbj	52,55	5	19	die Döberitzer Variante
+other	53,54	5	8	Döberitzer
+other	57,59	5	22	des Naturschutzes
+sbj	63,64	5	1	Pritzerbe
+other	64,67	5	21	mit seiner Favoritenrolle
+other	65,66	5	1	seiner
+other	69,72	5	0	Für die Stadtverordneten
+sbj	73,74	6	12	das
+sbj	79,80	6	4	Diese
+other	100,103	8	14	um die Verhandlungsmasse
+sbj	106,108	9	0	die Kommune
+sbj	106,110	9	18	die Kommune oder Bürger
+other	118,123	9	2	für die nächsten hundert Jahre
+other	118,126	9	9	für die nächsten hundert Jahre und darüber hinaus
+other	124,125	9	2	darüber
+other	133,135	10	1	für Pritzerbe
+sbj	148,150	11	11	die Region
+other	150,153	11	10	vom Wirtschaftsstandort Premnitz/Rathenow
+sbj	158,164	11	_	er denn überhaupt kommt , der
+not_specified	163,165	11	_	der Aufschwung
+other	169,171	11	3	vom A_2-Zubringer

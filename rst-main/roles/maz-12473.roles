@@ -1,0 +1,28 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,3	1	16	Deutschland
+other	4,8	2	12	am Rande einer Rezession
+sbj	10,12	2	11	die Aussichten
+other	16,23	2	2	Schon im zweiten Quartal des laufenden Jahres
+other	20,23	3	13	des laufenden Jahres
+sbj	25,27	3	3	die Wirtschaft
+other	31,36	3	_	Auch für das dritte Quartal
+other	48,50	4	1	des Wachstums
+other	53,58	4	10	Zu diesen eher objektiven Zahlen
+sbj	60,62	5	_	die subjektiven
+not_specified	63,66	5	19	die individuellen Erwartungen
+sbj	78,81	7	0	auch die Unternehmer
+dir-obj	81,83	7	22	den Mut
+other	85,89	7	8	Nach dem Münchener Geschäftsklima-Index
+sbj	90,91	8	0	sie
+dir-obj	91,97	8	9	die Aussichten der nächsten sechs Monate
+not_specified	93,97	8	7	der nächsten sechs Monate
+other	100,102	8	17	im September
+sbj	110,112	10	0	die Unternehmen
+sbj	116,117	10	0	sie
+other	117,118	10	0	ihre
+dir-obj	117,119	10	21	ihre Investitionen
+sbj	121,122	10	4	Das
+sbj	128,136	11	14	der im ersten Halbjahr noch starke private Konsum
+other	129,132	11	15	im ersten Halbjahr
+sbj	141,143	11	_	der Export
+dir-obj	147,150	11	6	die deutsche Konjunktur

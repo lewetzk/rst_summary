@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	41,42	0	9	Arafat
+sbj	44,45	0	5	Scharon
+sbj	4,9	1	16	der Konflikt im Nahen Osten
+other	6,9	1	18	im Nahen Osten
+other	18,19	1	17	darüber
+sbj	22,24	1	5	Ariel Scharon
+sbj	25,27	1	9	Jassir Arafat
+other	58,61	2	7	auf beiden Seiten
+sbj	66,70	2	19	der Einfluss von außen
+dir-obj	71,73	2	3	diesen Poker

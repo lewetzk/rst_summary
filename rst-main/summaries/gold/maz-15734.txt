@@ -1,0 +1,3 @@
+4	Parkende Autos bis an die Einmündungen behindern die Sicht.
+6	Fußgänger und Radfahrer wuseln dazwischen und sollen keinen Schaden nehmen.
+17	Alle werden nie zufrieden sein.

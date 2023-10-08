@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,4	0	4	Diepensee
+other	31,33	1	1	der Ausbau-Planer
+other	45,51	2	0	nur vorbehaltlich der Privatisierung der Flughafen-Holding
+other	49,51	2	1	der Flughafen-Holding

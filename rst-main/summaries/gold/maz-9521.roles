@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	36,38	0	3	Finanzstadtrat Bosse
+other	41,44	0	4	aus der Zeitung
+sbj	48,49	0	3	er
+other	49,52	0	5	im Sommer 2002

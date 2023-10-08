@@ -1,0 +1,4 @@
+#Zwiespältig
+0	Christian Gildes Wiederwahl als Landrat war ein Erfolg.
+8	Das ist eine zwiespältige Entscheidung.
+16	Der Landrat hat die Wahl gewonnen, doch sich auf seinen Lorbeeren ausruhen - das kann er nicht.

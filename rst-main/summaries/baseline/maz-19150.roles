@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,5	0	2	Das Thema Tourismus
+other	6,12	0	4	in der größten Stadt des Kreises
+other	10,12	0	0	des Kreises
+other	187,189	2	3	an beidem

@@ -1,0 +1,26 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	2,6	1	2	Um die deutschen Legehennen
+sbj	12,15	2	0	Bundesagrarministerin Renate Künast
+dir-obj	16,23	3	1	das Halten der Tiere in engen Legebatterien
+other	18,20	3	2	der Tiere
+other	23,28	3	13	bereits vom Jahr 2006 an
+other	30,33	3	4	In den EU-Nachbarländern
+sbj	34,35	4	16	das
+other	42,46	5	14	aus der ganzen Republik
+other	48,49	5	0	Künasts
+sbj	52,56	5	3	Die Betriebe im Osten
+other	54,56	6	15	im Osten
+sbj	59,62	6	_	die hohen Investitionen
+sbj	64,65	6	3	sie
+other	78,80	6	18	Im Westen
+sbj	81,83	7	_	die Sorge
+dir-obj	93,96	7	11	den deutschen Markt
+sbj	109,111	8	0	Ministerin Künast
+other	118,120	9	_	Am Grundsatz
+dir-obj	121,123	10	1	die Käfighaltung
+sbj	126,127	10	0	sie
+other	134,142	11	10	zu den Eckpunkten der von ihr propagierten Agrarwende
+other	137,142	11	6	der von ihr propagierten Agrarwende
+other	138,140	11	0	von ihr
+other	149,151	11	8	beim Einkauf
+other	152,157	11	9	zu den tierfreundlich erzeugten Eiern

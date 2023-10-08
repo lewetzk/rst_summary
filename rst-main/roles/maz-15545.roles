@@ -1,0 +1,27 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,8	1	1	Die Falkenseer Verwaltung und Havelbus
+dir-obj	9,15	2	2	die Buslinie Bahnhof Falkensee - Dallgow
+other	16,19	2	16	an die Leute
+sbj	21,23	2	2	Der Bus
+other	25,27	3	12	im Wohnviertel
+sbj	29,41	3	13	Doch das Angebot , nahe der Haustür den Personennahverkehr nutzen zu können
+other	33,36	4	14	nahe der Haustür
+other	36,38	4	5	den Personennahverkehr
+sbj	46,47	4	5	Er
+sbj	55,57	5	15	Die Ablehnung
+other	58,61	6	1	in der Verwaltung
+sbj	86,88	8	9	der Bauherr
+other	90,96	8	11	bei Verkauf und Vermietung der Häuser
+other	110,111	9	4	ihre
+dir-obj	110,114	9	8	ihre Wohnung in Berlin
+other	112,114	9	10	in Berlin
+sbj	127,129	9	1	Die Verwaltung
+other	136,141	10	0	gegen den Willen der Bewohner
+other	139,141	10	3	der Bewohner
+sbj	148,152	11	0	der Wille der Bewohner
+other	150,152	11	3	der Bewohner
+other	155,158	12	6	in der Parkstadt
+dir-obj	163,165	12	7	den Bus
+indir-obj	165,170	12	18	dem Verkehr vieler einzelner Autos
+other	179,185	13	17	gegen den Willen der tatsächlichen Mehrheit
+other	182,185	13	19	der tatsächlichen Mehrheit

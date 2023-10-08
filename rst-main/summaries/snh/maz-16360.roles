@@ -1,0 +1,15 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	19,24	0	8	Der Kyritzer Bäckermeister Thomas Haupt
+other	26,31	0	1	zum Spezialitätenwettbewerb der Prignitzer Bäcker-Innung
+other	28,31	0	5	der Prignitzer Bäcker-Innung
+other	29,30	0	3	Prignitzer
+sbj	55,59	1	20	Auch die anderen Bäckermeister
+sbj	122,124	2	0	Die Meister
+other	126,127	2	0	ihre
+dir-obj	126,128	2	4	ihre Spezialitäten
+other	128,132	2	10	auf der Grünen Woche
+other	134,135	3	11	damit
+other	135,138	3	3	für die Prignitz
+sbj	140,142	4	1	Der Wettbewerb
+other	148,150	4	5	im Handwerk
+other	176,179	5	1	Mit der PR-Aktion

@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	64,65	0	3	ihn
+other	65,66	0	3	sein
+sbj	65,67	0	0	sein Chef
+indir-obj	74,76	1	20	dem Publikum
+other	80,82	1	21	im Januar
+dir-obj	128,130	2	10	die Stegreifkomödie
+sbj	161,163	3	3	Der Noch-Beigeordnete
+dir-obj	164,168	3	2	das Manuskript seiner Haushaltsrede
+other	166,167	3	3	seiner
+other	166,168	3	23	seiner Haushaltsrede

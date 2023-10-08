@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	1,4	0	12	Umweltminister Jürgen Trittin
+dir-obj	5,6	0	16	es
+sbj	12,14	0	13	Die Krise
+other	15,18	0	14	bei den Grünen
+other	18,20	0	15	der Normalzustand
+sbj	80,83	1	2	Außenminister Joschka Fischer
+other	85,86	1	2	seiner
+indir-obj	85,87	1	4	seiner Basis
+other	146,147	2	6	Dazwischen

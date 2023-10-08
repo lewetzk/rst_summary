@@ -1,0 +1,44 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	1,9	1	16	Die jüngste Entwicklung in Groß Kreutz und Götz
+other	4,7	2	7	in Groß Kreutz
+other	4,9	2	0	in Groß Kreutz und Götz
+other	11,21	2	17	für die Kommunalpolitiker , die das Amt Emster-Havel erhalten wollen
+other	16,19	2	1	das Amt Emster-Havel
+other	29,34	3	18	um die Zukunft der Verwaltungseinheit
+other	32,34	3	1	der Verwaltungseinheit
+dir-obj	37,43	3	_	die Schwächung des Amtes Groß Kreutz
+other	39,43	3	19	des Amtes Groß Kreutz
+other	41,43	3	7	Groß Kreutz
+other	43,49	3	_	durch die Austrittswünsche zweier Gemeinden Emster-Havel
+other	46,49	3	_	zweier Gemeinden Emster-Havel
+sbj	53,56	4	9	Bürgermeister Detlef Lemke
+other	62,66	4	10	für den Götzer Beitritt
+other	64,65	4	4	Götzer
+other	66,69	4	8	zur Groß-Kreutzer Großgemeinde
+sbj	74,77	5	2	die dortigen Orte
+other	77,80	5	6	aus ihrer Ablehnung
+other	78,79	5	2	ihrer
+other	84,85	6	14	daran
+dir-obj	86,91	6	22	die rigorose Absage des Landes
+sbj	92,93	6	4	Götz
+other	95,97	6	21	zur Entschuldung
+indir-obj	101,106	7	23	der eigenen Haushaltsnot der Landesregierung
+other	108,111	7	6	bei dieser Absage
+other	121,122	8	7	Groß-Kreutzer
+sbj	121,124	8	3	Groß-Kreutzer Amtsdirektor Meske
+sbj	126,127	8	4	Götz
+dir-obj	127,129	8	15	den Weg
+other	129,132	8	24	in seinen Verbund
+other	130,131	8	3	seinen
+sbj	137,138	9	4	Götz
+other	141,143	9	25	nach Emster-Havel
+sbj	150,157	9	5	die schon wartenden Gemeinden Schenkenberg und Jeserig
+other	154,155	9	26	Schenkenberg
+other	156,157	9	27	Jeserig
+sbj	158,159	9	5	Die
+dir-obj	161,162	10	4	Götz
+other	169,176	10	11	Für die austrittswilligen Amtsgemeinden Damsdorf und Gollwitz
+other	173,174	10	28	Damsdorf
+other	175,176	10	29	Gollwitz
+sbj	178,181	10	13	die Groß-Kreutzer Problemlage
+other	179,180	10	7	Groß-Kreutzer

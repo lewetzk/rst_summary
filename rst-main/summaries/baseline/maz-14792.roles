@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	6,8	0	3	Die Bösen
+sbj	78,80	1	1	Die Landesgartenschau
+indir-obj	83,84	1	3	ihnen
+sbj	173,174	2	2	sie
+other	177,179	2	4	in Rathenow

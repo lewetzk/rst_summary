@@ -1,0 +1,16 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	93,99	0	7	die Arbeit dieser Frauen und Männer
+indir-obj	95,99	0	2	dieser Frauen und Männer
+other	99,101	0	14	übers Jahr
+sbj	106,107	0	2	sie
+dir-obj	111,113	0	3	das Erntefest
+indir-obj	149,151	1	4	der Natur
+sbj	155,172	2	17	die Freude in den Gesichtern der Leute , die Handwagen ziehen , Pferdegespanne führen oder Erntemaschinen lenken
+other	157,160	2	11	in den Gesichtern
+indir-obj	157,172	2	12	in den Gesichtern der Leute , die Handwagen ziehen , Pferdegespanne führen oder Erntemaschinen lenken
+other	160,172	2	2	der Leute , die Handwagen ziehen , Pferdegespanne führen oder Erntemaschinen lenken
+sbj	179,194	2	0	der Ehrgeiz , mit dem sie sich im kommenden Jahr wieder in die Arbeit stürzen
+indir-obj	183,184	2	0	dem
+sbj	184,185	2	2	sie
+indir-obj	186,189	2	18	im kommenden Jahr
+other	190,193	2	13	in die Arbeit

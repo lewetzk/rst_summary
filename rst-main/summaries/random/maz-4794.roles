@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,5	0	_	Die Palette
+other	86,87	1	3	Ihr
+sbj	86,90	1	_	Ihr Engagement für soziale
+other	100,103	1	15	in die Notwendigkeit
+sbj	106,107	1	12	das
+other	60,63	2	17	Neben der Präsentation

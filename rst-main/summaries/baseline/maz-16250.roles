@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	4,7	0	19	die beste Verteidigung
+sbj	103,105	1	_	die Militärs
+sbj	184,186	2	_	die Bundeswehr
+dir-obj	186,195	2	_	die Region mit ihren Sorgen und mit ihren Chancen
+other	188,191	2	_	mit ihren Sorgen
+other	188,195	2	_	mit ihren Sorgen und mit ihren Chancen
+other	189,190	2	_	ihren
+other	192,195	2	_	mit ihren Chancen
+other	193,194	2	_	ihren

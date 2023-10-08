@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	37,38	0	16	Das
+dir-obj	105,107	2	0	die Literatur
+other	126,127	3	5	Deshalb
+sbj	128,133	3	_	es auch gut , dass
+sbj	133,135	3	3	das Umweltministerium
+other	135,138	3	7	in diesem Jahr

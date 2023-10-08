@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,4	0	_	Die Kränzliner
+sbj	101,103	1	14	beide Argumentationen
+sbj	166,170	2	5	der Ärger über Klärbeiträge
+other	176,178	2	11	am Mittwoch
+dir-obj	182,186	2	17	den Weg zur Verbandsversammlung
+other	184,186	2	16	zur Verbandsversammlung

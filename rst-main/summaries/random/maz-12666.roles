@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+indir-obj	180,181	0	4	Rogner
+sbj	130,135	1	_	Ein paar vage mündliche Finanzierungs-Versprechen
+sbj	136,142	1	8	die Skizze des einzigen anderen Bades
+other	138,142	1	9	des einzigen anderen Bades
+sbj	148,149	1	1	Lielje
+other	81,83	2	3	Für Kadatz
+dir-obj	87,92	2	1	den Spatz in der Hand
+other	93,98	2	4	die Taube auf dem Dach

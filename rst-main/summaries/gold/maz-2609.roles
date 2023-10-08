@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	56,58	0	0	in Potsdam
+other	62,63	0	14	das
+sbj	162,163	2	19	Brandenburg
+dir-obj	165,171	2	9	die rote Laterne in der Wissenschaftsförderung
+other	168,171	2	8	in der Wissenschaftsförderung

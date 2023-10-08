@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	127,128	0	2	Preußen
+other	128,130	0	14	im Titel
+other	137,138	0	2	Preußen
+sbj	5,7	2	11	Die Besucherquote
+dir-obj	8,12	2	12	die Ausrichter des Preußenjahres
+other	10,12	2	1	des Preußenjahres
+other	12,18	2	13	schon zweieinhalb Monate vor seinem Ende
+other	16,17	2	1	seinem

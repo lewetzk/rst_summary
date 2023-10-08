@@ -1,0 +1,4 @@
+#Zuschlag für den Besseren
+0	Die Anhörung zur Zukunft des Paracelsus-Krankenhauses ist vorbei.
+4	Es gibt zwei Möglichkeiten: Entweder das Paracelsus-Krankenhaus bildet einen regionalen Klinikverbund mit der Nauener Havellandklinik unter dem Dach einer kreiseigenen GmbH oder das Rathenower Krankenhaus wird an einen Freien Träger abgegeben.
+9	Wenn ein Freier Träger das besser kann als eine Kreis-GmbH, dann soll er das Krankenhaus haben.

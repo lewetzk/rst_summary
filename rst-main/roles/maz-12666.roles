@@ -1,0 +1,34 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,6	1	3	Rüdiger Kadatz
+other	7,8	2	3	seine
+dir-obj	7,12	2	0	seine Meinung zum Rheinsberger Thermalbad
+other	9,12	2	12	zum Rheinsberger Thermalbad
+other	10,11	2	2	Rheinsberger
+sbj	14,15	2	3	er
+dir-obj	16,17	2	0	sie
+other	27,28	3	2	Rheinsbergs
+sbj	27,30	3	4	Rheinsbergs Favorit Rogner
+dir-obj	39,50	4	_	den hatte Kadatz am Mittwochabend in der Stadtverordnetenversammlung parat - die
+sbj	41,42	4	3	Kadatz
+other	42,44	4	5	am Mittwochabend
+other	44,47	4	6	in der Stadtverordnetenversammlung
+sbj	53,54	5	1	die
+dir-obj	64,65	5	3	Kadatz
+sbj	69,74	6	14	die letzten Gespräche mit Rogner
+other	72,74	6	4	mit Rogner
+other	81,83	8	3	Für Kadatz
+dir-obj	87,92	10	1	den Spatz in der Hand
+other	93,98	10	4	die Taube auf dem Dach
+sbj	116,118	12	13	die Rheinsberger
+other	118,121	12	1	vom zweiten Thermalbad-Bewerber
+other	127,129	12	4	vom ersten
+sbj	130,135	12	_	Ein paar vage mündliche Finanzierungs-Versprechen
+sbj	136,142	13	8	die Skizze des einzigen anderen Bades
+other	138,142	13	9	des einzigen anderen Bades
+sbj	148,149	13	1	Lielje
+other	164,167	15	11	im Rheinsberger Thermalbad-Rennen
+other	165,166	15	2	Rheinsberger
+sbj	168,169	15	4	Rogner
+indir-obj	180,181	17	4	Rogner
+not_specified	194,196	17	10	Am Ende
+sbj	197,198	17	2	Rheinsberg

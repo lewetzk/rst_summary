@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	121,122	0	5	trotzdem
+sbj	127,128	0	10	das
+indir-obj	128,131	0	3	der Sendung selbst
+indir-obj	128,133	0	_	der Sendung selbst und ihrer
+other	132,133	0	3	ihrer
+indir-obj	132,135	0	_	ihrer " Allzweckwaffe

@@ -1,0 +1,22 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	5,8	1	13	Das ganze Leben
+sbj	12,13	2	9	wir
+other	14,17	2	1	nur die Kandidaten
+sbj	23,25	2	2	Hape Kerkeling
+dir-obj	30,33	3	2	den weitsichtigen Entertainer
+sbj	34,36	3	_	Die Entwicklung
+other	39,42	4	3	im öffentlich-rechtlichen Fernsehen
+sbj	49,55	4	8	Der Anteil politischer Sendungen am Programm
+other	53,55	5	3	am Programm
+sbj	89,92	7	3	die gebührenfinanzierten Programme
+other	92,93	7	3	ihren
+dir-obj	92,94	7	_	ihren Auftrag
+dir-obj	95,100	7	10	die fernsehpublizistische und politische Grundversorgung
+sbj	112,115	8	11	das öffentliche Mandat
+other	124,125	8	0	Dafür
+sbj	126,127	9	1	wir
+other	133,135	9	_	wie der
+not_specified	136,137	9	7	ARD-Brennpunkt
+sbj	141,142	9	6	das
+sbj	147,149	9	5	die Spaßgesellschaft
+other	150,154	9	3	auch beim öffentlich-rechtlichen Rundfunk

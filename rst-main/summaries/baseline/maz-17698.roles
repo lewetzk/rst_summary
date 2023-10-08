@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	5,8	0	13	bei dieser Frage
+other	9,12	0	14	auf den Boden
+other	24,28	0	15	die meiste Zeit über
+other	34,35	0	21	dabei
+sbj	182,184	2	9	Dieses Prinzip
+indir-obj	185,187	2	2	den Verantwortlichen
+sbj	193,194	2	2	sie

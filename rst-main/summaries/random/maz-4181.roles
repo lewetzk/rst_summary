@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	155,157	0	_	nur die
+other	125,126	1	_	ist
+other	131,134	1	_	rechtzeitig mit der
+sbj	139,142	2	_	ja der abgerundete
+other	142,146	2	_	Bonbonpreis durch den aufgerundeten

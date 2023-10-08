@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+SBJ	4,7	0	3	Die einstige Fußball-Weltmacht
+SBJ	113,117	2	1	Die Fußball-Kleinmacht vom Dnepr
+not_specified	115,117	2	27	vom Dnepr
+not_specified	116,117	2	12	Dnepr
+other	119,120	2	25	davor
+not_specified	121,135	2	3	das scheinbar mit einem Dauerabonnement für die WM ausgestattete Team in der schwarz-weißen Kluft
+DIR-OBJ	121,139	2	16	das scheinbar mit einem Dauerabonnement für die WM ausgestattete Team in der schwarz-weißen Kluft und eine ganze Nation
+not_specified	126,129	2	2	für die WM
+not_specified	131,135	2	26	in der schwarz-weißen Kluft
+not_specified	139,144	2	15	in das Tal der Tränen
+not_specified	142,144	2	17	der Tränen

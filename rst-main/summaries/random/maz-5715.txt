@@ -1,0 +1,4 @@
+#Glückliche Hühner
+0	Um die deutschen Legehennen ist heftiger politischer Streit entbrannt.
+10	Und schließlich greifen immer mehr Verbraucher beim Einkauf bewußt zu den tierfreundlich erzeugten Eiern.
+5	Im Westen herrscht die Sorge vor, ausländische Konkurrenten könnten dann mit Billig-Eiern aus Legebatterien den deutschen Markt überschwemmen.

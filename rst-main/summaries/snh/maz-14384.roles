@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	126,133	0	0	Der wunderbare Mischwald am Rande der Stadt
+other	129,133	0	12	am Rande der Stadt
+other	131,133	0	3	der Stadt
+other	140,143	0	13	auf die Menschen
+sbj	144,145	1	0	Er
+sbj	174,176	2	15	dieser Eindruck
+dir-obj	180,182	3	_	die vielen
+other	186,188	3	0	im Hainholz

@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	3,6	0	14	Im Löwenberger Land
+other	9,11	0	15	der Kita-Öffnungszeiten
+other	87,88	1	4	Davon
+sbj	89,92	1	22	auch die Löwenberger
+other	182,183	2	13	zudem

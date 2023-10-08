@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	15,20	0	2	die Übergangszeiten zwischen zwei Maßnahmen
+other	83,84	1	14	deshalb
+sbj	85,86	1	3	sie
+sbj	186,188	2	4	Arno Rentsch
+sbj	192,193	2	4	er
+not_specified	199,202	2	25	die endgültige Lösung

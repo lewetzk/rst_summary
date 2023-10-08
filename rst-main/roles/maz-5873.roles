@@ -1,0 +1,26 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	7,9	2	2	das "Goldene-Oktober"-Wetter
+other	10,11	2	2	seinem
+indir-obj	10,12	2	11	seinem Ende
+other	14,18	2	3	Mit der ungemütlichen Jahreszeit
+sbj	19,25	3	7	auch die Gefahren auf den Straßen
+other	22,25	3	1	auf den Straßen
+other	27,28	3	14	darauf
+sbj	29,31	3	0	die Polizei
+sbj	35,42	3	0	Die Mitarbeiter der Verkehrsunfallbekämpfung im Schutzbereich Teltow-Fläming
+other	37,42	4	6	der Verkehrsunfallbekämpfung im Schutzbereich Teltow-Fläming
+other	39,42	4	8	im Schutzbereich Teltow-Fläming
+other	41,42	4	12	Teltow-Fläming
+other	51,54	4	3	durch den Herbst
+sbj	56,57	4	0	Sie
+dir-obj	65,67	5	1	die Straßen
+other	77,81	6	18	beim Durchfahren von Waldstücken
+other	82,83	6	17	darauf
+other	89,92	7	1	auf der Fahrbahn
+sbj	100,101	7	4	sie
+dir-obj	140,142	10	10	die Geschwindigkeit
+indir-obj	145,147	10	9	den Sichtverhältnissen
+sbj	166,167	11	13	wir
+other	168,170	11	5	das alles
+other	177,180	11	16	in der Realität
+other	186,190	11	15	aus den genannten Gründen

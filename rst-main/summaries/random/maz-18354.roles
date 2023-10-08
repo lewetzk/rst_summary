@@ -1,0 +1,14 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	176,180	0	27	die Mienen der Klosteraner
+other	178,180	0	1	der Klosteraner
+other	10,14	1	9	Im August dieses Jahres
+other	12,14	1	19	dieses Jahres
+sbj	19,23	1	10	der Zorn der Klosteraner
+other	21,23	1	1	der Klosteraner
+other	23,26	1	_	in der Ankündigung
+dir-obj	27,36	1	8	den Bau der neuen Bundesstraße und der Ortsumgehung Jüterbog
+other	29,32	1	21	der neuen Bundesstraße
+not_specified	29,36	1	18	der neuen Bundesstraße und der Ortsumgehung Jüterbog
+other	33,36	1	5	der Ortsumgehung Jüterbog
+other	35,36	1	2	Jüterbog
+sbj	4,6	2	4	Die Drohung

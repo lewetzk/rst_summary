@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	49,51	0	17	dieser Art
+dir-obj	52,57	0	16	die Sicherheit der jungen Passagiere
+other	54,57	0	3	der jungen Passagiere
+sbj	110,112	2	1	der Bus
+sbj	117,119	2	0	die Fahrer
+sbj	121,123	2	3	die Kinder
+sbj	134,139	2	6	die Gefahr von höherer Gewalt
+sbj	140,143	2	5	der sprichwörtliche Blitzschlag

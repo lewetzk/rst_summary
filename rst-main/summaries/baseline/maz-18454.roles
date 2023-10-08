@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	100,105	1	12	Der Aktionskreis um Martin Zühlke
+other	102,105	1	2	um Martin Zühlke
+sbj	211,213	2	5	die Sache
+sbj	217,219	2	4	der Verein
+dir-obj	219,220	2	13	dies

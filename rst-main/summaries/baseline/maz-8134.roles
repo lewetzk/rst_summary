@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	5,7	0	5	am Montag
+sbj	15,16	0	3	Karwe
+other	20,22	0	4	von Neuruppin
+other	103,109	1	18	über die Zusammenarbeit mit dem Rathaus
+other	106,109	1	0	mit dem Rathaus
+dir-obj	194,195	2	19	das
+indir-obj	195,197	2	4	in Neuruppin
+sbj	202,205	2	26	der nächste Ort

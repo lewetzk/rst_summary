@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	29,41	0	13	Doch das Angebot , nahe der Haustür den Personennahverkehr nutzen zu können
+other	33,36	0	14	nahe der Haustür
+other	36,38	0	5	den Personennahverkehr
+sbj	55,57	1	15	Die Ablehnung
+other	58,61	1	1	in der Verwaltung
+sbj	148,152	2	0	der Wille der Bewohner
+other	150,152	2	3	der Bewohner
+other	155,158	3	6	in der Parkstadt
+dir-obj	163,165	3	7	den Bus
+indir-obj	165,170	3	18	dem Verkehr vieler einzelner Autos

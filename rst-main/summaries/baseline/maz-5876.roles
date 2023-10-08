@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	9,10	0	0	ihre
+dir-obj	9,11	0	10	ihre Patienten
+dir-obj	9,11	0	10	ihre Patienten
+other	12,13	0	0	ihr
+dir-obj	12,14	0	11	ihr Personal
+dir-obj	15,18	0	5	die Kassenärztliche Vereinigung
+not_specified	19,21	0	12	im Unklaren
+sbj	96,97	1	15	Das
+other	105,107	1	3	in Brandenburg
+sbj	107,113	1	9	die niedrigsten Arzthonorare der ganzen Bundesrepublik
+other	110,113	1	1	der ganzen Bundesrepublik

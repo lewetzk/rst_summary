@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	15,19	0	12	in den kommenden Jahren
+other	19,23	0	5	im Rahmen des Zis-Programmes
+other	21,23	0	1	des Zis-Programmes
+other	23,30	0	10	in die Sanierung und Belebung der Innenstadt
+other	28,30	0	13	der Innenstadt
+sbj	59,60	2	3	sie
+indir-obj	64,67	2	21	der nächsten Stadtregierung
+dir-obj	68,76	2	16	das Debakel um die gescheiterte Ansiedlung am Neustadt-Markt
+other	70,76	2	24	um die gescheiterte Ansiedlung am Neustadt-Markt
+other	74,76	2	22	am Neustadt-Markt
+sbj	80,81	2	0	Brandenburg

@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+indir-obj	175,180	0	16	dem einen oder anderen Knallfrosch
+sbj	180,183	0	_	der Spaß daran
+sbj	55,57	2	3	die Polizei
+dir-obj	57,58	2	13	das
+sbj	62,64	2	3	die Beamten
+other	64,66	2	14	am Neujahrstag

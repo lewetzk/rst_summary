@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	39,50	0	_	den hatte Kadatz am Mittwochabend in der Stadtverordnetenversammlung parat - die
+sbj	41,42	0	3	Kadatz
+other	42,44	0	5	am Mittwochabend
+other	44,47	0	6	in der Stadtverordnetenversammlung
+sbj	116,118	1	13	die Rheinsberger
+other	118,121	1	1	vom zweiten Thermalbad-Bewerber
+other	127,129	1	4	vom ersten
+other	164,167	2	11	im Rheinsberger Thermalbad-Rennen
+other	165,166	2	2	Rheinsberger

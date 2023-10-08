@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	58,59	0	0	Rumsfeld
+other	66,69	0	4	innerhalb der US-Regierung
+other	150,156	1	15	an der realistischen Kalkulation des Afghanistan-Einsatzes
+other	154,156	1	2	des Afghanistan-Einsatzes
+dir-obj	162,165	2	17	die eigenen Soldaten
+sbj	168,169	3	1	sie
+dir-obj	169,173	3	10	den Zusammenhalt im Bündnis
+other	171,173	3	16	im Bündnis

@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+not_specified	88,91	1	18	vor diesem Hintergrund
+dir-obj	91,94	1	1	ein Tourismusverband Havelland
+dir-obj	91,94	1	1	ein Tourismusverband Havelland
+other	93,94	1	0	Havelland
+other	102,114	1	13	in seinem schon wegen der Nähe zur Hauptstadt nicht unattraktiven östlichen Teil
+other	103,104	1	1	seinem
+other	104,110	1	12	schon wegen der Nähe zur Hauptstadt
+other	108,110	1	11	zur Hauptstadt

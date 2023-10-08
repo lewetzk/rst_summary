@@ -1,0 +1,17 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	29,34	0	18	um die Zukunft der Verwaltungseinheit
+other	32,34	0	1	der Verwaltungseinheit
+dir-obj	37,43	0	_	die Schwächung des Amtes Groß Kreutz
+other	39,43	0	19	des Amtes Groß Kreutz
+other	41,43	0	7	Groß Kreutz
+other	43,49	0	_	durch die Austrittswünsche zweier Gemeinden Emster-Havel
+other	46,49	0	_	zweier Gemeinden Emster-Havel
+sbj	53,56	1	9	Bürgermeister Detlef Lemke
+other	62,66	1	10	für den Götzer Beitritt
+other	64,65	1	4	Götzer
+other	66,69	1	8	zur Groß-Kreutzer Großgemeinde
+other	169,176	2	11	Für die austrittswilligen Amtsgemeinden Damsdorf und Gollwitz
+other	173,174	2	28	Damsdorf
+other	175,176	2	29	Gollwitz
+sbj	178,181	2	13	die Groß-Kreutzer Problemlage
+other	179,180	2	7	Groß-Kreutzer

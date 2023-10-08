@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+indir-obj	79,81	0	14	laut Abfallzweckverband
+indir-obj	82,87	0	15	am Vorabend des jeweiligen Abholetages
+other	84,87	0	16	des jeweiligen Abholetages
+dir-obj	87,90	0	5	an den Straßenrand
+sbj	166,167	2	0	er
+dir-obj	168,170	2	1	den Ort

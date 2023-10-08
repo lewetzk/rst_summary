@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	83,85	0	2	Die Laubag
+dir-obj	90,91	0	2	sie
+other	41,43	2	2	die Laubag
+sbj	41,47	2	_	die Laubag und ihr wichtigster Kunde
+not_specified	44,45	2	16	ihr
+other	44,47	2	_	ihr wichtigster Kunde
+other	48,50	2	1	die Veag

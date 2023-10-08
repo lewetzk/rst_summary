@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	66,68	1	2	Die Region
+other	68,71	1	0	aus der Abwasser-Debatte
+other	74,75	1	5	ihre
+indir-obj	74,76	1	21	ihre Pflicht
+sbj	99,101	2	1	Das Land
+other	102,105	2	12	mit seinem Schuldenmanagement
+not_specified	103,104	2	11	seinem
+other	108,111	2	18	aus der Misere

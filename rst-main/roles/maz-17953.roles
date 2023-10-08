@@ -1,0 +1,41 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	4,8	1	18	Den Hut von Marlowe
+dir-obj	4,8	1	18	Den Hut von Marlowe
+other	6,8	2	20	von Marlowe
+dir-obj	9,13	2	19	die Pfeife von Maigret
+other	11,13	2	14	von Maigret
+dir-obj	14,19	2	7	das Strickzeug von Miss Marple
+other	16,19	2	16	von Miss Marple
+sbj	20,24	2	5	Detektiv T. aus Hennigsdorf
+other	22,24	2	24	aus Hennigsdorf
+other	24,26	2	17	vom Schmökern
+sbj	28,29	3	5	er
+other	30,33	3	_	aus den Krimis
+other	35,38	3	11	mit der Wirklichkeit
+sbj	44,49	3	6	der Traum von der Gerechtigkeit
+other	46,49	3	9	von der Gerechtigkeit
+other	49,53	3	10	mit dem realen Leben
+sbj	61,62	4	5	er
+sbj	66,67	4	5	er
+other	73,74	4	13	dabei
+other	80,90	4	22	Den feinen Unterschied nämlich zwischen dem Spähen und dem Spitzeln
+other	84,87	5	3	zwischen dem Spähen
+other	84,89	5	_	zwischen dem Spähen und dem
+other	84,90	5	0	zwischen dem Spähen und dem Spitzeln
+dir-obj	92,94	6	23	den Detektiv
+other	97,99	6	3	zum Handeln
+sbj	102,106	6	0	das Aushorchen unseligen Angedenkens
+other	107,108	6	3	damit
+sbj	113,116	7	5	der junge Mann
+sbj	122,123	7	5	er
+other	155,163	7	12	Im Unterschied zu Detektiven der bekannteren Prägung nämlich
+other	159,162	8	4	der bekannteren Prägung
+sbj	164,165	8	5	T.
+indir-obj	169,170	8	5	ihm
+sbj	177,178	9	5	er
+other	178,182	9	1	mit seinen berühmten Kollegen
+other	179,180	9	5	seinen
+other	190,194	10	_	der Probleme Gesellschaft gewesen
+other	193,194	10	_	gewesen
+sbj	197,198	10	_	arbeitet
+other	199,202	10	_	diesem Spannungsfeld .

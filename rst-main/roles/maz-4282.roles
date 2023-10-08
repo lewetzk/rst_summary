@@ -1,0 +1,29 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	8,11	2	14	spielen die Dallgower
+other	9,10	2	7	die
+other	15,21	2	17	verzagt wie die deutsche Abwehrreihe der
+other	19,21	2	1	Abwehrreihe der
+other	25,28	3	9	kommt aus der
+other	39,41	3	_	dass die
+other	39,43	3	_	dass die Seeburger oder
+sbj	39,44	3	10	dass die Seeburger oder Groß-Glienicker
+dir-obj	44,45	3	4	Mitspieler
+other	60,63	4	18	Gefahr fürs Dallgower
+other	61,62	4	7	fürs
+other	65,67	4	6	. Die
+sbj	65,70	4	5	. Die Seeburger und einige
+other	71,73	5	20	haben den
+sbj	85,86	6	5	sollen
+sbj	89,90	6	5	wie
+dir-obj	90,92	6	0	sie die
+sbj	99,101	7	16	künftig die
+other	105,109	7	15	wäre in der jetzigen
+other	114,118	8	1	Parallele zu den deutschen
+sbj	125,127	9	3	wenn die
+other	127,131	9	2	Spieler aus den verschiedenen
+sbj	134,135	9	3	,
+sbj	141,142	9	3	dass
+other	147,149	9	11	" Döberitzer
+sbj	153,154	10	8	Und
+other	161,164	11	13	Ermahnungen von der
+other	171,174	11	12	nicht beim kleinsten

@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	11,13	0	10	Der Grund
+dir-obj	14,35	0	11	die Weigerung des Innenministers und Parteivorsitzenden Jörg Schönbohm , dem eindeutigen Bürgerwillen der Golmer nach Eingliederung in die Stadt Werder nachzukommen
+other	16,22	0	3	des Innenministers und Parteivorsitzenden Jörg Schönbohm
+other	23,28	0	12	dem eindeutigen Bürgerwillen der Golmer
+other	26,28	0	13	der Golmer
+other	30,34	0	14	in die Stadt Werder
+other	3,10	2	5	an der CDU-Basis in Werder und Umgebung
+other	6,8	2	4	in Werder

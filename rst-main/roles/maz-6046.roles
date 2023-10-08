@@ -1,0 +1,38 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	2,6	1	16	Seit dem 11. September
+sbj	13,15	3	3	Bin Laden
+dir-obj	16,17	4	22	Amerika
+dir-obj	19,22	4	17	die westliche Welt
+sbj	27,30	4	9	die deutsche Spaßkultur
+indir-obj	31,32	4	3	ihm
+sbj	33,34	4	20	Deutschland
+other	37,38	6	0	Veronas
+sbj	37,39	6	8	Veronas Tränen
+sbj	42,45	7	6	Johannes B. Kerner
+other	47,52	7	14	über seine Vermittlerrolle im Ehekrieg
+other	48,49	7	6	seine
+other	50,52	7	19	im Ehekrieg
+other	55,56	7	18	Bushs
+sbj	55,57	7	12	Bushs Medienauftritte
+indir-obj	65,66	8	2	uns
+other	68,69	8	0	Veronas
+sbj	68,70	8	8	Veronas Tränen
+sbj	68,73	8	4	Veronas Tränen und Dieters Geschwätz
+other	71,72	8	15	Dieters
+sbj	71,73	8	11	Dieters Geschwätz
+other	73,76	8	21	auf dem Bildschirm
+sbj	90,92	9	7	der Boulevard
+other	93,96	9	5	von seinen Schießbudenfiguren
+other	94,95	9	7	seinen
+sbj	99,100	10	2	wir
+dir-obj	100,101	10	5	sie
+other	107,108	10	4	darüber
+sbj	112,113	10	2	wir
+other	113,114	10	4	damit
+other	122,123	11	0	Veronas
+sbj	122,124	11	8	Veronas Tränen
+other	127,129	12	3	bin Ladens
+other	127,130	12	23	bin Ladens Schläfer
+sbj	131,132	12	13	Berlusconi
+sbj	136,138	13	1	Der Westen
+indir-obj	139,141	13	10	dem Islam

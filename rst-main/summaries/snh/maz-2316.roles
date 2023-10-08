@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	5,7	0	_	Andreas Wansing
+sbj	8,12	0	15	den Geschäftsführer der Wobra
+other	10,12	0	0	der Wobra
+other	16,19	0	_	von seinem Plan
+other	17,18	0	4	seinem
+other	23,29	0	16	aus dem Bestand der Wobra hinaus
+other	26,28	0	0	der Wobra
+other	137,138	1	9	Deshalb
+sbj	140,141	1	4	Wansing
+other	145,147	1	1	des Verkaufs

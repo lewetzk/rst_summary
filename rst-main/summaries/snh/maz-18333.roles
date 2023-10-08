@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	94,98	0	11	die neue B 101
+other	100,102	0	6	der Region
+other	108,111	0	7	an die Autobahn
+sbj	112,114	1	1	Die Ortsumgehung
+other	119,122	1	4	in die Stadt
+sbj	124,125	2	4	Luckenwalde
+sbj	139,142	3	1	Die neue Straße

@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	137,140	0	_	Reiches Personalpapier eigentlich
+other	138,139	0	_	Personalpapier
+sbj	44,46	1	9	das Finanz-
+sbj	44,49	1	7	das Finanz- und das Bildungsressort
+sbj	47,49	1	3	das Bildungsressort
+dir-obj	49,51	1	2	das Lehrerpersonalkonzept

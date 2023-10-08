@@ -1,0 +1,31 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	31,33	3	3	die Kitas
+other	39,43	3	13	über die räumlichen Bedingungen
+not_specified	48,52	4	16	die Quadratmetergrößen von Spielzimmern
+other	48,52	4	16	die Quadratmetergrößen von Spielzimmern
+other	53,57	4	15	die Qualität von Bodenbelägen
+sbj	61,64	4	4	die meisten Eltern
+sbj	67,68	4	4	Sie
+other	73,74	5	4	ihr
+sbj	73,75	5	5	ihr Kind
+dir-obj	79,81	5	17	den Tag
+indir-obj	90,91	5	5	ihm
+sbj	100,102	6	1	die Knirpse
+sbj	106,107	6	1	sie
+sbj	112,113	6	1	sie
+other	113,116	6	10	in ihrem Kindergarten
+other	114,115	6	1	ihrem
+sbj	120,121	6	1	sie
+dir-obj	121,123	6	12	die Tanten
+dir-obj	128,130	6	11	den Abend
+other	132,135	6	_	Im " Spatzennest
+other	136,138	7	0	Groß Glienicke
+sbj	139,141	7	14	das Klima
+other	141,146	7	8	zu den Stärken des Hauses
+other	144,146	7	2	des Hauses
+sbj	149,150	7	2	das
+sbj	156,158	8	7	die Kinder
+dir-obj	173,174	8	18	das
+other	176,178	8	0	im Ort
+other	181,182	8	6	darum
+dir-obj	188,190	8	2	das Haus

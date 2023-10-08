@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,7	1	11	Die Stimmung im Pritzwalker Minimal-Markt
+other	4,7	1	2	im Pritzwalker Minimal-Markt
+other	5,6	1	14	Pritzwalker
+sbj	58,59	2	3	die

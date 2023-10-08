@@ -1,0 +1,47 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	1,5	1	4	Die Jugendlichen in Zossen
+other	3,5	2	3	in Zossen
+dir-obj	9,10	2	13	Das
+sbj	11,12	3	4	sie
+other	12,17	3	0	bei der ersten Zossener Runde
+other	15,16	3	3	Zossener
+other	17,19	3	5	am Dienstagabend
+sbj	21,25	4	14	die Politiker der Stadt
+other	23,25	4	3	der Stadt
+other	25,26	4	21	dafür
+other	32,37	4	0	Mit dem Treffen im Rathaus
+other	35,37	5	6	im Rathaus
+other	42,45	5	8	zwischen den Generationen
+sbj	48,52	6	4	die beiden geladenen Jugendlichen
+other	52,56	6	20	im Laufe des Abends
+other	54,56	6	5	des Abends
+sbj	70,71	6	11	es
+other	75,76	7	29	dazu
+other	80,82	8	24	der Komik
+other	88,90	8	9	Karola Andrae
+sbj	88,104	8	2	Karola Andrae ( Bürgerbündnis/FDP ) , Susanne Michler ( CDU ) und Joachim Zanow ( SPD
+other	91,92	8	30	Bürgerbündnis/FDP
+other	94,96	8	25	Susanne Michler
+other	97,98	8	17	CDU
+other	100,102	8	26	Joachim Zanow
+other	103,104	8	10	SPD
+other	106,107	8	12	darüber
+other	116,119	8	15	auf die Idee
+dir-obj	122,123	8	4	sie
+sbj	128,129	9	28	das
+sbj	131,132	9	4	sie
+other	132,133	9	2	ihnen
+sbj	136,138	9	4	Die Jugendlichen
+other	148,150	11	4	mit ihnen
+sbj	151,153	11	2	die Politiker
+other	156,157	11	7	Damit
+other	166,172	13	23	bei der nächsten Runde Anfang 2002
+other	180,183	14	22	In der Gruppe
+sbj	184,185	15	4	sie
+other	196,198	16	16	von PDS
+other	196,200	16	18	von PDS und Gewerbeverein
+other	196,200	16	18	von PDS und Gewerbeverein
+other	200,201	16	1	ihren
+dir-obj	200,204	16	27	ihren Weg ins Rathaus
+other	202,204	16	6	ins Rathaus
+sbj	205,206	16	1	Die

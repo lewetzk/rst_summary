@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	124,126	0	0	das Problem
+sbj	130,132	1	9	Das Versteckspiel
+other	32,35	2	6	auf dem Schulhof
+other	48,53	2	7	in die Welt der Träume
+other	51,53	2	11	der Träume

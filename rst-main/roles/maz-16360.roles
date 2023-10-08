@@ -1,0 +1,39 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+not_specified	3,5	2	14	Raubritter Bassewitz
+dir-obj	5,7	2	7	die Kyritzer
+sbj	12,14	2	7	die Bewohner
+sbj	19,24	2	8	Der Kyritzer Bäckermeister Thomas Haupt
+other	26,31	3	1	zum Spezialitätenwettbewerb der Prignitzer Bäcker-Innung
+other	28,31	3	5	der Prignitzer Bäcker-Innung
+other	29,30	3	3	Prignitzer
+other	37,40	3	9	von dieser Begebenheit
+dir-obj	43,48	3	18	Die Rezeptur für seinen Knatterkrapfen
+other	45,48	4	6	für seinen Knatterkrapfen
+other	46,47	4	8	seinen
+sbj	49,50	4	8	er
+other	50,53	4	19	von seiner Großmutter
+other	51,52	4	8	seiner
+sbj	55,59	4	20	Auch die anderen Bäckermeister
+sbj	72,81	6	13	das geflochtene Bunte Brot von Winfried Höfler aus Perleberg
+other	76,81	6	24	von Winfried Höfler aus Perleberg
+other	79,81	6	12	aus Perleberg
+other	86,93	6	17	die Elbwelle von Wolfgang Grünberg aus Lenzen
+other	88,93	6	25	von Wolfgang Grünberg aus Lenzen
+other	91,93	6	26	aus Lenzen
+sbj	98,102	7	2	der Fretzdorfer Thomas Hausbalk
+other	99,100	7	21	Fretzdorfer
+other	102,105	7	_	mit seinem Schrotbrot
+other	103,104	7	2	seinem
+indir-obj	116,120	7	16	den Ansprüchen gesunder Ernährung
+sbj	122,124	7	0	Die Meister
+other	126,127	8	0	ihre
+dir-obj	126,128	8	4	ihre Spezialitäten
+other	128,132	8	10	auf der Grünen Woche
+other	134,135	8	11	damit
+other	135,138	8	3	für die Prignitz
+sbj	140,142	8	1	Der Wettbewerb
+other	148,150	9	5	im Handwerk
+other	163,166	10	_	nur am Mut
+other	167,170	10	4	mit diesen Schätzen
+other	170,173	10	23	an die Öffentlichkeit
+other	176,179	10	1	Mit der PR-Aktion

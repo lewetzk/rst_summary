@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	2,6	0	2	Um die deutschen Legehennen
+other	78,80	1	18	Im Westen
+sbj	81,83	1	_	die Sorge
+dir-obj	93,96	1	11	den deutschen Markt
+other	149,151	2	8	beim Einkauf
+other	152,157	2	9	zu den tierfreundlich erzeugten Eiern

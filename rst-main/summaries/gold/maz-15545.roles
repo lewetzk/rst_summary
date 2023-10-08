@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,8	0	1	Die Falkenseer Verwaltung und Havelbus
+dir-obj	9,15	0	2	die Buslinie Bahnhof Falkensee - Dallgow
+other	16,19	0	16	an die Leute
+sbj	29,41	1	13	Doch das Angebot , nahe der Haustür den Personennahverkehr nutzen zu können
+other	33,36	1	14	nahe der Haustür
+other	36,38	1	5	den Personennahverkehr
+other	179,185	2	17	gegen den Willen der tatsächlichen Mehrheit
+other	182,185	2	19	der tatsächlichen Mehrheit

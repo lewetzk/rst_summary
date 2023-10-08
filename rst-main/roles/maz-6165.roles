@@ -1,0 +1,34 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,6	2	1	die Feuerwehr
+other	11,16	2	9	an jedem Ort der Stadt
+other	14,16	2	10	der Stadt
+other	19,20	2	19	derzeit
+sbj	21,22	2	20	es
+other	30,31	3	21	drauf
+sbj	37,39	3	1	die Retter
+other	40,43	3	11	an ihre Grenzen
+other	41,42	3	1	ihre
+other	62,65	5	1	für die Feuerwehr
+other	65,70	5	12	beim Wegzug aus der Seelenbinderstraße
+other	67,70	5	13	aus der Seelenbinderstraße
+sbj	77,78	5	4	Die
+other	84,88	6	0	an der Berliner Straße
+other	90,93	6	22	Nahe der Schnellstraße
+other	97,100	7	7	nahe am Klinikum
+sbj	114,118	8	3	der CDU-Abgeordnete Peter Lehmann
+other	116,118	8	8	Peter Lehmann
+dir-obj	118,123	8	6	das Wasserwirtschaftsareal an der Friedrich-Engels-Straße
+other	120,123	8	2	an der Friedrich-Engels-Straße
+other	123,127	8	1	für die Feuerwache Potsdam
+sbj	130,131	8	3	er
+indir-obj	138,140	9	0	Berliner Straße
+indir-obj	141,143	9	5	der Havel
+sbj	150,152	9	15	das Wasserbetriebsgelände
+sbj	159,161	10	14	die Einsatzfahrzeuge
+other	161,164	10	2	von der Friedrich-Engels-Straße
+dir-obj	165,174	10	18	das Dauerproblem Bau und Stau auf der Langen Brücke
+other	170,174	10	17	auf der Langen Brücke
+sbj	179,180	10	3	er
+sbj	184,187	10	16	die neue Wache
+other	192,194	10	23	in Babelsberg
+indir-obj	198,200	10	5	der Havel

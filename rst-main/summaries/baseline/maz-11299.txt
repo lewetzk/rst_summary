@@ -1,0 +1,4 @@
+#Feigenblatt
+0	Die Jugendlichen in Zossen wollen ein Musikcafé.
+7	Und das, obwohl sie ihnen gegenüber sitzen.
+15	Die glänzten diesmal noch mit Abwesenheit.

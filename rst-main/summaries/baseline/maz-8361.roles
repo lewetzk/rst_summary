@@ -1,0 +1,19 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,5	0	21	es
+sbj	7,10	0	0	Die Berliner Staatsanwaltschaft
+other	11,12	0	0	ihr
+dir-obj	11,16	0	2	ihr Ermittlungsverfahren gegen Wolfgang Schäuble
+other	13,16	0	6	gegen Wolfgang Schäuble
+sbj	65,66	1	1	Glos
+other	75,76	1	6	Schäuble
+other	79,82	1	5	mit seinem Alleingang
+other	80,81	1	1	seinem
+other	82,83	1	18	Bayerns
+dir-obj	82,86	1	4	Bayerns Ministerpräsidenten Edmund Stoiber
+dir-obj	82,86	1	4	Bayerns Ministerpräsidenten Edmund Stoiber
+other	90,93	1	3	in der Unionsfraktion
+sbj	93,95	1	_	der Druck
+other	100,101	1	4	seinen
+dir-obj	100,105	1	16	seinen Anspruch auf die Kanzlerkandidatur
+other	102,105	1	20	auf die Kanzlerkandidatur
+sbj	177,178	2	6	er

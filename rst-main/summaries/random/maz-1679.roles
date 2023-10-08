@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	21,22	0	0	Wittstock
+dir-obj	34,36	0	2	die Innenstadt
+sbj	46,47	1	4	Wer
+other	47,48	1	4	sein
+dir-obj	47,49	1	7	sein Haus
+sbj	60,62	1	8	der Putz
+not_specified	62,65	1	13	von der Fassade
+sbj	159,161	2	6	der Stadtbummel

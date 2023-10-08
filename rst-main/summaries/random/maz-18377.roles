@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,4	0	_	Die Kränzliner
+sbj	120,123	1	0	Die anderen wiederum
+other	126,129	1	3	zur Solidargemeinschaft Zweckverband
+dir-obj	131,133	1	_	die Regeln
+sbj	139,145	1	_	die zu fügen haben , die
+sbj	48,49	2	1	sie
+sbj	57,58	2	1	sie

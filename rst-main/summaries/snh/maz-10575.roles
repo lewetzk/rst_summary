@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	120,122	0	5	das Ergebnis
+dir-obj	130,132	1	6	den Stolz
+other	135,138	1	17	für die Allgemeinheit
+other	144,147	2	2	mit der Stadt

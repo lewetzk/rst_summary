@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	144,147	1	6	das natürliche Gleichgewicht
+sbj	157,161	2	7	das Ansinnen der Jagdgegner
+other	159,161	2	0	der Jagdgegner

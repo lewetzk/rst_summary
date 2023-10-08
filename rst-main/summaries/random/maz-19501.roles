@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	117,119	0	_	der Bund
+dir-obj	129,137	0	_	die Einführung der Gleise in den Berliner Tiergartentunnel
+other	131,133	0	_	der Gleise
+other	133,137	0	_	in den Berliner Tiergartentunnel
+other	135,136	0	_	Berliner
+other	105,110	1	_	Für die Realisierung des Projekts
+other	108,110	1	_	des Projekts
+sbj	111,113	1	23	die Zeit

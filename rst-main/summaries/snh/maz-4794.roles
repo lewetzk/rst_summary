@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	60,63	0	17	Neben der Präsentation
+dir-obj	73,74	1	10	Das
+sbj	76,82	1	3	die Mitglieder der Vereine und Selbsthilfegruppen
+not_specified	78,82	1	20	der Vereine und Selbsthilfegruppen
+sbj	113,116	2	_	Die Politik hingegen
+other	119,122	2	1	in diesem Jahr

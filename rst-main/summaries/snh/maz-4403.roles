@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	93,100	0	12	Im Vergleich zum Hightech-Kollegen in der Medienstadt
+other	95,100	0	3	zum Hightech-Kollegen in der Medienstadt
+other	97,100	0	11	in der Medienstadt
+sbj	101,103	0	0	das PanMedium-Unternehmen

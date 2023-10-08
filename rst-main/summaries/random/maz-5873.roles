@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	56,57	0	0	Sie
+dir-obj	65,67	0	1	die Straßen
+other	77,81	1	18	beim Durchfahren von Waldstücken
+other	82,83	1	17	darauf
+sbj	35,42	2	0	Die Mitarbeiter der Verkehrsunfallbekämpfung im Schutzbereich Teltow-Fläming
+other	37,42	2	6	der Verkehrsunfallbekämpfung im Schutzbereich Teltow-Fläming
+other	39,42	2	8	im Schutzbereich Teltow-Fläming
+other	41,42	2	12	Teltow-Fläming
+other	51,54	2	3	durch den Herbst

@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	161,163	0	10	die Argumente
+other	125,128	1	4	Aus der Erklärung
+other	102,104	2	11	Am Mittwochabend
+sbj	105,107	2	2	die CDU-Fraktion
+other	109,112	2	12	während der Sitzung
+dir-obj	118,119	2	4	dies
+other	120,123	2	17	in die Tagesordnung

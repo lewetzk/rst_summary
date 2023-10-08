@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	28,31	0	_	die Wiederherstellung ihres
+other	30,31	0	4	ihres
+other	30,33	0	_	ihres - noch
+other	43,45	0	5	am Kiewitt
+not_specified	45,47	0	6	zum Bürgerfest
+other	108,112	1	1	Für die treuen Kiezbewohner
+other	113,114	1	9	daher
+dir-obj	118,120	1	2	die Hochhäuser

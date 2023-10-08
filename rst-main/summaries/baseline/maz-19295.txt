@@ -1,0 +1,4 @@
+#K-Frage
+0	Angenommen, nur mal angenommen, der CDU-Landesvorsitzende S. im Land B. hätte sich für Edmund Stoiber als Kanzlerkandidaten der Union entschieden.
+4	Tatsächlich ist die Kür des Kanzlerkandidaten so streng geheim, dass sie nur unter dem Code-Wort "K-Frage" gehandelt wird.
+9	Die Lösung des Problems ist ebenso schlicht wie anspruchsvoll: unbezweifelbare, überzeugende Autorität.

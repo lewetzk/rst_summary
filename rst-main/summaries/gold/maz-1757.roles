@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	36,42	0	1	Die Einwohner von Städten und Gemeinden
+other	46,51	0	17	vor dem Entscheid auf Bundesebene
+other	53,54	0	1	ihr
+indir-obj	53,57	0	9	ihr direkter politischer Ansprechpartner
+other	57,59	0	8	in Berlin
+sbj	80,81	1	5	sie
+other	177,179	2	4	Für sie
+sbj	180,184	2	22	die Haltung der Wahlkreiskandidaten
+other	182,184	2	5	der Wahlkreiskandidaten
+other	184,187	2	0	zu diesem Thema

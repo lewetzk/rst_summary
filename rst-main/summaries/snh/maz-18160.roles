@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	48,51	0	2	die Junge Union
+other	51,53	0	4	in Werder
+other	54,57	0	8	gegen seinen Kurs
+other	55,56	0	3	seinen
+other	62,66	1	7	mit seinem sofortigen Austritt
+other	63,64	1	1	seinem
+other	66,71	1	2	aus der Christlich Demokratischen Union
+sbj	112,113	2	6	sie
+sbj	147,150	4	0	CDU-Amtsinhaber Werner Große

@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	103,105	2	6	die anderen
+other	111,114	3	8	in den Schuhgeschäften
+sbj	115,118	3	7	die warmen Stiefel
+sbj	124,128	4	17	die Hompage der Standheizungsbauer
+other	126,128	4	10	der Standheizungsbauer
+other	134,135	4	5	die
+other	135,137	4	9	der Wetterkarten
+sbj	154,156	5	2	der Surfer

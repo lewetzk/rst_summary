@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	32,36	0	5	Die Haftanstalt in Spremberg
+other	34,36	0	4	in Spremberg
+other	46,48	0	7	zur Entlassung
+sbj	93,95	1	2	Der Minister
+other	102,104	1	4	in Spremberg
+sbj	114,115	2	1	er
+dir-obj	116,122	2	12	den selben Nachnamen wie ein Mitgefangener

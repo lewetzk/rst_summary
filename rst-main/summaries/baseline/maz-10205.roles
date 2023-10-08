@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	2,7	0	_	Unter den namhaften deutschen Schriftstellern
+other	9,12	0	3	von Gerhard Schröder
+other	12,14	0	12	am Samstagabend
+dir-obj	104,105	1	0	sie
+other	168,170	2	3	für Schröder
+sbj	172,175	2	8	die großen Namen

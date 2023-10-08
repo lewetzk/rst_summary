@@ -1,0 +1,31 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	4,6	2	3	zum Volkstrauertag
+other	6,11	2	19	auf dem Friedhof von Langen
+other	9,11	2	26	von Langen
+other	17,23	3	21	nach dem Ende des Zweiten Weltkriegs
+other	20,23	3	20	des Zweiten Weltkriegs
+other	25,31	3	_	um den Verlust eines geliebten Mannes
+other	36,39	3	10	Mit dem Krieg
+other	41,43	4	8	am Sonnabend
+sbj	43,49	4	7	auch die Kreissynode der Evangelischen Kirche
+other	46,49	4	9	der Evangelischen Kirche
+sbj	50,51	4	7	Sie
+other	54,59	5	24	gegen den Krieg in Afghanistan
+other	57,59	5	0	in Afghanistan
+sbj	60,62	5	5	Das Papier
+other	73,74	6	16	deshalb
+sbj	77,79	6	25	Die Stimmung
+other	111,112	8	1	ihr
+dir-obj	111,113	8	17	ihr Ziel
+other	114,116	8	0	In Afghanistan
+other	128,132	10	22	in ihren armseligen Hütten
+other	129,130	10	2	ihren
+dir-obj	151,155	11	4	auch diese unschuldigen Opfer
+other	158,159	11	11	Dabei
+sbj	160,161	11	6	wir
+other	162,165	11	3	gerade am Volkstrauertag
+sbj	174,180	11	15	das tote Kind auf dem Fernsehschirm
+other	177,180	11	13	auf dem Fernsehschirm
+other	180,182	11	_	nicht mehr
+other	189,190	11	6	unser
+other	189,192	11	14	unser eigenes Kind

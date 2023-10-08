@@ -1,0 +1,22 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	4,7	2	13	an der Schule
+other	32,35	3	6	auf dem Schulhof
+other	48,53	3	7	in die Welt der Träume
+other	51,53	3	11	der Träume
+other	86,87	5	3	ihre
+dir-obj	86,88	5	17	ihre Sprösslinge
+other	92,93	5	14	Deshalb
+sbj	94,96	6	_	die Diskussion
+other	100,102	6	15	des Jahn-Gymnasiums
+dir-obj	124,126	7	0	das Problem
+sbj	130,132	7	9	Das Versteckspiel
+other	166,168	10	8	zum Glimmstängel
+other	166,171	10	4	zum Glimmstängel und zum Bier
+other	169,171	10	19	zum Bier
+sbj	174,175	10	5	sie
+dir-obj	175,176	10	4	es
+sbj	180,184	10	1	Der Elternstammtisch des Jahn-Gymnasiums
+sbj	180,186	10	18	Der Elternstammtisch des Jahn-Gymnasiums und PIRA
+not_specified	182,184	10	16	des Jahn-Gymnasiums
+not_specified	183,184	10	12	Jahn-Gymnasiums
+sbj	185,186	10	2	PIRA

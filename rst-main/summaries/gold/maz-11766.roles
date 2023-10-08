@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	50,51	0	21	daran
+dir-obj	52,53	0	4	sie
+dir-obj	117,119	1	12	Das Füllhorn
+dir-obj	151,155	2	13	die sicher notwendigen Investitionen
+other	161,163	2	11	am Ende
+sbj	165,169	2	27	der Verkauf von Tafelsilber

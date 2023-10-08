@@ -1,0 +1,22 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,6	1	10	Der Ton
+dir-obj	7,9	2	11	die Musik
+sbj	10,11	2	14	Das
+sbj	19,26	3	2	die Sache mit den Urlaubsscheinen für Asylbewerber
+other	21,26	3	12	mit den Urlaubsscheinen für Asylbewerber
+sbj	55,58	4	6	die allgemeine Weltlage
+dir-obj	58,59	4	3	das
+dir-obj	83,84	5	9	das
+other	89,92	6	5	auch in Deutschland
+other	92,96	6	8	nach dem 11. September
+other	103,110	6	1	auch bei den oft abgeschottet lebenden Asylbewerbern
+other	115,120	7	2	bei all diesen strengeren Regelungen
+dir-obj	129,131	7	0	die Falschen
+other	134,135	8	4	jene
+dir-obj	134,143	8	_	jene , die sich artig an die Spielregeln halten
+other	139,142	8	2	an die Spielregeln
+other	145,147	8	5	in Deutschland
+other	151,152	8	4	ihre
+dir-obj	151,154	8	15	ihre geplanten Fahrten
+other	154,158	8	13	bei den zuständigen Stellen
+other	165,168	8	7	durch die Gegend

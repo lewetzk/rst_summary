@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	162,164	0	1	Das Preußenjahr
+dir-obj	74,80	1	2	das mit großem Aufwand sanierte Schloss
+other	84,88	1	11	an der alten Dorfschule

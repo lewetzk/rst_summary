@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	99,102	1	7	der Fläche Brandenburgs
+other	101,102	1	0	Brandenburgs
+other	105,109	1	8	des Landesamtes für Agarwirtschaft
+other	34,35	2	1	ihr
+sbj	34,36	2	_	ihr Job

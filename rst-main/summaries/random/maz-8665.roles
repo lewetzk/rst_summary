@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	183,185	0	6	die Gemeindevertreter
+sbj	65,67	1	_	Martina Vogel
+not_specified	68,73	1	_	die Bauamtsleiterin in der Großgemeinde
+other	70,73	1	_	in der Großgemeinde
+sbj	77,80	1	2	auch die Stadt
+other	84,85	1	12	davon
+sbj	13,15	2	6	die Gemeindevertretung

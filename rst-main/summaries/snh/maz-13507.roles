@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	190,191	1	3	sie
+other	191,196	1	23	im Gegensatz zu ihren Wählern
+other	193,196	1	22	zu ihren Wählern
+other	194,195	1	3	ihren

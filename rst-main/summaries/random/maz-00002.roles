@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	67,70	0	1	von den Schulbuchverlagen
+other	44,47	1	9	nach der Wende
+other	58,60	1	3	am Buchkauf
+sbj	117,120	2	3	die regelmäßige Schulbucherneuerung

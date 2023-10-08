@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,6	0	3	Rüdiger Kadatz
+other	7,8	0	3	seine
+dir-obj	7,12	0	0	seine Meinung zum Rheinsberger Thermalbad
+other	9,12	0	12	zum Rheinsberger Thermalbad
+other	10,11	0	2	Rheinsberger
+sbj	14,15	0	3	er
+dir-obj	16,17	0	0	sie
+other	27,28	0	2	Rheinsbergs
+sbj	27,30	0	4	Rheinsbergs Favorit Rogner
+not_specified	194,196	2	10	Am Ende
+sbj	197,198	2	2	Rheinsberg

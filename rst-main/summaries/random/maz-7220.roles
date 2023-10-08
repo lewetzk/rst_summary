@@ -1,0 +1,13 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	123,125	0	3	die Äußerungen
+other	125,135	0	8	im Kontext des geradezu naiv anmutenden Eingeständnisses des Washingtoner Stabes
+other	127,135	0	9	des geradezu naiv anmutenden Eingeständnisses des Washingtoner Stabes
+other	132,135	0	4	des Washingtoner Stabes
+other	139,144	0	14	über die Hartnäckigkeit des Taliban-Widerstands
+other	142,144	0	18	des Taliban-Widerstands
+other	150,156	0	15	an der realistischen Kalkulation des Afghanistan-Einsatzes
+other	154,156	0	2	des Afghanistan-Einsatzes
+dir-obj	162,165	2	17	die eigenen Soldaten
+sbj	168,169	2	1	sie
+dir-obj	169,173	2	10	den Zusammenhalt im Bündnis
+other	171,173	2	16	im Bündnis

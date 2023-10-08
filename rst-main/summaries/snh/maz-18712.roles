@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	175,176	1	4	er
+indir-obj	179,180	1	17	dem
+indir-obj	184,185	1	3	Giersberg
+other	189,192	2	10	für das Geld

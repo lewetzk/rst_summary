@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	29,32	1	2	allein diese Nachricht
+other	93,94	2	8	Zudem
+sbj	95,98	2	3	der wuchtige Mehrgeschosser
+other	101,105	2	_	der jüngsten Grebser Geschichte
+other	103,104	2	0	Grebser
+sbj	107,111	2	7	nicht nur die Gemeindevertreter

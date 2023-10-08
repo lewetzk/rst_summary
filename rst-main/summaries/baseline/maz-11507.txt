@@ -1,0 +1,4 @@
+#Bauernregeln sind passé
+0	Land-, Forst- und Tierwirte sind nicht nur mit Kordhut, Blaumann und Gummistiefeln unterwegs, fahren nicht nur tagein, tagaus mit dem Traktor über das Feld.
+5	Darüber hinaus belebt der Wirtschaftszweig den dörflichen Raum.
+11	Heute sind Kenntnisse in Management und Unternehmensführung genauso wichtig wie Fachwissen.

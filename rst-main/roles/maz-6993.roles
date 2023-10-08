@@ -1,0 +1,33 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,4	1	4	Diepensee
+other	12,13	3	22	Dessen
+sbj	15,25	4	8	die vor dem möglichen Ausbau des Flughafens Schönefeld weichenden Dorfbewohner
+other	16,23	4	3	vor dem möglichen Ausbau des Flughafens Schönefeld
+other	20,23	4	18	des Flughafens Schönefeld
+other	31,33	5	1	der Ausbau-Planer
+other	45,51	6	0	nur vorbehaltlich der Privatisierung der Flughafen-Holding
+other	49,51	6	1	der Flughafen-Holding
+sbj	54,60	7	20	auch der Königs-Wusterhausener Bürgermeister Jochen Wagner
+sbj	63,65	8	16	die Stadtverordneten
+other	69,77	8	21	für die weitere Erschließung des neuen Ortsteils Diepensee
+other	73,77	8	4	des neuen Ortsteils Diepensee
+sbj	79,81	9	5	dieser Beschluss
+other	82,87	9	_	nicht mal mehr das Papier
+sbj	92,93	9	5	er
+sbj	96,97	9	23	Das
+sbj	104,111	11	17	die Angebotsfrist für die Privatisierung der Flughafen-Holding
+other	106,111	11	0	für die Privatisierung der Flughafen-Holding
+other	109,111	11	1	der Flughafen-Holding
+sbj	115,117	12	19	das Baukonzern-Bieterkonsortium
+sbj	127,129	13	_	die Holding-Gesellschafter
+sbj	130,131	13	7	Bund
+sbj	132,133	13	9	Brandenburg
+sbj	134,135	13	14	Berlin
+not_specified	136,140	13	_	sowohl die Kosten für
+dir-obj	136,148	13	_	sowohl die Kosten für den Ausbau und die Anbindung des Flughafens Schönefeld
+other	139,142	13	_	für den Ausbau
+other	139,144	13	_	für den Ausbau und die
+other	139,148	13	13	für den Ausbau und die Anbindung des Flughafens Schönefeld
+not_specified	145,148	13	12	des Flughafens Schönefeld
+other	151,155	13	2	für die Umsiedlung Diepensees
+other	154,155	13	4	Diepensees

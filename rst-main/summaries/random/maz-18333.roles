@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	22,23	0	0	der
+sbj	37,40	0	15	die B 101
+other	40,43	0	4	durch die Stadt
+sbj	2,3	1	4	Luckenwalde
+other	5,10	1	10	aus den Millionen des Urban-Projektes
+other	8,10	1	8	des Urban-Projektes
+other	10,14	1	9	in den nächsten Jahren
+sbj	139,142	2	1	Die neue Straße

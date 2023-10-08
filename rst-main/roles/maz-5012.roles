@@ -1,0 +1,20 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,7	1	14	Die Wiederwahl von Landrat Schröder
+other	4,7	2	0	von Landrat Schröder
+other	8,13	2	13	schon vor der gestrigen Wahl
+other	16,24	2	4	Neben den nur wenig bestrittenen Qualitäten des Verwaltungschefs
+other	22,24	3	0	des Verwaltungschefs
+other	39,42	3	3	um den Posten
+sbj	45,47	3	16	Die Zeiten
+other	59,60	5	0	Schröder
+not_specified	64,65	5	12	MBS
+other	74,77	5	9	an den kommenden
+sbj	78,79	5	2	sie
+sbj	84,86	6	1	die Auseinandersetzungen
+sbj	94,95	6	1	sie
+other	109,113	7	_	um Geld und die
+other	109,114	7	_	um Geld und die Freiräume
+sbj	125,127	8	0	die Verwaltungsspitze
+sbj	131,132	9	0	sie
+other	145,147	9	6	der Altkreise
+other	156,158	9	5	im Sozialetat

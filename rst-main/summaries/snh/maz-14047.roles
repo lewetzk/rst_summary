@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	65,67	0	7	das Paracelsus-Krankenhaus
+other	71,75	0	18	mit der Nauener Havellandklinik
+other	73,74	0	19	Nauener
+other	75,81	0	12	unter dem Dach einer kreiseigenen GmbH
+sbj	82,85	1	7	das Rathenower Krankenhaus
+other	83,84	1	8	Rathenower

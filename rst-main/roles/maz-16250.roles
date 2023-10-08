@@ -1,0 +1,40 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	4,7	2	19	die beste Verteidigung
+dir-obj	10,11	3	_	das
+sbj	13,18	3	_	die Strategen von der Bundeswehr
+other	15,18	3	_	von der Bundeswehr
+other	21,22	4	_	Bombodrom
+sbj	24,26	4	_	die Militärs
+other	28,32	4	_	am Vorbild des alten
+other	30,32	4	_	des alten
+other	33,35	4	_	Marschalls Vorwärts
+not_specified	34,35	4	_	Vorwärts
+other	37,38	4	_	Blücher
+other	41,45	5	_	der Hauptargumente der Schießplatz-Gegner
+other	43,45	5	_	der Schießplatz-Gegner
+other	46,51	5	_	die Gefahr für den Tourismus
+other	48,51	5	_	für den Tourismus
+sbj	53,54	5	_	sie
+sbj	71,73	6	_	das Bombodrom
+not_specified	72,73	6	_	Bombodrom
+other	78,81	6	_	auf den Tourismus
+sbj	88,89	8	_	Das
+sbj	103,105	10	_	die Militärs
+other	116,117	11	_	dabei
+dir-obj	139,140	13	_	das
+sbj	147,149	14	_	die Leute
+other	151,156	14	_	in der Nähe von Berlin
+other	154,156	14	_	von Berlin
+sbj	161,162	14	_	Die
+other	167,171	15	_	an den Ruppiner See
+dir-obj	167,175	15	_	an den Ruppiner See oder zum Rheinsberger Schloss
+other	169,170	15	_	Ruppiner
+not_specified	169,171	15	_	Ruppiner See
+other	172,175	15	_	zum Rheinsberger Schloss
+sbj	184,186	15	_	die Bundeswehr
+dir-obj	186,195	15	_	die Region mit ihren Sorgen und mit ihren Chancen
+other	188,191	15	_	mit ihren Sorgen
+other	188,195	15	_	mit ihren Sorgen und mit ihren Chancen
+other	189,190	15	_	ihren
+other	192,195	15	_	mit ihren Chancen
+other	193,194	15	_	ihren

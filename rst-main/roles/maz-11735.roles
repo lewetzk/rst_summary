@@ -1,0 +1,24 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	10,12	2	13	das Geld
+sbj	15,19	2	_	Sowohl die G-20 Gruppe
+sbj	16,19	3	_	die G-20 Gruppe
+sbj	22,24	3	14	die Industrieländer
+sbj	22,28	3	5	die Industrieländer sowie die mächtigsten Schwellenländer
+sbj	25,28	3	15	die mächtigsten Schwellenländer
+other	33,36	3	6	die 183 IWF-Staaten
+other	38,40	3	0	in Ottawa
+other	44,48	3	_	gegen Geldwäsche und die
+other	44,51	3	8	gegen Geldwäsche und die Finanzierung von Terrornetzen
+sbj	58,59	4	19	das
+sbj	66,69	4	20	Der unbeteiligte Beobachter
+sbj	79,81	6	_	die Ausrede
+other	97,102	7	12	Erst nach dem 11. September
+dir-obj	111,115	8	17	den Wohlstand der Nationen
+other	113,115	8	18	der Nationen
+sbj	117,119	8	16	Die USA
+other	131,133	10	3	auf der
+sbj	133,136	10	_	die selben Kandidaten
+sbj	140,142	10	9	die Uno
+other	148,150	11	0	nach Ottawa
+sbj	156,158	11	1	Die Staaten
+not_specified	161,163	11	10	im Zweifelsfall

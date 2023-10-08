@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	49,51	0	2	Die Landwirtschaft
+other	52,54	0	0	in Brandenburg
+other	55,62	0	13	trotz des hohen Beschäftigungsrückgangs nach der Wende
+other	59,62	0	12	nach der Wende

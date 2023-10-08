@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,5	0	11	Die Idee
+sbj	8,10	0	2	Die Stadt
+dir-obj	19,20	0	4	sie
+other	20,23	0	12	in die Erde
+other	29,31	0	13	im Frühjahr
+dir-obj	130,132	1	6	den Stolz
+other	135,138	1	17	für die Allgemeinheit
+other	144,147	1	2	mit der Stadt
+dir-obj	201,203	2	18	die Bestätigung
+sbj	205,206	2	3	sie

@@ -1,0 +1,21 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	9,12	2	8	Im benachbarten Berlin
+other	20,22	3	12	In Bayern
+sbj	26,34	5	9	die Bilder von Männern in Mondanzügen und Atemschutzmasken
+sbj	49,50	7	2	wir
+not_specified	53,55	7	_	der spektakuläre
+sbj	81,83	8	1	die Rettungskräfte
+sbj	92,93	8	1	sie
+dir-obj	93,95	8	2	die Bürger
+sbj	120,121	10	1	sie
+indir-obj	130,131	10	1	ihrem
+indir-obj	130,135	10	_	ihrem steten Bemühen um Vorbeugung
+other	138,142	10	_	zum Beispiel im Brandschutz
+sbj	144,146	10	1	die Feuerwehr
+other	146,152	10	5	schon in der Planung eines Gebäudes
+other	154,155	10	3	Trotzdem
+sbj	156,158	11	0	der Zivilschutz
+not_specified	163,165	12	13	im Gerätehaus
+other	167,169	12	6	ins Technikmuseum
+sbj	172,174	13	11	die Polizei
+sbj	178,180	13	1	die Rettungskräfte

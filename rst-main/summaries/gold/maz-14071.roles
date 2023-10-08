@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,7	0	13	Die Haushaltsdiskussion in Wittstock
+other	5,7	0	2	in Wittstock
+other	84,87	1	12	Vom eigenen Obdachlosenheim
+sbj	89,91	1	2	die Stadt
+sbj	97,100	2	1	Die obdachlosen Wittstocker
+other	101,103	2	10	nach Heinrichsfelde
+other	106,108	2	0	nach Kyritz

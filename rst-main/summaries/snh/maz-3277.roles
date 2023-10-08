@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	127,134	2	1	die Schließung der Filiale am Rehfelder Weg
+other	129,134	2	13	der Filiale am Rehfelder Weg
+other	131,134	2	14	am Rehfelder Weg

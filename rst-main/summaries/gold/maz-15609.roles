@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	1,4	0	0	Die Blankenfelder Gemeindevertreter
+other	2,3	0	1	Blankenfelder
+other	5,6	0	0	ihren
+dir-obj	5,7	0	11	ihren Beschluss
+dir-obj	8,10	0	12	die Straßenlampen
+other	10,13	0	3	in der Nacht
+other	151,154	2	2	mit dem Abschalte-Beschluss
+sbj	155,157	2	0	der Gemeinderat

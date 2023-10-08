@@ -1,0 +1,55 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,5	1	_	Der Krieg
+other	8,10	2	31	in Afghanistan
+other	15,19	2	23	erst am Sonntag Abend
+sbj	21,22	2	4	Er
+other	23,26	3	24	am 11. September
+other	26,34	3	3	mit den Anschlägen von New York und Washington
+other	26,34	3	3	mit den Anschlägen von New York und Washington
+other	29,32	3	11	von New York
+other	29,34	3	32	von New York und Washington
+other	29,34	3	32	von New York und Washington
+other	36,39	3	15	in ihrer Wirkung
+other	37,38	3	3	ihrer
+other	56,58	4	4	der Militärschläge
+sbj	61,62	4	25	das
+other	70,77	4	27	zu den tief verwurzelten Grundwerten unserer Gesellschaft
+other	75,76	4	0	unserer
+other	75,77	4	5	unserer Gesellschaft
+sbj	79,80	4	0	Wir
+other	91,94	5	34	aus der Welt
+indir-obj	102,103	6	0	uns
+sbj	112,113	6	0	wir
+sbj	120,122	6	6	diese Prinzipien
+sbj	147,155	8	8	Auch das Suchen nach möglichen Motiven der Täter
+other	153,155	9	7	der Täter
+sbj	160,161	9	7	Sie
+dir-obj	162,169	10	2	den andauernden Konflikt zwischen Israelis und Palästinensern
+other	170,171	10	26	dabei
+sbj	173,175	10	5	der Westen
+other	185,187	10	2	der Gewalt
+sbj	188,189	10	7	Sie
+dir-obj	190,195	11	13	die Armut der arabischen Welt
+other	192,195	11	33	der arabischen Welt
+other	196,197	11	18	dabei
+sbj	198,205	11	14	die autokratischen und nicht selten korrupten Eliten
+sbj	213,214	11	7	Sie
+dir-obj	215,221	12	28	die Militärpräsenz der USA in Saudi-Arabien
+other	217,219	12	30	der USA
+other	219,221	12	12	in Saudi-Arabien
+sbj	224,225	12	7	sie
+dir-obj	225,228	12	29	die dortige Königsfamilie
+sbj	231,232	12	7	Sie
+dir-obj	233,235	13	_	den westlichen
+sbj	242,243	13	7	sie
+other	250,251	13	1	damit
+sbj	264,265	13	7	Sie
+dir-obj	266,268	14	5	den Westen
+other	269,274	14	9	wegen der Sanktionsopfer im Irak
+other	272,274	14	17	im Irak
+dir-obj	276,281	14	10	die aggressive Aufrüstung Saddam Husseins
+other	279,281	14	16	Saddam Husseins
+dir-obj	282,284	14	4	Diesen Krieg
+other	285,287	15	5	im Westen
+other	290,291	15	20	Deshalb
+indir-obj	292,294	15	7	dem Terror

@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,7	0	11	Der Kurzfilm zu Silvester
+other	191,192	2	15	Das
+sbj	200,202	2	3	der Streit

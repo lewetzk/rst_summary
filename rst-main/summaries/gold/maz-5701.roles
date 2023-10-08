@@ -1,0 +1,19 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+not_specified	12,13	0	_	ihre
+dir-obj	12,14	0	_	ihre Soldaten
+sbj	19,21	0	_	die USA
+not_specified	20,21	0	_	USA
+other	24,31	0	_	über den Beginn der Boden-Operation in Afghanistan
+not_specified	27,31	0	_	der Boden-Operation in Afghanistan
+not_specified	30,31	0	_	Afghanistan
+sbj	105,106	1	_	Es
+other	109,110	1	_	dafür
+indir-obj	112,116	1	_	der Zerstörung gegnerischer Einrichtungen
+not_specified	120,123	1	_	gegen die Terror-Netzwerke
+sbj	158,160	2	_	der Luftkrieg
+sbj	168,169	2	_	er
+not_specified	171,174	2	_	dem einsetzenden Winter
+not_specified	171,179	2	_	dem einsetzenden Winter und der unausbleiblichen humanitären Katastrophe
+not_specified	175,179	2	_	der unausbleiblichen humanitären Katastrophe
+not_specified	179,180	2	_	seine
+dir-obj	179,181	2	_	seine Legitimation

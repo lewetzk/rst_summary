@@ -1,0 +1,32 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,5	2	12	der Donau-Radwanderweg
+other	8,12	2	13	wie auch der Münsterland-Radwanderweg
+sbj	17,20	3	2	der Landkreis Teltow-Fläming
+other	23,24	3	21	Brandenburgs
+other	26,27	3	20	Deutschlands
+sbj	28,32	3	4	der Inbegriff für Inline-Skaten
+other	30,32	3	0	für Inline-Skaten
+sbj	34,36	3	5	Dieser Anspruch
+other	43,45	4	9	Zum einen
+other	46,47	5	18	dafür
+sbj	47,59	5	19	die rund 100 Kilometer langen Rad- und Skatewege im Süden des Kreises
+other	55,59	5	10	im Süden des Kreises
+other	57,59	5	2	des Kreises
+other	63,64	5	17	Außerdem
+sbj	69,72	6	2	die gesamte Region
+dir-obj	82,85	7	2	den Kreis Teltow-Fläming
+other	85,89	7	22	über die Grenzen hinaus
+dir-obj	96,99	7	23	die gesamte Infrastruktur
+other	99,100	7	0	darauf
+dir-obj	103,105	7	0	diese Sportart
+other	111,113	7	11	Im Moment
+other	118,124	8	_	über die zaghaften Versuche im Norden
+other	122,124	8	15	im Norden
+other	127,129	8	16	im Verbund
+sbj	135,136	8	1	Die
+indir-obj	141,143	9	8	den Einwohnern
+dir-obj	144,146	9	7	den Alltag
+other	150,151	10	1	damit
+indir-obj	153,155	10	6	den Touristen
+sbj	161,162	10	3	das
+sbj	166,167	11	3	es

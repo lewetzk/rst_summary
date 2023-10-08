@@ -1,0 +1,4 @@
+#Wunsch nach Frieden
+0	Der Wunsch nach Frieden wächst in Zeiten des Krieges.
+7	Wohl nie.
+14	Auch diese Frage muss erlaubt sein.

@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	44,54	1	1	das gestern gestartete Projekt der PanMedium-Stiftung in der Nedlitzer Straße
+other	48,54	1	0	der PanMedium-Stiftung in der Nedlitzer Straße
+other	50,54	1	18	in der Nedlitzer Straße
+other	55,60	1	17	in die expandierende Potsdamer Hochtechnologie-Landschaft

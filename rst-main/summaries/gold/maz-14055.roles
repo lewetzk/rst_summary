@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+indir-obj	100,102	1	1	der Regierung
+sbj	105,107	1	_	der Mut
+dir-obj	109,111	1	11	den Arbeitsmarkt
+sbj	123,126	2	1	Die Regierung Schröder
+other	125,126	2	0	Schröder
+not_specified	127,129	2	15	der Großindustrie
+indir-obj	127,132	2	6	der Großindustrie und den Gewerkschaften
+indir-obj	130,132	2	8	den Gewerkschaften
+indir-obj	135,137	2	7	dem Mittelstand

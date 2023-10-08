@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	28,29	0	3	er
+other	31,33	0	11	am Montag
+other	33,38	0	6	in der Sitzung des Hauptausschusses
+other	36,38	0	5	des Hauptausschusses
+other	41,48	0	12	um die Abstimmung zum lang diskutierten Schulthema
+other	44,48	0	4	zum lang diskutierten Schulthema
+sbj	7,9	1	3	Gunnar Lade
+sbj	12,13	1	13	das
+sbj	3,4	2	3	Er

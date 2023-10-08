@@ -1,0 +1,28 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	5,7	2	18	des Alters
+sbj	10,12	3	_	die Wahrscheinlichkeit
+sbj	42,43	4	2	sie
+sbj	46,53	4	0	das Beispiel des Senioren-Hauses im Bornstedter Feld
+other	48,53	4	6	des Senioren-Hauses im Bornstedter Feld
+other	50,53	4	5	im Bornstedter Feld
+sbj	56,60	5	21	das Anliegen der Jungen
+other	58,60	5	3	der Jungen
+dir-obj	60,63	5	17	dem der Alten
+other	61,63	5	2	der Alten
+sbj	67,71	5	22	die Form der WG
+other	69,71	5	1	der WG
+other	77,78	6	4	seine
+dir-obj	77,84	6	12	seine eigene Wohnung mit Bad und Küche
+other	91,92	7	24	Dafür
+other	97,100	8	_	im mündlich vereinbarten
+sbj	106,108	9	15	der eine
+sbj	112,114	9	16	der andere
+other	116,118	9	19	zum Baumarkt
+sbj	129,131	11	11	das Ziel
+not_specified	132,134	11	10	Fürs Erste
+sbj	135,137	12	9	das Konzept
+not_specified	151,152	13	8	jene
+other	165,169	13	13	in die geförderten Wohnungen
+sbj	174,176	14	23	die Stadt
+sbj	181,183	15	0	das Experiment
+sbj	186,192	15	_	Und wem 's nicht mehr passt

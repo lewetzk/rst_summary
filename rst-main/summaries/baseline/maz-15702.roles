@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	8,11	0	13	aus den Gefängnissen
+sbj	12,14	0	2	Justizminister Schelter
+sbj	69,70	1	1	er
+sbj	74,76	1	17	das Justizministerium
+other	84,87	1	18	in die Freiheit
+sbj	88,89	1	1	er
+other	151,153	2	4	In Spremberg
+sbj	154,156	2	8	die Wärter
+other	157,161	2	9	nach der einfachen Rechnung
+sbj	163,165	2	10	die Gesamtzahl

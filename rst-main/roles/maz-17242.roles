@@ -1,0 +1,31 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	10,11	2	0	ich
+other	15,19	2	13	in der letzten Minute
+other	19,22	2	14	aus dem Haus
+other	25,32	2	12	in das in der Garage eingemummelte Auto
+other	27,30	2	15	in der Garage
+sbj	35,36	2	0	ich
+dir-obj	36,39	2	16	die miesen Grade
+sbj	48,49	3	0	ich
+other	57,60	3	1	in der Sichtscheibe
+other	62,66	3	21	beim Abbiegen nach links
+dir-obj	67,69	3	20	das Seitenfenster
+not_specified	73,76	3	19	in den Gegenverkehr
+sbj	81,82	4	0	ich
+sbj	90,92	6	23	die einen
+dir-obj	92,94	6	24	die Zeit
+sbj	103,105	6	6	die anderen
+other	111,114	6	8	in den Schuhgeschäften
+sbj	115,118	6	7	die warmen Stiefel
+sbj	124,128	6	17	die Hompage der Standheizungsbauer
+other	126,128	6	10	der Standheizungsbauer
+other	134,135	6	5	die
+other	135,137	6	9	der Wetterkarten
+sbj	140,141	7	0	ich
+other	141,144	7	_	unter dem Stichwort
+other	147,149	7	3	im Internet
+sbj	154,156	8	2	der Surfer
+other	184,185	9	11	dabei
+other	186,189	9	22	Jedenfalls im Winter
+other	191,192	9	18	eure
+sbj	191,193	9	0	eure Jette

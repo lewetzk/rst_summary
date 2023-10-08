@@ -1,0 +1,27 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,5	2	3	Nicht-Teschendorfer
+dir-obj	7,17	2	10	die Sorgen und Nöte um den Lkw-Verkehr im Griebener Weg
+other	11,14	2	13	um den Lkw-Verkehr
+other	11,17	2	11	um den Lkw-Verkehr im Griebener Weg
+other	14,17	2	16	im Griebener Weg
+other	27,28	3	18	deshalb
+sbj	29,30	3	1	es
+sbj	55,56	4	19	ich
+sbj	64,66	5	12	die Brummis
+dir-obj	67,73	5	14	an die Geschwindigkeitsbegrenzung von 30 km/h
+other	89,90	6	5	deshalb
+sbj	94,96	7	9	die Gemeinde
+dir-obj	100,102	7	4	die Anlieger
+indir-obj	102,103	7	8	dabei
+other	108,113	8	6	zu den Argumenten der Gegenseite
+other	111,113	8	7	der Gegenseite
+other	127,130	9	2	gegenüber der Konkurrenz
+other	137,139	9	23	zur Unrentabilität
+other	137,141	9	_	zur Unrentabilität , Aufgabe
+other	137,148	9	15	zur Unrentabilität , Aufgabe des Firmenstandortes und den Verlust von Arbeitsplätzen
+other	140,148	9	17	Aufgabe des Firmenstandortes und den Verlust von Arbeitsplätzen
+other	144,148	9	25	den Verlust von Arbeitsplätzen
+indir-obj	165,166	11	0	deren
+other	165,167	11	20	deren Angehörige
+sbj	177,178	12	21	ich
+sbj	185,186	12	22	Sie

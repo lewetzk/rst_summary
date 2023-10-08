@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	81,83	1	1	die Rettungskräfte
+sbj	92,93	1	1	sie
+dir-obj	93,95	1	2	die Bürger

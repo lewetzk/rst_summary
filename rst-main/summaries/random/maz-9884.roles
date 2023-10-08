@@ -1,0 +1,39 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	33,34	0	5	beide
+other	36,39	0	18	für ihre Koalition
+other	37,38	0	5	ihre
+dir-obj	42,48	0	19	das Ärgerliche in den vergangenen Tagen
+other	44,48	0	20	in den vergangenen Tagen
+sbj	50,52	0	_	das Wie
+other	63,64	0	6	ihr
+dir-obj	63,65	0	16	ihr Gewissen
+other	65,66	0	17	deshalb
+other	68,73	0	22	in den Vorzimmern der Macht
+other	71,73	0	23	der Macht
+other	106,109	1	_	in der Zeit
+sbj	111,112	1	1	er
+other	117,121	1	_	mit eben denselben Argumenten
+other	124,128	1	25	aus dem pazifistischen Lager
+indir-obj	128,130	1	31	der Regierung
+dir-obj	132,133	1	_	Kohl
+dir-obj	132,137	1	_	Kohl , Genscher und Kinkel
+dir-obj	134,135	1	_	Genscher
+dir-obj	136,137	1	_	Kinkel
+indir-obj	143,145	1	_	den Kritikern
+other	145,146	1	_	ihr
+dir-obj	145,147	1	_	ihr Gewissen
+sbj	149,156	2	_	Die anfängliche Überreaktion von Kanzler und Außenminister
+other	152,154	2	_	von Kanzler
+other	152,156	2	_	von Kanzler und Außenminister
+other	152,156	2	_	von Kanzler und Außenminister
+sbj	164,165	2	_	sie
+dir-obj	167,170	2	_	das Misstrauen jener
+other	169,173	2	_	jener fürchten , die
+other	173,175	2	_	mit Amerika
+sbj	181,182	2	_	Schröder
+dir-obj	183,184	2	_	Schmidt
+other	184,187	2	_	wegen dessen Amerikahörigkeit
+other	185,186	2	_	dessen
+sbj	189,190	2	_	Fischer
+other	190,192	2	_	in Mutlangen
+other	192,195	2	_	gegen die Nachrüstung

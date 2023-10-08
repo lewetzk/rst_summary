@@ -1,0 +1,31 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,7	2	1	die Güterfelder Gemeindevertreter
+other	9,12	2	14	aus ihrer Eigenständigkeit
+other	10,11	2	1	ihrer
+other	15,24	2	7	In ihrer letzten Sitzung vor der Eingemeindung nach Stahnsdorf
+other	16,17	3	1	ihrer
+other	19,24	3	4	vor der Eingemeindung nach Stahnsdorf
+other	22,24	3	21	nach Stahnsdorf
+sbj	25,26	3	1	sie
+other	27,30	3	_	vor der Gewissensfrage
+other	32,42	3	_	zum Ausgliederungsverfahren für das Gewerbegebiet im Priesterweg aus dem Landschaftsschutzgebiet
+other	34,39	3	5	für das Gewerbegebiet im Priesterweg
+other	37,39	3	15	im Priesterweg
+other	39,42	3	_	aus dem Landschaftsschutzgebiet
+other	50,52	4	19	in Güterfelde
+other	54,55	4	18	dazu
+other	59,60	4	20	Dabei
+other	64,67	5	_	um den Bauernmarkt
+other	72,76	5	23	nach den jüngsten Ereignissen
+sbj	86,91	6	_	die Zukunft der anderen Betriebe
+other	88,91	6	_	der anderen Betriebe
+other	109,113	6	_	Trotz der rechtlichen Verfehlungen
+indir-obj	115,119	7	13	dem Marktbetreiber Jürgen Wache
+indir-obj	124,127	7	1	den Güterfelder Gemeindevertretern
+other	127,131	7	0	bei ihrer heutigen Entscheidung
+other	128,129	7	1	ihrer
+other	139,141	8	16	zur Natur
+dir-obj	146,150	8	9	das Schicksal von Menschen
+sbj	155,156	8	2	er
+other	156,157	8	3	dafür
+indir-obj	167,169	8	10	diesem Gewissenskonflikt

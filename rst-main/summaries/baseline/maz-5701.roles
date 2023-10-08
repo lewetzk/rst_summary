@@ -1,0 +1,13 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,4	0	18	Die Nachrichtenlage
+sbj	88,93	1	_	der Beginn von begrenzten Boden-Operationen
+not_specified	93,95	1	_	im Westen
+sbj	105,106	1	_	Es
+other	109,110	1	_	dafür
+indir-obj	112,116	1	_	der Zerstörung gegnerischer Einrichtungen
+not_specified	120,123	1	_	gegen die Terror-Netzwerke
+sbj	183,185	2	_	die USA
+not_specified	184,185	2	_	USA
+not_specified	185,186	2	_	ihren
+dir-obj	185,187	2	_	ihren Rückhalt
+not_specified	187,189	2	_	in Westeuropa

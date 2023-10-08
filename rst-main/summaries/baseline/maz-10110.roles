@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	3,4	0	8	es
+other	6,9	0	11	in dieser Region
+sbj	15,16	0	20	wir
+other	16,21	0	12	an dieser und anderer Stelle
+sbj	179,180	2	1	Das

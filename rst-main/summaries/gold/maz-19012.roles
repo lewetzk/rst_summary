@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	103,106	0	1	die weiße Weihnacht
+indir-obj	111,113	0	20	der Vergangenheit
+other	115,118	1	11	In diesem Jahr
+sbj	119,120	1	1	sie
+other	122,125	1	12	in den Süden
+sbj	188,191	2	16	Die meisten Menschen
+other	193,196	2	1	auf den Wetterumschwung

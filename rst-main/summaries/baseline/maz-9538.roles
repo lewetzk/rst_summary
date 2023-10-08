@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	10,15	0	3	die Mitglieder des Prignitzer Kreistages
+other	12,15	0	0	des Prignitzer Kreistages
+other	13,14	0	4	Prignitzer
+sbj	112,113	1	5	er
+other	113,116	1	1	mit seinem Amt
+other	114,115	1	5	seinem
+indir-obj	182,184	2	4	den Prignitzern
+not_specified	190,192	2	16	ins Ungewisse

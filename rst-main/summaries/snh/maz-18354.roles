@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	80,83	0	28	beim ersten Spatenstich
+sbj	120,122	1	6	Hildegard Uebe
+dir-obj	123,125	1	_	die Gelegenheit
+other	126,132	1	20	mit dem Chef des Straßenbauamtes Wünsdorf
+other	129,132	1	22	des Straßenbauamtes Wünsdorf
+other	131,132	1	29	Wünsdorf
+other	137,143	1	14	über die trotz Umgehung bleibenden Probleme
+other	139,141	1	5	trotz Umgehung
+sbj	157,159	2	3	Minister Meyer
+dir-obj	159,161	2	1	die Klosteraner
+other	162,166	2	15	auf den nächsten Bundesverkehrswegeplan

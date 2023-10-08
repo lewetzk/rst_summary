@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	161,163	0	11	am Ende
+sbj	165,169	0	27	der Verkauf von Tafelsilber
+other	170,172	1	25	Dieses Problem
+sbj	170,175	1	24	Dieses Problem und das Haushaltsloch
+other	173,175	1	23	das Haushaltsloch

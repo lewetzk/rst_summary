@@ -1,0 +1,13 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,5	0	12	niemand
+other	5,9	0	1	unter den Dallgower Kommunalpolitikern
+other	7,8	0	6	Dallgower
+sbj	13,14	0	1	alle
+other	16,18	0	11	zur Gemeindereform
+dir-obj	19,26	0	14	den vorausgehenden Verhandlungen mit den südlichen Nachbarn
+other	22,26	0	15	mit den südlichen Nachbarn
+sbj	91,93	1	4	die CDU
+sbj	150,152	2	2	Die anderen
+indir-obj	153,156	2	8	am nächsten Mittwoch
+sbj	160,161	2	2	sie
+dir-obj	161,162	2	19	es

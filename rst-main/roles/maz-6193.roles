@@ -1,0 +1,29 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,8	2	_	es Wirklichkeit werden , was
+sbj	8,11	2	9	die Procurand AG
+sbj	29,32	3	2	allein diese Nachricht
+not_specified	44,45	4	10	das
+other	50,55	4	3	mit der Investruine am Görnsee
+not_specified	53,55	4	11	am Görnsee
+sbj	61,64	5	3	das halbfertige Hotel
+other	67,69	5	13	Im Erdgeschoss
+sbj	84,86	7	6	die Bausubstanz
+not_specified	87,90	7	5	durch den Leerstand
+other	93,94	7	8	Zudem
+sbj	95,98	8	3	der wuchtige Mehrgeschosser
+other	101,105	8	_	der jüngsten Grebser Geschichte
+other	103,104	8	0	Grebser
+sbj	107,111	8	7	nicht nur die Gemeindevertreter
+dir-obj	120,122	9	3	das Hotel
+sbj	129,130	9	1	er
+other	131,134	9	0	von der Kommune
+sbj	141,143	10	1	Der Mann
+other	158,159	12	1	seine
+sbj	158,160	12	4	seine Vergangenheit
+other	164,167	12	3	über dem Hotelkomplex
+sbj	172,175	13	12	das Amtsgericht Potsdam
+other	174,175	13	14	Potsdam
+dir-obj	178,179	13	3	es
+sbj	194,196	15	16	der Käufer
+sbj	201,203	15	15	das Seniorenheim
+indir-obj	203,205	15	3	dem Haus

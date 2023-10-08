@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	76,78	1	2	Den Literaturpreis
+other	82,84	1	18	Hanns Cibulka
+sbj	82,93	1	4	Hanns Cibulka und Wulf Kirsten , Volker Braun und Thomas Rosenlöcher
+other	85,87	1	8	Wulf Kirsten
+other	88,90	1	19	Volker Braun
+other	91,93	1	20	Thomas Rosenlöcher
+sbj	146,148	2	1	Susanne Paulsen
+dir-obj	149,151	2	2	den Preis
+indir-obj	157,159	2	10	dem Leser
+dir-obj	159,164	2	9	die rätselhafte Welt der Pflanzen
+other	162,164	2	11	der Pflanzen

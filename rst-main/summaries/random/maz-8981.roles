@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	166,167	0	3	es
+sbj	17,20	1	2	der Landkreis Teltow-Fläming
+other	23,24	1	21	Brandenburgs
+other	26,27	1	20	Deutschlands
+sbj	28,32	1	4	der Inbegriff für Inline-Skaten
+other	30,32	1	0	für Inline-Skaten
+other	111,113	2	11	Im Moment
+other	118,124	2	_	über die zaghaften Versuche im Norden
+other	122,124	2	15	im Norden
+other	127,129	2	16	im Verbund

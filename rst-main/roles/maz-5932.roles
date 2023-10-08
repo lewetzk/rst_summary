@@ -1,0 +1,38 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	10,15	2	21	im Bereich des Amtes Dahme
+other	12,15	2	20	des Amtes Dahme
+sbj	19,22	2	_	Die zahlreichen Appelle
+other	24,28	3	23	in der Landeshauptstadt Potsdam
+not_specified	27,28	3	30	Potsdam
+other	32,35	3	24	in der Provinz
+sbj	41,44	3	2	Die lokalen Akteure
+other	45,50	4	28	bei der Bildung größerer Gemeinden
+other	58,61	5	29	für dieses Zaudern
+sbj	62,69	5	31	Die als hoch verschuldet geltende Stadt Dahme
+indir-obj	70,73	5	12	den umliegenden Dörfern
+other	84,88	6	6	in der Dahmer Region
+other	86,87	6	32	Dahmer
+sbj	96,100	7	_	die Fusion von Ihlow
+other	98,100	7	27	von Ihlow
+other	98,102	7	16	von Ihlow , Illmersdorf
+other	98,104	7	13	von Ihlow , Illmersdorf , Rietdorf
+other	98,106	7	11	von Ihlow , Illmersdorf , Rietdorf , Niendorf
+other	98,108	7	15	von Ihlow , Illmersdorf , Rietdorf , Niendorf , Bollensdorf
+other	98,110	7	14	von Ihlow , Illmersdorf , Rietdorf , Niendorf , Bollensdorf und Mehlsdorf
+other	110,112	7	0	zu Groß-Ihlow
+sbj	113,116	7	0	Dieses neue Gebilde
+other	117,126	8	26	sowohl von den Bürgern als auch durch den Kreistag
+other	118,121	8	17	von den Bürgern
+other	123,126	8	19	durch den Kreistag
+dir-obj	129,133	9	1	die anderen größeren Gemeinden
+other	138,143	9	5	beim Urnengang am nächsten Sonntag
+other	140,143	9	25	am nächsten Sonntag
+sbj	146,147	9	1	sie
+indir-obj	147,151	9	4	dem Willen der Einwohner
+other	149,151	9	22	der Einwohner
+not_specified	165,177	10	7	Im Vergleich zur bislang praktizierten Kleinstaaterei im ländlich geprägten Süden des Kreisgebietes
+other	167,177	10	33	zur bislang praktizierten Kleinstaaterei im ländlich geprägten Süden des Kreisgebietes
+other	171,177	10	10	im ländlich geprägten Süden des Kreisgebietes
+other	175,177	10	8	des Kreisgebietes
+sbj	178,179	10	1	sie
+sbj	180,183	10	9	das kleinere Übel

@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	6,8	0	0	Gerd Stuckenbrok
+other	11,14	0	9	für die CDU
+sbj	81,82	1	0	Stuckenbrok

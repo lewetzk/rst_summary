@@ -1,0 +1,16 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,6	0	4	Die Ketziner und Paretzer
+other	5,6	0	0	Paretzer
+other	8,11	0	15	aus der Zeitung
+sbj	14,15	0	4	sie
+other	17,19	0	28	nach Uetz
+other	17,21	0	29	nach Uetz , Marquardt
+other	17,23	0	20	nach Uetz , Marquardt und Potsdam
+other	17,23	0	20	nach Uetz , Marquardt und Potsdam
+other	25,27	0	19	über Falkenrehde
+sbj	117,119	1	2	die Landwirte
+other	119,122	1	12	mit ihren Traktoren
+other	120,121	1	2	ihren
+other	124,130	1	10	auf die Felder jenseits des Kanals
+other	127,130	1	11	jenseits des Kanals
+sbj	133,135	2	3	das Wasserstraßenneubauamt

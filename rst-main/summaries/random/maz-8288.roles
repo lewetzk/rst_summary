@@ -1,0 +1,13 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	18,20	0	17	die Unterlagen
+other	22,25	0	6	in den Ämtern
+other	100,103	1	14	um die Verhandlungsmasse
+other	43,46	2	20	der Rathenower Region
+other	44,45	2	5	Rathenower
+other	46,48	2	13	über Milow
+sbj	52,55	2	19	die Döberitzer Variante
+other	53,54	2	8	Döberitzer
+other	57,59	2	22	des Naturschutzes
+sbj	63,64	2	1	Pritzerbe
+other	64,67	2	21	mit seiner Favoritenrolle
+other	65,66	2	1	seiner

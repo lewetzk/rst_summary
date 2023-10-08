@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	113,114	1	5	Das
+other	115,119	1	_	gegenüber CDU-Mann Wolfgang Engel
+sbj	140,142	2	3	Die CDU
+sbj	149,150	2	3	sie
+other	157,159	2	2	ins Rennen

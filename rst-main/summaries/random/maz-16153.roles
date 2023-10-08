@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	138,142	0	7	die Privatisierung der Flughafengesellschaft
+other	140,142	0	8	der Flughafengesellschaft
+sbj	111,113	1	10	das Planfeststellungsverfahren
+sbj	117,119	1	2	die PDS
+sbj	129,131	1	13	die Bedenken
+other	80,85	2	19	beim genauen Lesen des Beschlusses
+other	83,85	2	1	des Beschlusses
+sbj	88,90	2	0	Die Verhandlungspartner
+sbj	102,103	2	0	sie

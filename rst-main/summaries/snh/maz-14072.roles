@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	37,41	0	3	vor dem ersten Wahltag
+other	42,44	0	0	in Velten
+sbj	48,53	0	22	der Streit um die Sache
+other	50,53	0	1	um die Sache
+sbj	68,69	1	19	Das
+other	83,85	2	_	an denen
+other	87,89	2	2	hinter ihnen
+other	165,170	3	11	um den Verfall der Sitten
+other	168,170	3	12	der Sitten

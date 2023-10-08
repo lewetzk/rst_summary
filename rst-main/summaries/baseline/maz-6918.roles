@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,4	0	_	Der Naturpark
+other	6,12	0	14	zwischen Jüterbog , Luckenwalde und Treuenbrietzen
+other	7,8	0	12	Jüterbog
+other	9,10	0	7	Luckenwalde
+not_specified	11,12	0	15	Treuenbrietzen
+other	15,18	0	0	außerhalb der Region
+sbj	93,98	1	10	Die Wanderdüne bei Forst Zinna
+sbj	170,171	2	2	Stolpe

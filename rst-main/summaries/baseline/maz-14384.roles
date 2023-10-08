@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	7,9	0	0	aufs Hainholz
+sbj	15,16	0	1	sie
+sbj	87,88	1	11	Das
+other	90,93	1	17	für die Jugend
+dir-obj	204,205	2	20	Sie
+other	208,210	2	0	ins Grüne

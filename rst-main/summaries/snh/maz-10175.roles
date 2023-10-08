@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	110,113	0	4	die politischen Bedenken
+sbj	116,121	0	5	der Krieg gegen die Taliban
+other	118,121	0	1	gegen die Taliban

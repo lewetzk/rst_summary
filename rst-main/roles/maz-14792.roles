@@ -1,0 +1,28 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	6,8	1	3	Die Bösen
+other	15,19	3	10	zur Finanzierung der Landesgartenschau
+other	17,19	3	1	der Landesgartenschau
+other	21,22	3	15	der
+dir-obj	26,27	3	14	Das
+other	28,31	4	5	in diesem Tagen
+other	44,49	5	12	über die Finanzierung der Landesgartenschau
+other	47,49	5	1	der Landesgartenschau
+other	53,54	5	13	dem
+dir-obj	58,60	5	1	die Veranstaltung
+sbj	67,69	6	3	die Bösen
+sbj	78,80	6	1	Die Landesgartenschau
+indir-obj	83,84	7	3	ihnen
+sbj	88,90	7	11	Der Bürgermeister
+dir-obj	91,93	8	9	die Finanzsituation
+sbj	97,99	8	4	die Stadt
+sbj	109,110	9	8	das
+other	116,118	9	1	zur Landesgartenschau
+indir-obj	127,129	10	6	im Landwirtschaftsministerium
+indir-obj	141,145	10	7	im Laga-Finanzierungskonzept der Stadt
+other	143,145	10	4	der Stadt
+sbj	153,155	11	0	dieses Verwirrspiel
+other	156,157	11	0	es
+dir-obj	159,160	11	2	diejenigen
+dir-obj	166,168	11	1	die Landesgartenschau
+sbj	173,174	11	2	sie
+other	177,179	11	4	in Rathenow

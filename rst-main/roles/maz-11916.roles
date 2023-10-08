@@ -1,0 +1,26 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	20,24	2	12	ab 1. Januar 2002
+sbj	29,30	2	0	Deutschland
+other	39,40	3	0	seinen
+indir-obj	39,43	3	9	seinen Bürgern und Investoren
+dir-obj	43,45	3	10	das Geld
+other	52,57	4	15	für die Einführung neuer Steuern
+sbj	58,60	4	0	der Fiskus
+sbj	62,64	4	2	Die Kapitalertragssteuer
+dir-obj	69,71	5	16	die Schwarzgeld-Wäsche
+sbj	74,76	5	1	Die Bauabzugssteuer
+sbj	92,94	7	_	die vielen
+not_specified	101,104	7	7	unter den Bauherren
+other	114,117	7	14	in die Hand
+other	120,121	7	5	ihr
+dir-obj	120,122	7	8	ihr Unwesen
+sbj	127,129	8	1	die Bauabzugssteuer
+sbj	132,134	8	11	Die Finanzbeamten
+sbj	155,159	10	20	die Bearbeitungszeiten für Steuersachen
+other	173,176	11	6	im Oranienburger Finanzamt
+other	174,175	11	13	Oranienburger
+other	176,179	11	18	im Mai 2001
+other	179,180	11	4	ihre
+dir-obj	179,181	11	17	ihre Einkommenssteuererklärungen
+other	184,187	11	19	auf die Bescheide
+other	191,194	11	_	die , die

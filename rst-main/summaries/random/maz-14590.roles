@@ -1,0 +1,18 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	77,81	0	3	das Votum der Jury
+other	79,81	0	21	der Jury
+other	85,88	0	4	Für all das
+other	90,92	0	0	in Rheinsberg
+sbj	94,96	0	_	Siegfried Matthus
+sbj	100,104	0	7	Leiter der dortigen Kammeroper
+other	101,104	0	13	der dortigen Kammeroper
+other	53,54	1	5	ihr
+sbj	53,61	1	_	ihr Einsatz für den Wiederaufbau des Rheinsberger Schlosstheaters
+other	55,61	1	18	für den Wiederaufbau des Rheinsberger Schlosstheaters
+other	55,61	1	18	für den Wiederaufbau des Rheinsberger Schlosstheaters
+other	55,63	1	_	für den Wiederaufbau des Rheinsberger Schlosstheaters , die
+other	55,68	1	_	für den Wiederaufbau des Rheinsberger Schlosstheaters , die Entdeckung preußischer Komponisten , das
+other	55,72	1	_	für den Wiederaufbau des Rheinsberger Schlosstheaters , die Entdeckung preußischer Komponisten , das zeitgenössische Musiktheater und den
+other	58,61	1	10	des Rheinsberger Schlosstheaters
+other	59,60	1	0	Rheinsberger
+other	73,74	1	0	Rheinsberg

@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	15,16	0	1	sie
+other	16,21	0	18	bei der Beobachtung des Dancehouse-Geländes
+other	19,21	0	17	des Dancehouse-Geländes
+sbj	162,165	2	5	Die technischen Augen
+dir-obj	169,172	2	23	die entsprechenden Beweise

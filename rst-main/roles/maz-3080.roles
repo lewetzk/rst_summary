@@ -1,0 +1,26 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,11	1	_	Das Zusammenleben von Ausländern und Deutschen hier in Brandenburg
+other	9,11	2	3	in Brandenburg
+sbj	13,20	2	13	der Anteil der Menschen aus anderen Ländern
+other	15,20	2	12	der Menschen aus anderen Ländern
+other	26,31	2	1	vor dem 11. September 2001
+other	40,44	4	5	in den alten Bundesländern
+other	47,48	4	15	der
+other	53,54	4	3	Brandenburg
+other	70,75	4	1	Nach den Anschlägen in Amerika
+other	73,75	5	9	in Amerika
+sbj	76,78	5	17	dieser Zustand
+sbj	86,89	6	2	der wachsame Deutsche
+other	90,92	6	19	im Kopf
+other	92,93	6	2	sein
+dir-obj	92,98	6	0	sein eigenes Bild des islamistischen Kämpfers
+other	95,98	6	20	des islamistischen Kämpfers
+indir-obj	102,103	7	10	dem
+indir-obj	105,107	7	0	diesem Bild
+sbj	118,124	8	11	das Bemühen um ein friedliches Miteinandern
+other	134,135	9	8	diejenigen
+dir-obj	138,140	9	14	das Multikulturelle
+sbj	158,163	11	6	die Interkulturelle Woche in Ludwigsfelde
+other	161,163	11	16	in Ludwigsfelde
+indir-obj	167,173	11	7	der Verständigung für Deutsche und Ausländer
+other	186,189	11	18	in den Köpfen

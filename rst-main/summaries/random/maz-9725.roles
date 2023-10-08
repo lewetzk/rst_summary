@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	116,117	0	1	Sie
+dir-obj	119,122	0	2	die rot-grüne Regierung
+sbj	51,53	1	12	dieser Bundeswehr-Einsatz
+other	56,61	1	13	an die Wurzeln ihrer Identität
+other	59,60	1	3	ihrer
+other	59,61	1	14	ihrer Identität
+sbj	95,97	2	1	die Kritiker
+sbj	101,102	2	1	sie
+dir-obj	103,107	2	9	den Krieg in Afghanistan
+other	105,107	2	8	in Afghanistan
+other	112,113	2	6	daran

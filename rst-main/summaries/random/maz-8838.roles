@@ -1,0 +1,13 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	157,158	0	7	Danach
+sbj	159,161	0	6	das Geld
+sbj	163,164	0	6	es
+other	165,177	0	26	für die Intensivierung des internationalen Austausches von Jugendlichen besonders mit Ländern Osteuropas
+other	168,177	0	15	des internationalen Austausches von Jugendlichen besonders mit Ländern Osteuropas
+not_specified	176,177	0	25	Osteuropas
+other	144,146	1	13	zum Jahresende
+sbj	147,149	1	_	die Möglichkeit
+other	152,155	1	1	in der MAZ-Lokalredaktion
+other	3,7	2	1	In der MAZ-Lokalredaktion Luckenwalde
+other	6,7	2	4	Luckenwalde
+other	9,20	2	0	bereits die zweite Sammelbox für restliches Urlaubsgeld aus aller Herren Länder

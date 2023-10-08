@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	167,169	1	2	Der Bürgermeister
+other	134,135	2	2	Bigalke
+sbj	134,138	2	1	Bigalke und die Seinen
+other	136,138	2	8	die Seinen
+dir-obj	144,147	2	7	diese wichtige Personalie

@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	184,187	0	16	die neue Wache
+other	192,194	0	23	in Babelsberg
+indir-obj	198,200	0	5	der Havel

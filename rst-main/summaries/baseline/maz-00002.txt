@@ -1,0 +1,4 @@
+#Das Büchergeld
+0	Die Litanei ist nicht neu: Eltern beschweren sich über veraltete Schulbücher, Kommunen jammern über leere Kassen und Schulbuchverlage beklagen Umsatzeinbrüche.
+5	Denn in vielen alten Bundesländern gilt noch immer die Lernmittelfreiheit: Eltern müssen nichts zuzahlen.
+10	Deshalb ist auch die Landesregierung gefragt: Es kann nicht sein, dass für teure Modellprojekte wie Schnellläuferklassen oder Ganztagsschulen Geld locker gemacht, aber an der Grundausstattung gespart wird.

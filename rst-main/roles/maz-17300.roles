@@ -1,0 +1,42 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	6,9	2	13	in der Kreispolitik
+dir-obj	10,14	2	17	den Inhalt seines Adventskalenders
+other	12,13	2	0	seines
+other	12,14	2	14	seines Adventskalenders
+sbj	18,23	2	18	die Kandidatur von Schulrat Dolatkiewicz
+other	20,23	2	21	von Schulrat Dolatkiewicz
+other	23,28	2	2	bei der Landratswahl am Donnerstag
+other	26,28	2	15	am Donnerstag
+dir-obj	28,30	2	16	den Abend
+sbj	33,42	2	20	Erst die Stichwahl zwischen Wolfgang Engel und Christian Gilde
+other	36,42	3	12	zwischen Wolfgang Engel und Christian Gilde
+other	37,39	3	4	Wolfgang Engel
+other	40,42	3	1	Christian Gilde
+dir-obj	50,52	3	19	die Entscheidung
+other	58,62	5	25	nach der ersten Runde
+sbj	67,68	5	1	Gilde
+other	68,70	5	_	für die
+sbj	75,76	5	1	Er
+other	87,88	6	1	Seinen
+indir-obj	87,94	6	11	Seinen Zuhörern in der Aula des Oberstufenzentrums
+other	89,94	7	9	in der Aula des Oberstufenzentrums
+other	92,94	7	7	des Oberstufenzentrums
+sbj	102,103	7	1	Gilde
+other	105,109	7	8	auf die eigene Person
+other	109,110	7	1	seinen
+dir-obj	109,111	7	10	seinen Rechenschaftsbericht
+sbj	113,114	7	5	Das
+other	115,119	8	_	gegenüber CDU-Mann Wolfgang Engel
+sbj	132,133	9	1	Gilde
+other	133,135	9	2	im Rennen
+sbj	136,137	9	4	Engel
+sbj	140,142	9	3	Die CDU
+sbj	149,150	10	3	sie
+other	157,159	10	2	ins Rennen
+other	166,170	10	4	nicht für den Mann
+other	166,170	10	4	nicht für den Mann
+other	172,175	10	_	für seinen Posten
+other	173,174	10	4	seinen
+dir-obj	177,178	10	4	ihn
+other	178,182	10	23	zum Befürworter des Bombodroms
+other	180,182	10	6	des Bombodroms

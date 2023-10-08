@@ -1,0 +1,24 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	5,9	2	12	das Leben von Menschen
+other	15,17	3	_	die makabere
+other	23,26	3	13	in diesen Wochen
+indir-obj	27,28	3	4	Denen
+other	34,36	4	15	in Amerika
+sbj	71,72	6	18	sie
+other	72,76	6	16	ganz in der Nähe
+sbj	79,81	6	17	die Briefe
+sbj	92,94	6	1	Die Angst
+dir-obj	95,99	7	9	nicht nur die Empfänger
+dir-obj	104,110	8	0	auch die Mitarbeiter des Hennigsdorfer Briefzentrums
+other	107,110	8	10	des Hennigsdorfer Briefzentrums
+other	108,109	8	11	Hennigsdorfer
+sbj	112,113	8	0	sie
+other	128,130	9	14	in Deutschland
+other	131,133	9	6	am Werk
+other	135,136	10	4	davon
+other	137,139	10	7	in München
+dir-obj	154,159	11	_	die Rechnung für seine Untat
+other	156,159	11	8	für seine Untat
+other	157,158	11	2	seine
+sbj	171,172	11	2	er
+dir-obj	172,173	11	3	sie

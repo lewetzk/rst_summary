@@ -1,0 +1,26 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	17,25	3	9	gerade in den letzten Stunden des alten Jahres
+other	22,25	3	8	des alten Jahres
+dir-obj	26,31	3	10	den Drang zu neuen Streichen
+indir-obj	51,52	4	4	ihnen
+sbj	55,57	5	3	die Polizei
+dir-obj	57,58	5	13	das
+sbj	62,64	5	3	die Beamten
+other	64,66	5	14	am Neujahrstag
+dir-obj	75,79	6	17	den Gang zur Polizei
+other	77,79	6	3	zur Polizei
+other	91,92	6	18	seinen
+dir-obj	91,93	6	1	seinen Briefkasten
+dir-obj	104,106	8	1	den Kasten
+other	115,118	9	7	am 2. Januar
+sbj	121,122	9	5	das
+dir-obj	126,128	9	12	die Entleerungsklappe
+sbj	132,138	9	11	der Druck beim Explodieren pyrotechnischer Erzeugnisse
+other	134,138	9	2	beim Explodieren pyrotechnischer Erzeugnisse
+other	142,143	10	0	sein
+dir-obj	142,144	10	1	sein Posteinwurfbehältnis
+other	153,154	10	0	seine
+dir-obj	153,156	10	6	seine künstlerische Ader
+dir-obj	158,160	10	1	den Briefkasten
+indir-obj	175,180	10	16	dem einen oder anderen Knallfrosch
+sbj	180,183	10	_	der Spaß daran

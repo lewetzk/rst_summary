@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	73,75	0	1	das Problem
+other	143,144	1	15	deshalb
+sbj	148,155	1	8	die Eltern der Jugendlichen im Amtsbereich Temnitz
+other	150,152	1	6	der Jugendlichen
+other	152,155	1	5	im Amtsbereich Temnitz
+other	155,157	1	4	am Dienstag
+other	159,164	1	20	für die Tipps der Polizei
+other	162,164	1	0	der Polizei

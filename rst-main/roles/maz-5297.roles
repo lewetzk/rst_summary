@@ -1,0 +1,31 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,6	1	_	Die Lausitzer Braunkohle AG
+other	10,13	2	9	im abgelaufenen Geschäftsjahr
+other	13,16	2	10	mit der Förderung
+other	13,18	2	_	mit der Förderung und dem
+other	13,19	2	13	mit der Förderung und dem Verkauf
+other	25,26	2	19	Damit
+other	33,35	3	3	der Energiewirtschaft
+other	35,37	3	20	in Ostdeutschland
+other	41,43	4	2	die Laubag
+sbj	41,47	4	_	die Laubag und ihr wichtigster Kunde
+not_specified	44,45	4	16	ihr
+other	44,47	4	_	ihr wichtigster Kunde
+other	48,50	4	1	die Veag
+sbj	59,61	5	1	die Veag
+other	61,66	5	22	wegen der Liberalisierung des Strommarktes
+not_specified	64,66	5	17	des Strommarktes
+other	70,71	5	1	ihre
+dir-obj	70,72	5	18	ihre Strompreise
+sbj	76,77	5	1	sie
+other	78,81	5	21	bei ihrem Lieferanten
+other	79,80	5	1	ihrem
+sbj	83,85	5	2	Die Laubag
+dir-obj	90,91	6	2	sie
+other	99,102	7	8	aus dem Dilemma
+sbj	103,110	7	_	die Bildung eines neuen Energiekonzerns aus Rohstofflieferanten
+sbj	123,125	7	_	Die Idee
+not_specified	129,132	8	12	mit ins Boot
+other	136,138	8	5	im Prinzip
+other	161,164	9	0	im neuen Konzern
+dir-obj	164,166	9	7	das Sagen

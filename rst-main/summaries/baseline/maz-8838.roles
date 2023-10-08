@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	3,7	0	1	In der MAZ-Lokalredaktion Luckenwalde
+other	6,7	0	4	Luckenwalde
+other	9,20	0	0	bereits die zweite Sammelbox für restliches Urlaubsgeld aus aller Herren Länder
+other	157,158	2	7	Danach
+sbj	159,161	2	6	das Geld
+sbj	163,164	2	6	es
+other	165,177	2	26	für die Intensivierung des internationalen Austausches von Jugendlichen besonders mit Ländern Osteuropas
+other	168,177	2	15	des internationalen Austausches von Jugendlichen besonders mit Ländern Osteuropas
+not_specified	176,177	2	25	Osteuropas

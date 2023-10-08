@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	60,62	0	2	Die Verwaltung
+dir-obj	72,74	0	1	die Eltern
+other	80,85	0	8	über den Zustand der Häuser
+not_specified	83,85	0	19	der Häuser
+sbj	105,107	1	1	Die Eltern
+dir-obj	112,114	1	16	den Skandal
+sbj	172,174	2	18	das Rechtsamt
+sbj	176,178	2	0	der Ausschuss

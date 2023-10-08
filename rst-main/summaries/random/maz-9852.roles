@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	19,20	1	1	Sie
+other	152,155	2	16	um ihr Gleichgewicht
+other	153,154	2	0	ihr

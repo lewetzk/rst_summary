@@ -1,0 +1,29 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,7	2	3	das brandenburgische Umweltministerium
+dir-obj	7,13	2	2	den mit 10_000 Mark dotierten Erwin-Strittmatter-Preis
+other	13,18	2	13	an die Schriftstellerin Susanne Paulsen
+other	16,18	2	1	Susanne Paulsen
+other	19,22	2	2	Mit der Auszeichnung
+sbj	37,38	3	16	Das
+sbj	64,68	5	17	Das Verhältnis zur Natur
+other	66,68	6	15	zur Natur
+dir-obj	76,78	6	2	Den Literaturpreis
+other	82,84	7	18	Hanns Cibulka
+sbj	82,93	7	4	Hanns Cibulka und Wulf Kirsten , Volker Braun und Thomas Rosenlöcher
+other	85,87	7	8	Wulf Kirsten
+other	88,90	7	19	Volker Braun
+other	91,93	7	20	Thomas Rosenlöcher
+other	96,99	8	12	aus ihren Gedichten
+other	97,98	8	4	ihren
+dir-obj	105,107	8	0	die Literatur
+sbj	109,111	8	_	Die Zeiten
+other	113,115	9	0	die Literatur
+other	126,127	9	5	Deshalb
+sbj	128,133	10	_	es auch gut , dass
+sbj	133,135	10	3	das Umweltministerium
+other	135,138	10	7	in diesem Jahr
+sbj	146,148	10	1	Susanne Paulsen
+dir-obj	149,151	10	2	den Preis
+indir-obj	157,159	10	10	dem Leser
+dir-obj	159,164	10	9	die rätselhafte Welt der Pflanzen
+other	162,164	10	11	der Pflanzen

@@ -1,0 +1,25 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	2,4	1	12	In Berlin
+sbj	5,8	2	0	die rot-roten Verhandlungspartner
+dir-obj	16,19	2	_	die " heißen
+sbj	25,26	2	17	Olympia
+not_specified	33,35	3	5	das andere
+sbj	35,38	3	6	der Ausbau Schönefelds
+other	37,38	3	20	Schönefelds
+sbj	39,44	3	4	Die Absage an eine Olympiabewerbung
+sbj	39,51	3	14	Die Absage an eine Olympiabewerbung und der Verweis auf die desolate Haushaltslage
+sbj	45,51	4	15	der Verweis auf die desolate Haushaltslage
+other	47,51	4	3	auf die desolate Haushaltslage
+sbj	57,59	5	16	das Flughafen-Votum
+sbj	63,65	6	_	der Eindruck
+other	70,72	6	9	vom Tisch
+sbj	73,75	6	2	die PDS
+other	80,85	7	19	beim genauen Lesen des Beschlusses
+other	83,85	7	1	des Beschlusses
+sbj	88,90	7	0	Die Verhandlungspartner
+sbj	102,103	8	0	sie
+sbj	111,113	9	10	das Planfeststellungsverfahren
+sbj	117,119	9	2	die PDS
+sbj	129,131	9	13	die Bedenken
+sbj	138,142	9	7	die Privatisierung der Flughafengesellschaft
+other	140,142	9	8	der Flughafengesellschaft

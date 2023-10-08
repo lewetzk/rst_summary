@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	5,9	0	12	das Leben von Menschen
+sbj	92,94	1	1	Die Angst
+dir-obj	95,99	1	9	nicht nur die Empfänger
+sbj	171,172	2	2	er
+dir-obj	172,173	2	3	sie

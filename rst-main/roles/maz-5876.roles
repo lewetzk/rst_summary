@@ -1,0 +1,31 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	9,10	2	0	ihre
+dir-obj	9,11	2	10	ihre Patienten
+dir-obj	9,11	2	10	ihre Patienten
+other	12,13	2	0	ihr
+dir-obj	12,14	2	11	ihr Personal
+dir-obj	15,18	2	5	die Kassenärztliche Vereinigung
+not_specified	19,21	2	12	im Unklaren
+sbj	26,27	3	18	sie
+dir-obj	31,32	3	20	sie
+sbj	37,38	3	17	sie
+other	44,46	4	2	in Ludwigsfelde
+indir-obj	47,48	4	4	ihm
+other	48,52	4	_	in den sieben Jahren
+sbj	54,55	4	4	er
+other	57,61	4	5	der Kassenärztlichen Vereinigung Brandenburg
+other	60,61	4	3	Brandenburg
+sbj	71,73	4	4	Ralf Herre
+other	76,78	5	1	im Land
+sbj	96,97	6	15	Das
+other	105,107	7	3	in Brandenburg
+sbj	107,113	7	9	die niedrigsten Arzthonorare der ganzen Bundesrepublik
+other	110,113	7	1	der ganzen Bundesrepublik
+sbj	117,120	8	_	das , was
+other	124,126	8	1	im Land
+other	126,132	8	14	in dieser einen Praxis in Ludwigsfelde
+other	130,132	8	2	in Ludwigsfelde
+other	140,149	8	6	Weder in der Familie noch unter Kollegen oder Freunden
+other	141,144	9	7	in der Familie
+other	156,161	10	19	vom Verfahren über den Zulassungsentzug
+other	158,161	10	8	über den Zulassungsentzug

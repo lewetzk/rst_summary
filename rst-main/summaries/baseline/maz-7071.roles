@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	16,20	0	4	die Bürger dieser Stadt
+other	18,20	0	2	dieser Stadt
+sbj	24,26	0	2	Die Stadt
+indir-obj	28,31	0	5	der hochverschuldeten Wohnungsbaugesellschaft
+other	32,33	0	2	ihre
+dir-obj	32,34	0	14	ihre Pflichten
+sbj	103,105	1	8	die Kämmerei
+other	107,112	1	1	für die Vermögensverwaltung der Stadt
+other	108,112	1	10	die Vermögensverwaltung der Stadt
+indir-obj	110,112	1	2	der Stadt

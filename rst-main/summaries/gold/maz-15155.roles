@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	42,43	0	2	sie
+sbj	46,53	0	0	das Beispiel des Senioren-Hauses im Bornstedter Feld
+other	48,53	0	6	des Senioren-Hauses im Bornstedter Feld
+other	50,53	0	5	im Bornstedter Feld
+not_specified	151,152	2	8	jene
+other	165,169	2	13	in die geförderten Wohnungen

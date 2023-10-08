@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	10,11	0	2	Darin
+other	102,105	1	5	Landrat Christian Gilde
+dir-obj	113,121	1	9	das Reagieren auf möglichen Terror und seine Folgen
+other	115,121	1	0	auf möglichen Terror und seine Folgen
+other	119,120	1	0	seine
+other	119,121	1	7	seine Folgen
+sbj	50,55	2	3	auch die Verantwortlichen des Landkreises
+other	53,55	2	1	des Landkreises
+other	55,58	2	11	mit der Weltlage

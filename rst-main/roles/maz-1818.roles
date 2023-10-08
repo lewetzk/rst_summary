@@ -1,0 +1,24 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,7	1	13	Die innenpolitische Situation in Deutschland
+other	5,7	2	3	in Deutschland
+other	9,15	2	0	seit den Terroranschlägen in den USA
+other	12,15	2	12	in den USA
+other	22,26	3	0	vor dem 11. September
+sbj	30,42	3	4	die in den 70er Jahren gegen die RAF erprobte und bewährte Rasterfahndung
+other	31,35	3	14	in den 70er Jahren
+other	35,38	3	7	gegen die RAF
+sbj	51,53	3	5	diese Maßnahme
+other	55,58	3	6	von den Grünen
+sbj	63,65	4	1	die Basis
+sbj	68,69	4	1	sie
+dir-obj	69,73	4	16	den Ernst der Lage
+other	71,73	4	15	der Lage
+sbj	75,77	4	2	Die PDS
+other	78,81	5	17	in diesen Tagen
+sbj	87,88	5	2	sie
+other	91,94	5	3	im vereinten Deutschland
+sbj	104,108	6	11	der international operierende Terrorismus
+sbj	137,142	6	9	das realitätsferne Herumlavieren der Partei
+other	140,142	6	2	der Partei
+other	142,149	6	8	bereits bei der Berlin-Wahl am 21. Oktober
+other	146,149	6	10	am 21. Oktober

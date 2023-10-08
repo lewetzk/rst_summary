@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	96,100	0	16	die Hälfte der Abfälle
+other	98,100	0	0	der Abfälle
+other	101,105	0	15	in den falschen Kreislauf
+sbj	69,71	1	1	Die Rethmann-Mitarbeiter
+other	75,78	1	24	aus dem Papiercontainer
+other	36,37	2	2	ihren
+dir-obj	36,38	2	0	ihren Müll
+other	39,45	2	6	in die doch einfach gekennzeichneten Behälter

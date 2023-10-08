@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	21,22	0	0	Wittstock
+dir-obj	34,36	0	2	die Innenstadt
+sbj	94,98	1	1	Die Entlastungsstraße für Lkw
+other	100,104	1	2	um die Altstadt herum

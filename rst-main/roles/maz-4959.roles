@@ -1,0 +1,26 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	6,7	2	19	sein
+dir-obj	6,8	2	2	sein Kind
+sbj	17,18	2	2	es
+other	18,22	2	13	am Ende der Fahrt
+other	20,22	2	12	der Fahrt
+sbj	28,34	2	14	Die Kampagne des Amtes für Arbeitsschutz
+other	30,34	3	15	des Amtes für Arbeitsschutz
+other	49,51	4	17	dieser Art
+dir-obj	52,57	4	16	die Sicherheit der jungen Passagiere
+other	54,57	4	3	der jungen Passagiere
+sbj	72,79	6	9	das Unglück von Altlandsberg vor zwei Jahren
+other	74,76	6	8	von Altlandsberg
+other	92,93	6	21	Dazu
+sbj	95,100	7	11	die Fehler der anderen Verkehrsteilnehmer
+other	97,100	7	10	der anderen Verkehrsteilnehmer
+sbj	110,112	9	1	der Bus
+sbj	117,119	9	0	die Fahrer
+sbj	121,123	9	3	die Kinder
+sbj	134,139	9	6	die Gefahr von höherer Gewalt
+sbj	140,143	9	5	der sprichwörtliche Blitzschlag
+sbj	148,152	9	7	Die Wahrscheinlichkeit solcher Unglücke
+sbj	159,168	10	4	die Bedrohung durch so genanntes menschliches und technisches Versagen
+dir-obj	170,171	11	4	die
+dir-obj	177,180	11	_	die Fahrtüchtigkeit aller
+other	182,184	11	18	am Verkehrsgeschehen

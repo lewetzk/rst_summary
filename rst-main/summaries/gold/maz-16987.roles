@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	137,140	0	3	die gesamte Stadtverordnetenversammlung
+other	144,146	0	_	nicht gegen
+sbj	154,155	1	7	das
+sbj	167,170	2	5	solch ein Schießplatz

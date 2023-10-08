@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	42,44	0	1	die Bücherstadt
+other	120,124	2	1	in der grünen Waldstadt
+dir-obj	127,132	2	4	die Beschäftigung mit der Natur
+other	129,132	2	8	mit der Natur

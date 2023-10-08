@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	105,108	0	2	Die Lehniner Gemeinden
+sbj	8,10	1	1	die Damsdorfer
+other	10,12	1	16	am Sonntag
+other	12,15	1	17	für den Wechsel
+other	12,18	1	18	für den Wechsel und für Lehnin
+other	16,18	1	2	für Lehnin
+other	176,177	2	23	Davon
+dir-obj	178,179	2	1	sie
+sbj	179,184	2	25	auch die Bürgerinitiative Pro Emster

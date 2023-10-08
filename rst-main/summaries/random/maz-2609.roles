@@ -1,0 +1,14 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	97,101	0	13	Die Nähe zur Landesregierung
+other	99,101	0	12	zur Landesregierung
+sbj	106,110	0	11	das Tauziehen um Schellnhuber
+other	108,110	0	1	um Schellnhuber
+sbj	36,37	1	1	er
+dir-obj	46,48	1	2	fürs Institut
+other	56,58	1	0	in Potsdam
+other	62,63	1	14	das
+sbj	77,80	2	20	das astrophysikalische Institut
+sbj	85,86	2	6	das
+indir-obj	87,91	2	21	dem ehemaligen AIP-Direktor Hasinger
+dir-obj	91,93	2	22	die Gänsehaut
+other	93,96	2	10	in den Nacken

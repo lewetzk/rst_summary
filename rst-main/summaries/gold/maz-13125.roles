@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	58,59	0	1	wir
+indir-obj	64,65	0	1	uns
+other	66,76	0	0	über den Kampf gegen den Terrorismus in dem asisatischen Land
+other	69,72	0	24	gegen den Terrorismus
+other	72,76	0	4	in dem asisatischen Land
+sbj	98,99	1	3	Es
+sbj	105,106	1	3	es
+indir-obj	106,110	1	14	den Interessen der Machthaber
+other	108,110	1	5	der Machthaber

@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	79,82	0	14	Den dritten Schwerpunkt
+other	87,88	0	4	ihre
+dir-obj	87,91	0	10	ihre Einkäufe oder Arztbesuche
+sbj	145,147	1	3	Die Berufstätigen
+sbj	151,153	1	2	Die RVS
+other	154,155	1	6	deswegen
+sbj	61,63	2	0	die Schüler

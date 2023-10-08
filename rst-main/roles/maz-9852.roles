@@ -1,0 +1,26 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	11,12	2	1	Sie
+dir-obj	19,20	3	1	Sie
+other	40,41	5	15	Deshalb
+other	49,52	6	5	in Königs Wusterhausen
+sbj	52,55	6	4	der Verein Jugendrechtshaus
+other	62,65	7	5	aus dem Ort
+other	70,73	7	_	in die Zukunft
+sbj	81,82	7	3	Sie
+dir-obj	89,92	8	1	die jungen Leute
+other	92,98	8	12	an die Regeln des menschlichen Zusammenlebens
+other	95,98	8	13	des menschlichen Zusammenlebens
+dir-obj	105,106	9	11	dies
+sbj	123,124	11	2	Ihr
+sbj	130,131	13	8	das
+other	133,134	13	9	Zudem
+other	137,140	14	2	der ehemaligen DDR-Bürger
+dir-obj	140,142	14	7	die Arbeit
+other	143,144	14	7	damit
+dir-obj	144,147	14	10	den sozialen Halt
+other	152,155	15	16	um ihr Gleichgewicht
+other	153,154	15	0	ihr
+sbj	164,165	15	6	Sie
+sbj	173,177	16	3	Die Vereinsmitglieder des Jugendrechtshauses
+other	175,177	17	4	des Jugendrechtshauses
+sbj	181,182	18	14	das

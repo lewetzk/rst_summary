@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	75,78	0	3	des Kreises Potsdam-Mittelmark
+sbj	84,85	1	4	Sie
+other	108,111	2	10	bei der ABU-Service-GmbH
+other	108,117	2	15	bei der ABU-Service-GmbH oder nun auch bei der Gesundheitszentrum-GmbH
+other	114,117	2	11	bei der Gesundheitszentrum-GmbH
+sbj	117,123	2	16	der zunächst gut gemeinte soziale Zweck
+other	125,128	2	17	der geschäftlichen Betätigung

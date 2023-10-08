@@ -1,0 +1,4 @@
+#Allianz mit Fragezeichen
+0	Manchmal sind es die kleinen Meldungen am Rande, die mehr über diesen Krieg aussagen als die Erfolgsberichte der Militärs.
+5	Wenn da nicht die politischen Bedenken wären, dass der Krieg gegen die Taliban sich zu einem neuen Bürgerkrieg ausweiten könnte.
+10	Gelingt das nicht, steht die Glaubwürdigkeit der gesamten Anti-Terror-Operation auf dem Spiel.

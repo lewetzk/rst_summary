@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,5	0	12	der Donau-Radwanderweg
+other	8,12	0	13	wie auch der Münsterland-Radwanderweg
+dir-obj	82,85	1	2	den Kreis Teltow-Fläming
+other	85,89	1	22	über die Grenzen hinaus
+dir-obj	96,99	1	23	die gesamte Infrastruktur
+other	99,100	1	0	darauf
+dir-obj	103,105	1	0	diese Sportart

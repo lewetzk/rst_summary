@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	115,120	1	2	bei all diesen strengeren Regelungen
+dir-obj	129,131	1	0	die Falschen
+other	134,135	2	4	jene
+dir-obj	134,143	2	_	jene , die sich artig an die Spielregeln halten
+other	139,142	2	2	an die Spielregeln
+other	145,147	2	5	in Deutschland
+other	151,152	2	4	ihre
+dir-obj	151,154	2	15	ihre geplanten Fahrten
+other	154,158	2	13	bei den zuständigen Stellen

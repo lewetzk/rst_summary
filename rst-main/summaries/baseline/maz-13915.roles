@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	5,7	0	0	die Stadt
+other	8,13	0	10	für die Unterhaltung eigener Immobilien
+other	64,67	1	5	Mit dem Konzept
+other	77,85	1	9	für die Sanierung der oft maroden kommunalen Gebäude
+sbj	164,165	2	2	er
+other	174,175	2	8	dies
+other	180,183	2	1	in der Verwaltung
+other	180,187	2	14	in der Verwaltung und in der SVV
+dir-obj	189,191	2	0	die Stadt

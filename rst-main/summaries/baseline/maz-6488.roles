@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	6,17	0	15	die im Rahmen der Dorferneuerung neu gestaltete Radeweger Ablage inklusive Seebrücke
+other	7,11	0	13	im Rahmen der Dorferneuerung
+other	9,11	0	12	der Dorferneuerung
+other	13,14	0	0	Radeweger
+other	198,199	2	8	Dabei
+sbj	200,202	2	0	das Dorf

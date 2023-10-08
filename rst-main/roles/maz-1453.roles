@@ -1,0 +1,34 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	8,10	2	1	die Damsdorfer
+other	10,12	2	16	am Sonntag
+other	12,15	2	17	für den Wechsel
+other	12,18	2	18	für den Wechsel und für Lehnin
+other	16,18	2	2	für Lehnin
+sbj	24,27	3	0	die Damsdorfer Kommunalpolitiker
+indir-obj	34,35	4	0	ihnen
+other	41,43	4	3	zum Urnengang
+sbj	46,48	4	1	Die Damsdorfer
+sbj	52,54	5	1	die Bevölkerung
+dir-obj	54,59	5	22	das Recht auf einen Bürgerentscheid
+other	65,68	5	8	Aus dem Ergebnis
+sbj	74,76	6	1	Die Damsdorfer
+other	77,79	7	9	von Emster-Havel
+other	77,79	7	9	von Emster-Havel
+other	80,86	7	14	vom dortigen Amtsausschuss und peinlichen Gezänk
+other	91,94	7	19	Nach dem Motto
+sbj	105,108	9	2	Die Lehniner Gemeinden
+sbj	122,127	9	4	Die Politik im dortigen Amtsausschuss
+other	124,127	10	5	im dortigen Amtsausschuss
+other	130,141	10	15	nach dem Emster-Muster : Dorf gegen Dorf , Bündnis gegen Bündnis
+other	142,145	10	6	Aus dem Ergebnis
+sbj	152,154	11	1	die Damsdorfer
+other	155,157	11	7	vom Emster-Amt
+sbj	160,161	11	1	Sie
+dir-obj	162,163	12	20	das
+sbj	167,168	12	1	sie
+other	171,175	12	21	die Nähe zu Lehnin
+other	173,175	12	2	zu Lehnin
+other	176,177	12	23	Davon
+dir-obj	178,179	13	1	sie
+sbj	179,184	13	25	auch die Bürgerinitiative Pro Emster
+other	191,195	13	24	in die Reform- Debatte

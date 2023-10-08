@@ -1,0 +1,4 @@
+#Spendenjagd
+0	Ein Hilfstransport jagt den nächsten.
+5	Hilfe für die Krankenhäuser in Rumänien, Unterstützung für die hungernden Menschen im Sudan, Geld für die Opfer einer vernichtenden Überschwemmung, Spenden, um die Kinder in Afghanistan durch den Winter zu bringen: Die verwirrende Zahl von Spendenbegehren kann einen schnell verzweifeln lassen.
+10	Es kommt weniger darauf an, wem man hilft, wichtig ist vor allem, dass man hilft.

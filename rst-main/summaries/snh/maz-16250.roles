@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	71,73	0	_	das Bombodrom
+not_specified	72,73	0	_	Bombodrom
+other	78,81	0	_	auf den Tourismus
+other	116,117	1	_	dabei

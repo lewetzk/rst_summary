@@ -1,0 +1,24 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	5,7	0	_	Andreas Wansing
+sbj	8,12	0	15	den Geschäftsführer der Wobra
+other	10,12	0	0	der Wobra
+other	16,19	0	_	von seinem Plan
+other	17,18	0	4	seinem
+other	23,29	0	16	aus dem Bestand der Wobra hinaus
+other	26,28	0	0	der Wobra
+not_specified	92,94	1	11	Zum Beweis
+sbj	95,100	1	2	Die damalige Aufsichtsratschefin Margit Spielmann
+other	101,103	1	18	am Samstag
+sbj	105,106	1	2	sie
+other	109,112	1	13	für ihre Wobra-Arbeit
+other	110,111	1	2	ihre
+sbj	115,116	1	7	Schliesing
+other	116,119	1	12	noch im Vorjahr
+other	119,126	1	17	mit der Möglichkeit einer Klage gegen sie
+other	124,126	1	2	gegen sie
+other	128,131	1	14	von der SPD
+other	174,177	2	0	bei der Wobra
+other	179,187	2	3	für die Fehler des Managements und des Aufsichtsrates
+other	182,184	2	10	des Managements
+not_specified	182,187	2	21	des Managements und des Aufsichtsrates
+other	185,187	2	2	des Aufsichtsrates

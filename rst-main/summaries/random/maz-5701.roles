@@ -1,0 +1,17 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	88,93	0	_	der Beginn von begrenzten Boden-Operationen
+not_specified	93,95	0	_	im Westen
+sbj	105,106	0	_	Es
+other	109,110	0	_	dafür
+indir-obj	112,116	0	_	der Zerstörung gegnerischer Einrichtungen
+not_specified	120,123	0	_	gegen die Terror-Netzwerke
+not_specified	12,13	1	_	ihre
+dir-obj	12,14	1	_	ihre Soldaten
+sbj	19,21	1	_	die USA
+not_specified	20,21	1	_	USA
+other	24,31	1	_	über den Beginn der Boden-Operation in Afghanistan
+not_specified	27,31	1	_	der Boden-Operation in Afghanistan
+not_specified	30,31	1	_	Afghanistan
+sbj	48,50	2	_	diese These
+not_specified	54,58	2	_	in den afghanischen Bergen
+not_specified	64,66	2	_	am Boden

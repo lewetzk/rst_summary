@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	93,99	1	19	die Hälfte der Bewohner der Mittelstadt
+other	95,99	1	2	der Bewohner der Mittelstadt
+other	97,99	1	0	der Mittelstadt
+other	100,103	1	12	über den Wegzug

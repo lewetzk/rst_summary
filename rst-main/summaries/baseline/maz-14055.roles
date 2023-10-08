@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	114,118	1	16	Die Probe aufs Exempel
+other	116,118	1	17	aufs Exempel
+other	148,151	2	9	unter diesen Rahmenbedingungen
+not_specified	167,168	2	21	der
+dir-obj	169,172	2	10	die teilnehmende Beobachtung

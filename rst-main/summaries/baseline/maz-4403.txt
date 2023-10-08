@@ -1,0 +1,4 @@
+#Scheibchenweise
+0	Es ist eine erfreuliche Serie: Am Donnerstag vergangener Woche nahmen die Klimafolgenforscher auf dem Telegrafenberg einen Supercomputer in Betrieb, gestern startete eine Hightech-Anlage in den Roten Kasernen, heute wird am Griebnitzsee das Hasso-Plattner-Institut eröffnet...
+4	Im Vergleich zum Hightech-Kollegen in der Medienstadt ist das PanMedium-Unternehmen aber von An- fang an bescheidener ausgelegt.
+8	Das klingt nicht nur technisch sinnvoll, das gibt der Wirtschaft auch finanziell halbwegs die Garantie, kein neues Dienstleister-Fiasko wie bei FX zu erleben.

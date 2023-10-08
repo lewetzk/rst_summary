@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	6,9	0	2	die letzte Lobpreisung
+other	9,12	0	3	für Hans-Joachim Giersberg
+other	95,96	1	3	Sein
+sbj	95,101	1	8	Sein stilles , aber nachhaltiges Eintreten
+other	101,106	1	9	für die Qualitäten der Kulturlandschaft
+other	106,109	1	5	außerhalb seiner Gärten
+dir-obj	119,121	1	1	die Landeshauptstadt

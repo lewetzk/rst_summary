@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	55,58	0	6	die allgemeine Weltlage
+dir-obj	58,59	0	3	das
+sbj	4,6	2	10	Der Ton
+dir-obj	7,9	2	11	die Musik

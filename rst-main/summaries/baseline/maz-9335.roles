@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,7	0	11	Die Stimmung im Pritzwalker Minimal-Markt
+other	4,7	0	2	im Pritzwalker Minimal-Markt
+other	5,6	0	14	Pritzwalker
+other	102,104	1	10	der Ökonomie
+sbj	106,108	1	9	der Sprit
+dir-obj	108,110	1	8	den Lohn
+sbj	176,179	2	16	die alten Verträge
+sbj	184,187	2	0	der neue Inhaber

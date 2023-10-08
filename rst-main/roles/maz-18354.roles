@@ -1,0 +1,44 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,6	1	4	Die Drohung
+other	10,14	2	9	Im August dieses Jahres
+other	12,14	3	19	dieses Jahres
+sbj	19,23	3	10	der Zorn der Klosteraner
+other	21,23	3	1	der Klosteraner
+other	23,26	3	_	in der Ankündigung
+dir-obj	27,36	3	8	den Bau der neuen Bundesstraße und der Ortsumgehung Jüterbog
+other	29,32	3	21	der neuen Bundesstraße
+not_specified	29,36	3	18	der neuen Bundesstraße und der Ortsumgehung Jüterbog
+other	33,36	3	5	der Ortsumgehung Jüterbog
+other	35,36	3	2	Jüterbog
+other	44,48	4	7	am östlichen Rand Jüterbogs
+other	47,48	4	2	Jüterbogs
+sbj	48,50	4	24	die Baumaschinen
+other	50,52	4	23	ins Erdreich
+sbj	53,55	4	5	Die Trasse
+sbj	59,60	5	5	die
+other	62,64	5	0	um Kloster
+other	69,72	5	0	in den Ort
+other	80,83	6	28	beim ersten Spatenstich
+not_specified	92,104	6	16	Übrigens auch nicht nur bei den anwesenden Leuten der Kloster Zinnaer Bürgerinitiative
+other	92,104	6	16	Übrigens auch nicht nur bei den anwesenden Leuten der Kloster Zinnaer Bürgerinitiative
+other	96,104	7	11	bei den anwesenden Leuten der Kloster Zinnaer Bürgerinitiative
+other	100,104	7	1	der Kloster Zinnaer Bürgerinitiative
+other	101,103	7	0	Kloster Zinnaer
+other	109,119	7	6	bei Jüterbogs Vorkämpferin für eine Verkehrsberuhigung in Innenstadt und Schloßstraße
+other	110,111	7	2	Jüterbogs
+sbj	120,122	7	6	Hildegard Uebe
+dir-obj	123,125	8	_	die Gelegenheit
+other	126,132	8	20	mit dem Chef des Straßenbauamtes Wünsdorf
+other	129,132	8	22	des Straßenbauamtes Wünsdorf
+other	131,132	8	29	Wünsdorf
+other	137,143	8	14	über die trotz Umgehung bleibenden Probleme
+other	139,141	8	5	trotz Umgehung
+indir-obj	146,149	8	12	Der euphorischen Stimmung
+sbj	150,151	9	26	das
+sbj	157,159	10	3	Minister Meyer
+dir-obj	159,161	10	1	die Klosteraner
+other	162,166	10	15	auf den nächsten Bundesverkehrswegeplan
+sbj	176,180	12	27	die Mienen der Klosteraner
+other	178,180	12	1	der Klosteraner
+other	181,183	12	3	Des einen
+other	188,190	12	1	des anderen

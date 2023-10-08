@@ -1,0 +1,36 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	6,9	2	2	die letzte Lobpreisung
+other	9,12	2	3	für Hans-Joachim Giersberg
+indir-obj	15,16	3	3	ihm
+indir-obj	16,18	3	2	die Ehrenbürgerwürde
+indir-obj	20,21	3	3	ihm
+sbj	21,22	3	1	Potsdam
+sbj	40,42	4	11	die Anerkennung
+sbj	45,50	4	3	der frühere Generaldirektor der Schlösserstiftung
+other	48,50	4	12	der Schlösserstiftung
+other	52,59	4	6	von der Sorge um die anvertrauten Kunstschätze
+other	55,59	4	0	um die anvertrauten Kunstschätze
+other	63,74	4	7	von der Vision einer Stadt , die durch diese Kunst lebt
+other	70,73	4	0	durch diese Kunst
+sbj	77,78	5	3	Giersberg
+sbj	88,90	5	15	die Kommerzialisierungswogen
+other	90,93	5	16	an die Schlossmauern
+other	95,96	5	3	Sein
+sbj	95,101	5	8	Sein stilles , aber nachhaltiges Eintreten
+other	101,106	6	9	für die Qualitäten der Kulturlandschaft
+other	106,109	6	5	außerhalb seiner Gärten
+dir-obj	119,121	6	1	die Landeshauptstadt
+indir-obj	129,130	7	3	ihm
+sbj	130,131	7	1	Potsdam
+other	134,137	7	14	Mit seinem Ja
+other	135,136	8	3	seinem
+other	137,140	8	13	zu den Schlössernächten
+sbj	141,142	8	3	er
+sbj	154,155	8	3	er
+indir-obj	160,162	9	3	mit Giersberg
+other	165,166	9	3	Sein
+sbj	165,167	9	4	Sein Nachfolger
+sbj	175,176	9	4	er
+indir-obj	179,180	9	17	dem
+indir-obj	184,185	9	3	Giersberg
+other	189,192	9	10	für das Geld

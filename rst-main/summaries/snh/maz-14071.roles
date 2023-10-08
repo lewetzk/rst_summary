@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	97,100	0	1	Die obdachlosen Wittstocker
+other	101,103	0	10	nach Heinrichsfelde
+other	106,108	1	0	nach Kyritz

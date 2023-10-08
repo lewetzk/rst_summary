@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	82,92	1	16	Die mühselige Debatte um das ob und wie der Schloss-Rekonstruktion
+other	85,92	1	14	um das ob und wie der Schloss-Rekonstruktion
+other	90,92	1	13	der Schloss-Rekonstruktion
+other	93,100	1	17	zu den ärgerlichsten Episoden der Berliner Stadtentwicklungspolitik
+other	97,100	1	15	der Berliner Stadtentwicklungspolitik
+sbj	154,158	2	9	die Zeit des Diskutierens
+other	156,158	2	10	des Diskutierens

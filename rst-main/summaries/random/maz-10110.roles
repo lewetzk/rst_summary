@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	68,69	0	0	Das
+sbj	71,77	0	19	das Interesse der Schülerinnen und Schüler
+other	73,77	0	18	der Schülerinnen und Schüler
+other	26,27	2	15	Trotzdem
+other	31,36	2	3	die Industrie- und Handelskammer Potsdam
+other	35,36	2	16	Potsdam
+indir-obj	36,38	2	4	den Schulabgängern
+other	39,42	2	2	in die Ausbildung

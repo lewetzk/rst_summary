@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	79,81	0	3	die Dömnitzstädter
+indir-obj	87,89	1	9	Wolfgang Brockmann
+indir-obj	108,109	3	8	dessen
+sbj	112,117	3	7	der junge Herausforderer Thomas Domres
+other	117,121	3	4	gegen Bürgermeister Dietmar Zigan

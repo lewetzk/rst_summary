@@ -1,0 +1,32 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	1,5	1	11	Auch bei den Senioren
+sbj	6,7	2	20	sie
+sbj	9,11	2	2	die ABM-Lücke
+sbj	15,20	3	2	die Übergangszeiten zwischen zwei Maßnahmen
+other	25,27	4	18	aus uns
+dir-obj	41,44	5	_	auch die Besucher
+other	47,54	5	16	in den Klub in der Papenbrucher Chaussee
+other	50,54	5	15	in der Papenbrucher Chaussee
+other	63,69	6	13	vom Arbeitslosentreff in der Rheinsberger Straße
+other	63,71	6	_	vom Arbeitslosentreff in der Rheinsberger Straße oder dem
+not_specified	63,76	6	22	vom Arbeitslosentreff in der Rheinsberger Straße oder dem Frauen- und Mädchentreff am Marktplatz
+other	65,69	6	23	in der Rheinsberger Straße
+other	74,76	6	21	am Marktplatz
+not_specified	75,76	6	26	Marktplatz
+other	83,84	7	14	deshalb
+sbj	85,86	7	3	sie
+other	101,104	9	12	im sozialen Bereich
+dir-obj	106,110	9	5	die Betreuung von Menschen
+other	122,129	10	7	nicht einfach um das Erledigen von Arbeiten
+other	122,129	10	7	nicht einfach um das Erledigen von Arbeiten
+sbj	137,138	10	8	Das
+sbj	142,144	11	0	der Nachfolger
+dir-obj	144,145	11	5	es
+sbj	152,153	12	0	er
+sbj	161,162	13	17	das
+indir-obj	163,165	13	9	der Sache
+other	165,167	13	19	im Allgemeinen
+sbj	177,179	14	1	der Treff
+sbj	186,188	14	4	Arno Rentsch
+sbj	192,193	14	4	er
+not_specified	199,202	14	25	die endgültige Lösung

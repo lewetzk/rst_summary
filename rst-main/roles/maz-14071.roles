@@ -1,0 +1,28 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,7	1	13	Die Haushaltsdiskussion in Wittstock
+other	5,7	2	2	in Wittstock
+dir-obj	16,20	3	_	die eigenen finanziellen Interessen
+sbj	40,42	4	15	der Haushalt
+sbj	49,51	5	9	die Rechnerei
+other	68,79	6	11	Auch für das kaum öffentlich gemachte Thema der Sozialfürsorgepflicht der Kommune
+other	75,79	7	18	der Sozialfürsorgepflicht der Kommune
+other	77,79	7	2	der Kommune
+other	84,87	7	12	Vom eigenen Obdachlosenheim
+sbj	89,91	8	2	die Stadt
+sbj	97,100	8	1	Die obdachlosen Wittstocker
+other	101,103	9	10	nach Heinrichsfelde
+other	106,108	9	0	nach Kyritz
+other	111,116	10	6	an den Betreiber der Unterkünfte
+other	114,116	10	14	der Unterkünfte
+other	120,123	10	2	für die Stadt
+sbj	125,130	10	4	Die soziale Lage der Betroffenen
+other	128,130	11	1	der Betroffenen
+other	132,135	11	5	bei diesem Rechenbeispiel
+sbj	138,141	11	17	Die moralische Verantwortung
+sbj	145,147	12	_	Die Frage
+sbj	152,156	13	7	die Randgruppe der Obdachlosen
+other	154,156	13	1	der Obdachlosen
+other	156,163	13	8	auch mit dem neuen Quartier in Kyritz
+other	161,163	13	0	in Kyritz
+sbj	173,174	13	1	sie
+other	175,177	13	2	in Wittstock

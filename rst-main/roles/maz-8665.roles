@@ -1,0 +1,24 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	7,9	2	2	in Wusterhausen
+sbj	13,15	3	6	die Gemeindevertretung
+other	26,29	4	1	nach der Idee
+other	43,45	5	1	des Aufstellungsbeschlusses
+other	47,49	5	7	der Erschließungsarbeiten
+sbj	65,67	6	_	Martina Vogel
+not_specified	68,73	7	_	die Bauamtsleiterin in der Großgemeinde
+other	70,73	7	_	in der Großgemeinde
+sbj	77,80	7	2	auch die Stadt
+other	84,85	7	12	davon
+sbj	88,90	8	3	die Leute
+sbj	95,96	8	3	sie
+sbj	102,103	8	3	sie
+sbj	107,109	8	11	die Hoffnung
+sbj	110,111	8	13	Das
+sbj	117,119	9	0	die Gemeinde
+other	130,134	9	_	In der löblichen Absicht
+dir-obj	138,140	10	8	das Hierbleiben
+other	159,161	10	2	In Wusterhausen
+other	168,172	11	14	auch im nahen Bantikow
+other	177,180	11	4	zu diesem Preis
+sbj	183,185	12	6	die Gemeindevertreter
+sbj	189,190	12	5	er

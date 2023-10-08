@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	1,5	0	4	Die Jugendlichen in Zossen
+other	3,5	0	3	in Zossen
+sbj	48,52	1	4	die beiden geladenen Jugendlichen
+other	52,56	1	20	im Laufe des Abends
+other	54,56	1	5	des Abends
+sbj	70,71	1	11	es
+sbj	136,138	2	4	Die Jugendlichen

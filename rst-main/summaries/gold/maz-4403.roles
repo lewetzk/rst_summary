@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	93,100	0	12	Im Vergleich zum Hightech-Kollegen in der Medienstadt
+other	95,100	0	3	zum Hightech-Kollegen in der Medienstadt
+other	97,100	0	11	in der Medienstadt
+sbj	101,103	0	0	das PanMedium-Unternehmen
+sbj	139,141	1	7	Der Computer
+sbj	153,154	2	2	Das
+sbj	160,161	2	2	das
+indir-obj	162,164	2	10	der Wirtschaft
+dir-obj	167,169	2	_	die Garantie
+other	175,176	2	3	FX

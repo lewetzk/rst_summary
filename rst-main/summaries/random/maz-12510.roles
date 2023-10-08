@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	169,177	1	2	der Kampf gegen den Top-Terroristen und seine Helfer
+other	171,174	1	0	gegen den Top-Terroristen
+other	171,176	1	_	gegen den Top-Terroristen und seine
+other	171,177	1	26	gegen den Top-Terroristen und seine Helfer
+not_specified	172,177	1	23	den Top-Terroristen und seine Helfer
+not_specified	175,176	1	25	seine
+indir-obj	63,65	2	3	Diesem Szenario
+sbj	66,68	2	4	die Nachwuchsjournalisten
+dir-obj	68,75	2	24	eine Seite und den Wunsch nach Frieden
+other	71,75	2	5	den Wunsch nach Frieden

@@ -1,0 +1,35 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	9,10	2	7	Rosco
+sbj	15,16	2	7	er
+other	16,17	2	7	sein
+dir-obj	16,19	2	_	sein stärkstes Faustpfand
+sbj	28,30	2	_	Der Coup
+sbj	32,36	3	1	die CDU-OB-Kandidatin Dietlind Tiemann
+other	36,42	3	2	mit dem Verfüllen des Neustädtischen Marktes
+other	39,42	3	3	des Neustädtischen Marktes
+dir-obj	50,52	4	11	die Volksseele
+other	55,57	4	_	das Trauerspiel
+other	61,65	4	_	dieses Sinnbild für Ignoranz
+dir-obj	71,73	5	9	das Problem
+other	77,79	5	16	des Stillstands
+sbj	96,98	6	3	das Loch
+sbj	102,104	6	_	der Selbsthass
+sbj	108,110	6	8	die Brandenburger
+other	110,114	6	3	ob ihrer hässlichen Mitte
+other	111,112	6	8	ihrer
+sbj	118,119	6	8	sie
+other	122,123	6	1	Tiemanns
+sbj	122,124	6	2	Tiemanns Initiative
+dir-obj	126,128	7	5	die SPD
+sbj	134,136	8	5	die SPD
+indir-obj	136,137	8	4	dem
+sbj	140,141	9	5	sie
+other	143,147	9	13	über die SPD-dominierte Verwaltung
+dir-obj	147,149	9	2	das Verfüllen
+dir-obj	153,155	9	12	den Termin
+sbj	163,167	10	6	Der SPD-OB-Kandidat Helmut Schmidt
+sbj	170,171	11	6	er
+dir-obj	172,176	11	9	das Problem Neustadt Markt
+other	174,176	11	3	Neustadt Markt
+sbj	193,194	11	6	er
+sbj	198,204	11	0	der Zeitpunkt in einem halben Jahr

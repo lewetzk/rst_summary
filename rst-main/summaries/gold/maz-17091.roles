@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	115,121	0	9	in die Infrastruktur der einstigen Heinkel-Siedlung
+other	118,121	0	2	der einstigen Heinkel-Siedlung
+other	136,137	1	10	Damit
+sbj	139,143	1	4	der jetzt gegründete Bürgerverein

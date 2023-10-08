@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,8	0	_	es Wirklichkeit werden , was
+sbj	8,11	0	9	die Procurand AG
+dir-obj	120,122	1	3	das Hotel
+sbj	129,130	1	1	er
+other	131,134	1	0	von der Kommune
+sbj	201,203	2	15	das Seniorenheim
+indir-obj	203,205	2	3	dem Haus

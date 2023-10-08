@@ -1,0 +1,42 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	5,7	2	5	am Montag
+sbj	15,16	2	3	Karwe
+other	20,22	2	4	von Neuruppin
+sbj	25,27	2	2	Die Abgeordneten
+dir-obj	30,32	3	8	den Konflikt
+sbj	35,37	3	3	die Karwer
+dir-obj	42,43	3	3	sie
+other	47,49	4	22	des Dankes
+sbj	50,52	4	13	die Ortsbürgermeisterin
+sbj	64,65	6	7	sie
+other	70,78	6	15	Allen Besserungs-Versprechen aus Rathaus und Ratssaal zum Trotz
+other	72,74	7	0	aus Rathaus
+other	72,76	7	14	aus Rathaus und Ratssaal
+other	72,76	7	14	aus Rathaus und Ratssaal
+other	79,81	7	4	Zwischen Neuruppin
+other	79,84	7	21	Zwischen Neuruppin und den Dörfern
+other	82,84	7	25	den Dörfern
+sbj	91,92	8	27	das
+other	94,96	8	5	am Montag
+other	103,109	9	18	über die Zusammenarbeit mit dem Rathaus
+other	106,109	9	0	mit dem Rathaus
+sbj	110,115	9	10	Die knappe Antwort des Bürgermeisters
+other	113,115	10	17	des Bürgermeisters
+dir-obj	116,117	10	1	sie
+other	117,118	10	16	dabei
+sbj	130,131	10	3	Karwe
+other	136,139	11	9	aus dem Haushalt
+dir-obj	141,143	11	12	das Problem
+sbj	144,146	11	23	die Finanzspritze
+sbj	148,150	11	6	Die Ortsteile
+sbj	153,155	12	2	die Abgeordneten
+other	155,157	12	6	mit ihnen
+other	159,160	12	6	ihre
+dir-obj	159,161	12	11	ihre Sorgen
+other	164,165	12	24	dafür
+indir-obj	169,170	12	6	ihnen
+sbj	178,179	12	6	Sie
+sbj	187,188	14	6	sie
+dir-obj	194,195	14	19	das
+indir-obj	195,197	14	4	in Neuruppin
+sbj	202,205	14	26	der nächste Ort

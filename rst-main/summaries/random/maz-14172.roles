@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,5	0	0	Dietmar Zigan
+indir-obj	12,20	0	1	zu seinem Wittenberger Amts- und Parteikollegen Klaus Petry
+other	13,14	0	0	seinem
+other	14,15	0	2	Wittenberger
+indir-obj	70,71	1	0	Zigan
+other	87,92	2	11	neben dem CDU-Kandidaten Karl-Heinz Straßburg
+sbj	102,104	2	12	Die UBG
+dir-obj	105,107	2	10	Horst Jaruczewski

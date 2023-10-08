@@ -1,0 +1,22 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,4	1	3	Er
+sbj	7,9	2	3	Gunnar Lade
+sbj	12,13	3	13	das
+sbj	20,21	4	14	das
+sbj	28,29	5	3	er
+other	31,33	5	11	am Montag
+other	33,38	5	6	in der Sitzung des Hauptausschusses
+other	36,38	5	5	des Hauptausschusses
+other	41,48	5	12	um die Abstimmung zum lang diskutierten Schulthema
+other	44,48	5	4	zum lang diskutierten Schulthema
+other	75,77	6	_	mit denen
+indir-obj	91,93	7	3	Gunnar Lade
+other	93,94	7	15	daher
+sbj	98,99	7	3	er
+dir-obj	99,101	7	9	diese Szenerie
+other	114,115	9	2	seinen
+dir-obj	114,116	9	10	seinen Job
+dir-obj	149,150	12	0	die
+sbj	152,153	12	0	sie
+sbj	163,165	13	_	die Frage
+dir-obj	188,190	14	_	die Courage

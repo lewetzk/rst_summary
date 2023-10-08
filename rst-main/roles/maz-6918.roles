@@ -1,0 +1,24 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,4	1	_	Der Naturpark
+other	6,12	2	14	zwischen Jüterbog , Luckenwalde und Treuenbrietzen
+other	7,8	2	12	Jüterbog
+other	9,10	2	7	Luckenwalde
+not_specified	11,12	2	15	Treuenbrietzen
+other	15,18	2	0	außerhalb der Region
+other	24,25	2	13	Deshalb
+sbj	31,33	3	2	Manfred Stolpe
+indir-obj	33,36	3	3	dem weiträumigen Areal
+other	46,48	4	2	des Ministerpräsidenten
+other	48,51	4	0	in die Provinz
+other	64,71	4	3	Um den etwa 7000 Hektar großen Naturpark
+sbj	77,78	5	9	Das
+other	82,85	6	_	zum erklärten Ziel
+dir-obj	86,89	6	3	den ehemaligen Truppenübungsplatz
+sbj	93,98	6	10	Die Wanderdüne bei Forst Zinna
+sbj	110,114	7	_	Diese Art der Konversion
+other	112,114	8	_	der Konversion
+sbj	115,117	8	11	die Natur
+sbj	126,128	8	_	Die Abschnitte
+other	142,148	10	1	bei der touristischen Erschließung der Konversionsflächen
+not_specified	146,148	10	8	der Konversionsflächen
+sbj	170,171	10	2	Stolpe

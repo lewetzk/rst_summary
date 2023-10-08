@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	89,92	0	3	die gebührenfinanzierten Programme
+other	92,93	0	3	ihren
+dir-obj	92,94	0	_	ihren Auftrag
+dir-obj	95,100	0	10	die fernsehpublizistische und politische Grundversorgung

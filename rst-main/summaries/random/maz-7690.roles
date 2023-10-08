@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	62,64	0	3	Die BSE-Panik
+sbj	165,167	1	19	dieser Trend
+sbj	171,174	1	3	die ganze BSE-Hysterie
+not_specified	174,176	1	17	am Ende
+other	177,178	1	3	ihr
+dir-obj	177,179	1	18	ihr Gutes
+sbj	127,130	2	9	Die regionalen Produkte

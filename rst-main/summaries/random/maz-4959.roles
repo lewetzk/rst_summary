@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	28,34	0	14	Die Kampagne des Amtes für Arbeitsschutz
+other	30,34	0	15	des Amtes für Arbeitsschutz
+other	49,51	0	17	dieser Art
+dir-obj	52,57	0	16	die Sicherheit der jungen Passagiere
+other	54,57	0	3	der jungen Passagiere
+sbj	159,168	2	4	die Bedrohung durch so genanntes menschliches und technisches Versagen

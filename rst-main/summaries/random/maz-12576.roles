@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	60,61	0	14	dafür
+dir-obj	62,64	0	2	den Bürgerentscheid
+sbj	52,54	1	11	Das Resultat
+sbj	145,147	2	15	Jeder Kyritzer
+indir-obj	150,153	2	4	bei den Abgeordneten
+other	153,156	2	17	über die Tatsachen
+other	161,164	2	10	aus ihrer Sicht
+other	162,163	2	4	ihrer

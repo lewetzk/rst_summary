@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+indir-obj	90,93	0	0	Bei solchen Nachrichten
+indir-obj	99,101	0	2	der Nordallianz
+dir-obj	101,103	0	6	auf Kabul
+sbj	143,148	1	18	Das lose Bündnis aus Minderheiten
+dir-obj	153,155	1	17	die Macht
+other	155,158	1	16	über die Paschtunen-Mehrheit
+indir-obj	165,167	1	23	der Lösung
+indir-obj	171,173	1	24	des Problems
+sbj	174,178	2	15	Das Problem der Amerikaner
+other	176,178	2	20	der Amerikaner
+dir-obj	182,184	2	2	die Nordallianz

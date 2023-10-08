@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	80,83	0	2	Außenminister Joschka Fischer
+other	85,86	0	2	seiner
+indir-obj	85,87	0	4	seiner Basis
+dir-obj	114,116	1	0	Den Einsatz
+other	124,125	1	7	Brandenburgs
+dir-obj	126,127	1	8	dies
+not_specified	130,134	1	9	der Gipfel parteipolitischer Bigotterie

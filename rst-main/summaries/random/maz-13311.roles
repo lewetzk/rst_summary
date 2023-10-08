@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	49,55	0	8	Der Anteil politischer Sendungen am Programm
+other	53,55	0	3	am Programm
+sbj	112,115	1	11	das öffentliche Mandat

@@ -1,0 +1,21 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,5	2	1	die Zehdenicker
+sbj	11,13	3	1	die Stadtverordneten
+other	14,17	3	0	mit der Denkmalpflege
+other	30,31	4	1	ihre
+sbj	30,32	4	8	ihre Devise
+sbj	34,35	5	14	das
+sbj	40,44	6	11	die Ansicht der Denkmalpfleger
+other	42,44	6	0	der Denkmalpfleger
+other	55,58	7	12	in ihrem Urzustand
+other	56,57	7	2	ihrem
+other	77,78	8	3	dabei
+other	95,100	9	_	direkt an der Zehdenicker Kirche
+sbj	102,104	9	7	das Kopfsteinpflaster
+sbj	120,122	10	1	die Zehdenicker
+other	122,123	10	4	dagegen
+sbj	132,133	11	1	sie
+other	163,165	12	13	im Nachhinein
+sbj	169,171	12	6	Der Kampf
+dir-obj	176,178	13	5	das Bauvorhaben
+sbj	180,181	13	9	Das

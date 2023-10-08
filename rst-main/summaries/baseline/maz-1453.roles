@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	8,10	0	1	die Damsdorfer
+other	10,12	0	16	am Sonntag
+other	12,15	0	17	für den Wechsel
+other	12,18	0	18	für den Wechsel und für Lehnin
+other	16,18	0	2	für Lehnin
+sbj	105,108	1	2	Die Lehniner Gemeinden
+other	191,195	2	24	in die Reform- Debatte

@@ -1,0 +1,26 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	50,52	0	_	das Wie
+sbj	79,80	1	8	wir
+sbj	98,99	2	30	das
+sbj	100,104	2	27	das Dilemma der Regierenden
+other	102,104	2	28	der Regierenden
+sbj	149,156	3	_	Die anfängliche Überreaktion von Kanzler und Außenminister
+other	152,154	3	_	von Kanzler
+other	152,156	3	_	von Kanzler und Außenminister
+other	152,156	3	_	von Kanzler und Außenminister
+sbj	164,165	3	_	sie
+dir-obj	167,170	3	_	das Misstrauen jener
+other	169,173	3	_	jener fürchten , die
+other	173,175	3	_	mit Amerika
+sbj	181,182	3	_	Schröder
+dir-obj	183,184	3	_	Schmidt
+other	184,187	3	_	wegen dessen Amerikahörigkeit
+other	185,186	3	_	dessen
+sbj	189,190	3	_	Fischer
+other	190,192	3	_	in Mutlangen
+other	192,195	3	_	gegen die Nachrüstung
+sbj	201,202	4	_	Schmidt
+sbj	201,206	4	_	Schmidt , Kohl und Genscher
+sbj	203,204	4	_	Kohl
+sbj	205,206	4	_	Genscher
+other	207,209	4	_	in Washington

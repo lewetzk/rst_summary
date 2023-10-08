@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	17,19	0	7	der Bundestag
+dir-obj	21,24	0	6	den Beschluss darüber
+other	23,24	0	0	darüber
+sbj	27,28	0	0	dies
+sbj	127,129	2	15	hatte das

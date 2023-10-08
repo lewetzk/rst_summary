@@ -1,0 +1,36 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	5,7	2	_	Andreas Wansing
+sbj	8,12	2	15	den Geschäftsführer der Wobra
+other	10,12	2	0	der Wobra
+other	16,19	2	_	von seinem Plan
+other	17,18	2	4	seinem
+other	23,29	2	16	aus dem Bestand der Wobra hinaus
+other	26,28	2	0	der Wobra
+sbj	37,40	3	_	die schmerzlichen Folgen
+other	41,44	3	6	in der Stadt
+sbj	47,53	3	3	die unüberlegten Wobra-Verkäufe an die Aubis
+other	50,53	3	5	an die Aubis
+sbj	56,58	4	5	die Aubis
+dir-obj	59,62	4	20	den Berliner Senat
+other	64,66	4	22	in Brandenburg
+not_specified	92,94	4	11	Zum Beweis
+sbj	95,100	5	2	Die damalige Aufsichtsratschefin Margit Spielmann
+other	101,103	5	18	am Samstag
+sbj	105,106	5	2	sie
+other	109,112	5	13	für ihre Wobra-Arbeit
+other	110,111	5	2	ihre
+sbj	115,116	5	7	Schliesing
+other	116,119	5	12	noch im Vorjahr
+other	119,126	5	17	mit der Möglichkeit einer Klage gegen sie
+other	124,126	5	2	gegen sie
+other	128,131	5	14	von der SPD
+other	137,138	5	9	Deshalb
+sbj	140,141	6	4	Wansing
+other	145,147	6	1	des Verkaufs
+sbj	156,158	7	1	der Verkauf
+other	161,164	7	8	mit den Mietern
+other	174,177	7	0	bei der Wobra
+other	179,187	7	3	für die Fehler des Managements und des Aufsichtsrates
+other	182,184	7	10	des Managements
+not_specified	182,187	7	21	des Managements und des Aufsichtsrates
+other	185,187	7	2	des Aufsichtsrates

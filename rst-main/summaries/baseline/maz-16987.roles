@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	102,104	1	11	Am Mittwochabend
+sbj	105,107	1	2	die CDU-Fraktion
+other	109,112	1	12	während der Sitzung
+dir-obj	118,119	1	4	dies
+other	120,123	1	17	in die Tagesordnung
+sbj	167,170	2	5	solch ein Schießplatz

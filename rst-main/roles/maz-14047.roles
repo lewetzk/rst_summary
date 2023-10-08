@@ -1,0 +1,38 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,10	1	14	Die Anhörung zur Zukunft des Paracelsus-Krankenhauses
+other	6,10	2	1	zur Zukunft des Paracelsus-Krankenhauses
+other	8,10	2	7	des Paracelsus-Krankenhauses
+sbj	13,19	2	6	Die Kreistagsabgeordneten im Kreis- und Krankenhausausschuss
+other	15,17	3	2	im Kreis-
+other	15,19	3	20	im Kreis- und Krankenhausausschuss
+other	15,19	3	20	im Kreis- und Krankenhausausschuss
+sbj	29,32	3	0	Landrat Burkhard Schröder
+sbj	37,38	4	0	er
+dir-obj	38,40	4	4	diese Entscheidungen
+indir-obj	40,44	4	6	den Mitgliedern des Kreistages
+other	42,44	4	2	des Kreistages
+other	50,56	5	16	auf die Vorlage aus der Kreisverwaltung
+other	53,56	5	2	aus der Kreisverwaltung
+sbj	65,67	7	7	das Paracelsus-Krankenhaus
+other	71,75	7	18	mit der Nauener Havellandklinik
+other	73,74	7	19	Nauener
+other	75,81	7	12	unter dem Dach einer kreiseigenen GmbH
+sbj	82,85	7	7	das Rathenower Krankenhaus
+other	83,84	7	8	Rathenower
+sbj	93,95	8	2	der Kreistag
+other	96,98	8	8	in Rathenow
+other	98,99	8	2	seinen
+dir-obj	98,103	8	13	seinen Einfluss auf die Krankenhausentwicklung
+other	100,103	8	1	auf die Krankenhausentwicklung
+sbj	106,107	8	2	er
+sbj	117,118	9	9	das
+other	122,126	9	4	für diesen wichtigen Beschluss
+dir-obj	128,130	9	7	Das Krankenhaus
+sbj	131,135	10	_	der bekommen , der
+dir-obj	135,142	10	10	die wohnortnahe Versorgung von Patienten in Rathenow
+other	140,142	10	8	in Rathenow
+dir-obj	146,153	10	11	die betriebswirtschaftliche und medizinische Qualität des Paracelsus-Krankenhauses
+other	151,153	10	7	des Paracelsus-Krankenhauses
+dir-obj	163,164	10	17	das
+sbj	172,173	10	5	er
+dir-obj	173,175	10	7	das Krankenhaus

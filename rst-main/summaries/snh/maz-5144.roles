@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	162,164	0	13	der Katastrophenschutz
+other	169,171	1	1	Der Landkreis
+sbj	169,174	1	16	Der Landkreis und die Kommunen
+other	172,174	1	12	die Kommunen

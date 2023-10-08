@@ -1,0 +1,4 @@
+#Spähen, nicht spitzeln
+0	Den Hut von Marlowe, die Pfeife von Maigret oder das Strickzeug von Miss Marple kennt Detektiv T. aus Hennigsdorf vom Schmökern.
+5	Und doch macht der junge Mann auch keinen Schmus darum, dass er natürlich auch mal ein bisschen lavieren müsse, um an Informationen zu kommen, die Verwicklungen aufhellen oder Menschen Gewissheit geben, die schwarze Schafe entweder kräftig abseifen oder Einsicht wecken.
+10	Auch T. arbeitet in diesem Spannungsfeld.

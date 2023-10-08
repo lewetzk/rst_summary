@@ -1,0 +1,36 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	10,15	2	1	Bei uns an der Schule
+other	12,15	2	18	an der Schule
+sbj	16,17	2	29	das
+other	24,25	2	1	Unsere
+sbj	24,26	2	19	Unsere Schüler
+sbj	38,39	4	9	ich
+dir-obj	39,40	4	0	sie
+sbj	44,46	4	17	Der Gesetzgeber
+indir-obj	47,49	5	23	dieser Wirklichkeit
+other	56,57	6	2	unsere
+sbj	56,58	6	6	unsere Landesregierung
+dir-obj	60,63	6	_	diese ( scheinbare
+other	66,69	6	4	der beiden Fächer
+sbj	73,74	6	14	Stolpe
+sbj	73,78	6	12	Stolpe , Reiche & Co.
+sbj	75,76	7	13	Reiche
+other	85,87	7	22	aus Karlsruhe
+other	107,108	9	3	dahinter
+sbj	111,115	9	16	Die Schulpolitik in Brandenburg
+other	113,115	10	8	in Brandenburg
+other	116,121	10	20	zur Spielwiese für profilierungssüchtige Politiker
+sbj	168,172	13	11	die Lehrer und Schüler
+other	184,185	14	5	ihr
+dir-obj	184,186	14	4	ihr Fach
+sbj	191,193	14	6	die Regierung
+dir-obj	194,200	14	24	die Anerkennung einer sich bewährenden Praxis
+indir-obj	204,205	15	6	ihr
+other	209,215	15	30	am kirchlichen Mitwirken in der Schule
+other	212,215	15	31	in der Schule
+other	218,219	15	21	Dabei
+sbj	220,221	15	6	sie
+other	225,233	15	27	zur qualifizierten Mitarbeit in dieser Problemzone unserer Gesellschaft
+other	228,233	15	28	in dieser Problemzone unserer Gesellschaft
+other	231,232	15	2	unserer
+other	231,233	15	7	unserer Gesellschaft

@@ -1,0 +1,45 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,4	1	18	Die Nachrichtenlage
+not_specified	12,13	3	_	ihre
+dir-obj	12,14	3	_	ihre Soldaten
+sbj	19,21	3	_	die USA
+not_specified	20,21	3	_	USA
+other	24,31	3	_	über den Beginn der Boden-Operation in Afghanistan
+not_specified	27,31	3	_	der Boden-Operation in Afghanistan
+not_specified	30,31	3	_	Afghanistan
+other	35,36	4	_	davon
+not_specified	41,43	4	_	am Hindukusch
+not_specified	42,43	4	_	Hindukusch
+sbj	48,50	5	_	diese These
+not_specified	54,58	5	_	in den afghanischen Bergen
+not_specified	64,66	5	_	am Boden
+not_specified	72,81	6	_	nach dem Erringen der Lufthoheit über dem verwüsteten Land
+not_specified	75,81	6	_	der Lufthoheit über dem verwüsteten Land
+not_specified	77,81	6	_	über dem verwüsteten Land
+sbj	88,93	7	_	der Beginn von begrenzten Boden-Operationen
+not_specified	93,95	7	_	im Westen
+sbj	105,106	7	_	Es
+other	109,110	8	_	dafür
+indir-obj	112,116	8	_	der Zerstörung gegnerischer Einrichtungen
+not_specified	120,123	8	_	gegen die Terror-Netzwerke
+sbj	130,134	9	_	Die Militärschläge der USA
+not_specified	132,134	10	_	der USA
+not_specified	133,134	10	_	USA
+sbj	148,154	11	_	weder die Taliban noch bin Laden
+not_specified	149,151	11	_	die Taliban
+not_specified	150,151	11	_	Taliban
+not_specified	152,153	11	_	bin
+not_specified	152,154	11	_	bin Laden
+not_specified	153,154	11	_	Laden
+sbj	158,160	12	_	der Luftkrieg
+sbj	168,169	12	_	er
+not_specified	171,174	12	_	dem einsetzenden Winter
+not_specified	171,179	12	_	dem einsetzenden Winter und der unausbleiblichen humanitären Katastrophe
+not_specified	175,179	12	_	der unausbleiblichen humanitären Katastrophe
+not_specified	179,180	12	_	seine
+dir-obj	179,181	12	_	seine Legitimation
+sbj	183,185	12	_	die USA
+not_specified	184,185	12	_	USA
+not_specified	185,186	12	_	ihren
+dir-obj	185,187	12	_	ihren Rückhalt
+not_specified	187,189	12	_	in Westeuropa

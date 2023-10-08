@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	1,5	0	4	Die Jugendlichen in Zossen
+other	3,5	0	3	in Zossen
+sbj	128,129	1	28	das
+sbj	131,132	1	4	sie
+other	132,133	1	2	ihnen
+sbj	205,206	2	1	Die

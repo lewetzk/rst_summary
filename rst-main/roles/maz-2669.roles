@@ -1,0 +1,29 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	3,9	2	13	angesichts der Festlichkeiten zum 40. Stadtjubiläum
+other	6,9	2	12	zum 40. Stadtjubiläum
+other	13,15	2	20	In Falkensee
+sbj	25,27	4	2	Jürgen Bigalke
+other	28,29	4	16	SPD
+dir-obj	33,46	4	6	die mit Finanzdezernentin Ruth Schulz besetzte Stelle der 1. Beigeordneten ( stellvertretende Bürgermeisterin
+other	34,38	4	4	mit Finanzdezernentin Ruth Schulz
+other	40,43	4	_	der 1. Beigeordneten
+dir-obj	51,52	4	14	dies
+other	53,57	4	5	vor dem 11. November
+sbj	66,68	5	4	die Sozialdemokratin
+sbj	75,77	5	2	der Rathauschef
+other	80,81	5	9	damit
+sbj	81,85	5	19	die Ein-Stimmen-Mehrheit der SPD/FDP-Zählgemeinschaft
+not_specified	83,85	5	17	der SPD/FDP-Zählgemeinschaft
+other	85,88	5	18	in der Stadtverordenten-Versammlung
+sbj	91,92	5	21	Das
+sbj	93,95	6	11	der Knackpunkt
+sbj	104,105	7	3	sie
+dir-obj	105,107	7	0	dieses Ansinnen
+sbj	122,124	7	0	die Sache
+other	134,135	9	2	Bigalke
+sbj	134,138	9	1	Bigalke und die Seinen
+other	136,138	9	8	die Seinen
+dir-obj	144,147	9	7	diese wichtige Personalie
+sbj	152,153	10	1	sie
+other	154,157	10	10	nach dem Motto
+sbj	167,169	11	2	Der Bürgermeister

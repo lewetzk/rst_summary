@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,3	0	16	Deutschland
+other	4,8	0	12	am Rande einer Rezession
+sbj	10,12	1	11	die Aussichten
+sbj	121,122	3	4	Das

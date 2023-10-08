@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	3,6	0	_	Schlachtefest - mit
+dir-obj	13,15	0	3	den Schrecken
+other	15,20	0	14	auf die Gesichter der Deutschen
+other	18,20	0	1	der Deutschen
+sbj	165,167	2	19	dieser Trend
+sbj	171,174	2	3	die ganze BSE-Hysterie
+not_specified	174,176	2	17	am Ende
+other	177,178	2	3	ihr
+dir-obj	177,179	2	18	ihr Gutes

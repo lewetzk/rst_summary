@@ -1,0 +1,35 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	6,13	2	11	mit dem Überwinden von Stock und Stein
+sbj	16,17	3	3	sie
+dir-obj	21,29	3	2	die zurzeit noch katastrophale Parkfläche an der Graf-von-Lindenau-Halle
+other	26,29	3	0	an der Graf-von-Lindenau-Halle
+sbj	34,35	3	3	Sie
+dir-obj	36,37	4	20	das
+sbj	40,41	4	7	wir
+other	42,43	4	16	dessen
+dir-obj	50,52	4	5	die Zeilen
+other	56,57	4	1	seine
+dir-obj	56,58	4	6	seine Berechtigung
+other	64,66	4	_	Am Parkplatz
+sbj	80,83	5	22	Die Initiative dazu
+other	82,83	6	23	dazu
+other	84,88	6	4	von der Neustädter Verwaltung
+other	86,87	6	14	Neustädter
+sbj	90,91	6	4	Die
+sbj	99,106	7	15	das juristische Tauziehen mit dem bauausführenden Betrieb
+other	102,106	7	25	mit dem bauausführenden Betrieb
+sbj	114,118	8	_	die total misslungene Abstellfläche
+sbj	127,130	8	10	die vielen Besucher
+other	130,133	8	0	für die Halle
+other	140,143	9	12	in der Zeitung
+sbj	165,166	10	17	Das
+sbj	173,175	11	8	Dieses Jahr
+sbj	182,185	12	9	die stiefelfreie Zeit
+other	190,192	12	_	Beim CSI
+other	193,198	13	19	dem hochdotierten Reitturnier im Januar
+other	196,198	13	21	im Januar
+other	205,207	13	24	Bis dahin
+sbj	213,215	13	3	die Westernreiter
+not_specified	213,218	13	27	die Westernreiter und ihre Fans
+other	216,217	13	3	ihre
+other	216,218	13	26	ihre Fans

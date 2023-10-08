@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	139,141	1	16	zur Natur
+dir-obj	146,150	1	9	das Schicksal von Menschen
+sbj	155,156	1	2	er
+other	156,157	1	3	dafür
+indir-obj	167,169	2	10	diesem Gewissenskonflikt

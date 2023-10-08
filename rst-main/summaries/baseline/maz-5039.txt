@@ -1,0 +1,4 @@
+#Ein übles Verbrechen
+0	Angst kann das Leben von Menschen zerstören.
+5	Die Angst erfasst nicht nur die Empfänger.
+11	Abgelten kann er sie nicht, denn andere Menschen in Angst zu versetzen, das ist ein übles Verbrechen.

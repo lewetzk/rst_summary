@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	96,99	0	12	aus ihren Gedichten
+other	97,98	0	4	ihren
+dir-obj	105,107	0	0	die Literatur
+sbj	109,111	1	_	Die Zeiten
+other	113,115	1	0	die Literatur
+other	126,127	2	5	Deshalb
+sbj	128,133	2	_	es auch gut , dass
+sbj	133,135	2	3	das Umweltministerium
+other	135,138	2	7	in diesem Jahr

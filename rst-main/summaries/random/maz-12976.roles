@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	100,102	1	4	die Basis
+dir-obj	103,105	1	10	die Moral
+dir-obj	107,108	1	2	ihn
+dir-obj	108,111	1	11	die realpolitische Schmutzarbeit

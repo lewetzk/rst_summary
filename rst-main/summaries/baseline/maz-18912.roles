@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	96,97	1	1	wir
+dir-obj	98,99	1	2	sie
+sbj	197,198	2	1	Wir
+indir-obj	199,200	2	1	uns
+other	200,201	2	1	unsere
+dir-obj	200,203	2	23	unsere eigenen Gedanken

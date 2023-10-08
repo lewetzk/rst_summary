@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	78,80	0	8	die Israelis
+other	80,82	0	_	nach Washington
+sbj	92,94	1	1	die Palästinenser
+other	94,97	1	4	zur Europäischen Union
+other	98,109	1	10	zu den arabischen Staaten , von deren Unterstützung sie abhängen .
+sbj	106,107	1	1	sie
+sbj	132,144	2	13	Das vom israelischen Premier verhängte Reiseverbot für Arafat zur Christmette nach Bethlehem
+other	133,136	2	5	vom israelischen Premier
+other	138,140	2	9	für Arafat
+other	140,144	2	12	zur Christmette nach Bethlehem
+other	142,144	2	14	nach Bethlehem

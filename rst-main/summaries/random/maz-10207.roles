@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	79,81	0	3	die Dömnitzstädter
+indir-obj	87,89	0	9	Wolfgang Brockmann
+indir-obj	99,100	0	3	denen
+indir-obj	101,103	0	2	in Perleberg
+indir-obj	108,109	1	8	dessen
+sbj	112,117	1	7	der junge Herausforderer Thomas Domres
+other	117,121	1	4	gegen Bürgermeister Dietmar Zigan
+sbj	152,153	2	4	Zigan
+indir-obj	157,159	2	5	im Amt
+sbj	162,163	2	4	er
+indir-obj	163,166	2	15	nach eigenem Bekunden

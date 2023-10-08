@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	94,105	0	13	den Fahrplan für die Ablösung der einen Währung durch die andere
+other	96,105	0	0	für die Ablösung der einen Währung durch die andere
+other	99,102	0	12	der einen Währung
+other	102,105	0	1	durch die andere
+sbj	114,117	0	_	die , die
+dir-obj	117,118	0	2	sie
+other	125,130	2	_	von der Ausnahme kreisliche Busgesellschaft
+dir-obj	138,140	2	1	die Einheitswährung
+other	145,146	2	24	seine
+dir-obj	145,148	2	20	seine eigene Mark-Epoche

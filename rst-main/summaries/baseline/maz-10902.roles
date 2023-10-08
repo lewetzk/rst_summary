@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	4,7	0	13	an der Schule
+dir-obj	124,126	1	0	das Problem
+sbj	180,184	2	1	Der Elternstammtisch des Jahn-Gymnasiums
+sbj	180,186	2	18	Der Elternstammtisch des Jahn-Gymnasiums und PIRA
+not_specified	182,184	2	16	des Jahn-Gymnasiums
+not_specified	183,184	2	12	Jahn-Gymnasiums
+sbj	185,186	2	2	PIRA

@@ -1,0 +1,33 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,6	2	0	die " Platte
+other	11,14	2	16	wie ihr Ruf
+other	12,13	2	0	ihr
+sbj	18,21	2	17	das Zentrum Ost
+dir-obj	28,31	3	_	die Wiederherstellung ihres
+other	30,31	3	4	ihres
+other	30,33	3	_	ihres - noch
+other	43,45	3	5	am Kiewitt
+not_specified	45,47	3	6	zum Bürgerfest
+sbj	51,53	4	2	das Neubauwohngebiet
+other	63,64	4	2	dabei
+dir-obj	66,68	5	1	die Menschen
+other	73,77	5	_	nicht nur die Unlust
+dir-obj	78,82	5	14	die oft kleinen Räume
+other	82,84	5	19	im Alter
+other	95,97	6	3	am Wasser
+other	108,112	6	1	Für die treuen Kiezbewohner
+other	113,114	7	9	daher
+dir-obj	118,120	7	2	die Hochhäuser
+other	127,132	7	12	Nur in der Berliner Vorstadt
+other	138,141	8	3	an der Havel
+other	145,150	8	18	die hohen Auflagen von Denkmalpflegern
+other	153,161	8	15	der Drang nach Maximalgewinn bei den neuen Eigentümern
+other	157,161	8	11	bei den neuen Eigentümern
+other	168,170	8	10	der Stammbevölkerung
+indir-obj	170,173	8	13	den besser Verdienenden
+other	174,176	8	5	Am Kiewitt
+other	176,177	9	21	dagegen
+sbj	181,183	9	2	Die Platte
+other	195,197	10	23	im Umfeld
+sbj	199,201	10	24	die Treuhand
+other	201,204	10	22	mit der Ufergaststätte

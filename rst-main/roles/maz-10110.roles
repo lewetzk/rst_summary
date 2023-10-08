@@ -1,0 +1,26 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	3,4	2	8	es
+other	6,9	2	11	in dieser Region
+sbj	15,16	2	20	wir
+other	16,21	2	12	an dieser und anderer Stelle
+other	26,27	2	15	Trotzdem
+other	31,36	3	3	die Industrie- und Handelskammer Potsdam
+other	35,36	3	16	Potsdam
+indir-obj	36,38	3	4	den Schulabgängern
+other	39,42	3	2	in die Ausbildung
+sbj	44,47	3	_	Der " Berufemarkt
+other	50,55	4	_	in der Aula der Gesamtschule
+other	53,55	4	_	der Gesamtschule
+dir-obj	68,69	4	0	Das
+sbj	71,77	5	19	das Interesse der Schülerinnen und Schüler
+other	73,77	5	18	der Schülerinnen und Schüler
+sbj	82,85	6	0	der " Berufemarkt
+dir-obj	90,93	6	_	Die Vertreter der
+other	92,95	7	7	der " Null-Bock-Generation
+other	104,106	7	9	die meisten
+other	119,125	7	13	bei der Suche nach einem Ausbildungsplatz
+sbj	128,129	7	21	Das
+other	143,148	8	5	in den nächsten zwei Jahren
+sbj	158,160	9	_	der Zeitpunkt
+other	166,168	9	6	ins Land
+sbj	179,180	9	1	Das

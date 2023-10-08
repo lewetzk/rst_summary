@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,3	0	4	Luckenwalde
+other	5,10	0	10	aus den Millionen des Urban-Projektes
+other	8,10	0	8	des Urban-Projektes
+other	10,14	0	9	in den nächsten Jahren
+other	63,67	1	12	Auf dem Weg dorthin
+other	69,78	1	14	mit der feierlichen Grundsteinlegung für die Baumaßnahmen zur Ortsumgehung
+other	73,78	1	13	für die Baumaßnahmen zur Ortsumgehung
+other	76,78	1	1	zur Ortsumgehung
+sbj	112,114	2	1	Die Ortsumgehung
+other	119,122	2	4	in die Stadt
+sbj	124,125	2	4	Luckenwalde

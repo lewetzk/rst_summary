@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	88,90	0	0	Harry Potter
+sbj	95,96	0	1	er
+dir-obj	99,101	0	0	die Kopie
+sbj	115,116	1	5	Das

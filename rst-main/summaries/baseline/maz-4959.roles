@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	6,7	0	19	sein
+dir-obj	6,8	0	2	sein Kind
+sbj	17,18	0	2	es
+other	18,22	0	13	am Ende der Fahrt
+other	20,22	0	12	der Fahrt
+other	92,93	1	21	Dazu
+sbj	95,100	1	11	die Fehler der anderen Verkehrsteilnehmer
+other	97,100	1	10	der anderen Verkehrsteilnehmer
+dir-obj	170,171	2	4	die
+dir-obj	177,180	2	_	die Fahrtüchtigkeit aller
+other	182,184	2	18	am Verkehrsgeschehen

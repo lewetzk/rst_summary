@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	57,59	0	11	Die Betriebskosten
+other	59,63	0	1	für den schmucken Veranstaltungsort
+sbj	89,91	1	12	der Stadthaushalt
+sbj	159,161	2	0	die Dosse-Stadt

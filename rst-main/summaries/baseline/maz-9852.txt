@@ -1,0 +1,4 @@
+#Wendefehler
+0	Heranwachsende haben seit jeher und überall ein Problem gehabt: Sie sind rebellisch und machen dumme Sachen.
+8	Vielen Ostdeutschen wurde wendebedingt jedoch eingeredet: Ihr habt alles falsch gemacht!
+16	Hoffentlich folgen weitere.

@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	15,18	0	14	der modernsten Produktionslinien
+other	29,32	0	15	aus dem Brandenburgischen
+other	32,37	0	5	auf dem Frühstückstisch italienischer Familien
+sbj	50,56	1	9	die Geschichte von Parmalat in Gransee
+other	52,54	1	3	von Parmalat
+other	52,56	1	22	von Parmalat in Gransee
+other	54,56	1	2	in Gransee
+sbj	158,165	2	7	die Entscheidung über den Erfolg eines Produkts
+other	160,165	2	8	über den Erfolg eines Produkts

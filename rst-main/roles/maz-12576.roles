@@ -1,0 +1,30 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,11	2	16	die geplante Abwahl der Kyritzer Bürgermeisterin Bärbel Stewin
+other	6,11	2	3	der Kyritzer Bürgermeisterin Bärbel Stewin
+other	7,8	2	0	Kyritzer
+sbj	16,18	2	13	Die Fakten
+dir-obj	26,28	3	4	die Stadtverordneten
+dir-obj	30,32	3	2	das Abwahlbegehren
+sbj	37,38	3	4	Sie
+indir-obj	41,42	4	4	ihnen
+other	49,50	4	5	darüber
+sbj	52,54	4	11	Das Resultat
+other	60,61	6	14	dafür
+dir-obj	62,64	6	2	den Bürgerentscheid
+other	66,69	6	18	Am 13. Januar
+dir-obj	94,96	9	3	Frau Stewin
+dir-obj	102,104	9	0	die Stadt
+sbj	107,108	9	12	Es
+sbj	123,128	11	7	der Kyritzer FDP-Ortsvorsitzende Kai Müller
+other	124,125	11	0	Kyritzer
+other	128,136	11	6	hinter den Beschluss der Stadtverordneten vom 14. November
+other	131,133	11	4	der Stadtverordneten
+other	133,136	11	9	vom 14. November
+other	141,144	11	8	an die Öffentlichkeit
+sbj	145,147	11	15	Jeder Kyritzer
+indir-obj	150,153	12	4	bei den Abgeordneten
+other	153,156	12	17	über die Tatsachen
+other	161,164	12	10	aus ihrer Sicht
+other	162,163	12	4	ihrer
+other	176,178	13	1	Der Wähler
+sbj	184,185	13	1	er

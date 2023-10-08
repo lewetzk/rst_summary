@@ -1,0 +1,28 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	9,13	2	12	die Außen- und Sicherheitsexperten
+other	13,15	2	22	in Berlin
+other	16,23	2	3	auf die Äußerungen von US-Verteidigungsminister Donald Rumsfeld
+other	19,23	2	0	von US-Verteidigungsminister Donald Rumsfeld
+other	26,28	2	5	Im Außenamt
+other	34,38	3	_	auf die bekannte Formel
+other	50,55	4	19	in den Fraktionen des Bundestags
+other	53,55	4	20	des Bundestags
+other	58,59	4	0	Rumsfeld
+other	66,69	5	4	innerhalb der US-Regierung
+sbj	97,100	6	_	die " harten
+other	102,104	6	2	dieses Krieges
+other	106,109	6	21	in der Öffentlichkeit
+sbj	115,116	7	7	das
+other	116,118	7	13	im Einzelnen
+dir-obj	123,125	7	3	die Äußerungen
+other	125,135	7	8	im Kontext des geradezu naiv anmutenden Eingeständnisses des Washingtoner Stabes
+other	127,135	7	9	des geradezu naiv anmutenden Eingeständnisses des Washingtoner Stabes
+other	132,135	7	4	des Washingtoner Stabes
+other	139,144	7	14	über die Hartnäckigkeit des Taliban-Widerstands
+other	142,144	7	18	des Taliban-Widerstands
+other	150,156	7	15	an der realistischen Kalkulation des Afghanistan-Einsatzes
+other	154,156	7	2	des Afghanistan-Einsatzes
+dir-obj	162,165	7	17	die eigenen Soldaten
+sbj	168,169	7	1	sie
+dir-obj	169,173	7	10	den Zusammenhalt im Bündnis
+other	171,173	7	16	im Bündnis

@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+indir-obj	51,52	0	4	ihnen
+sbj	55,57	1	3	die Polizei
+dir-obj	57,58	1	13	das
+sbj	62,64	1	3	die Beamten
+other	64,66	1	14	am Neujahrstag
+dir-obj	75,79	2	17	den Gang zur Polizei
+other	77,79	2	3	zur Polizei
+other	91,92	2	18	seinen
+dir-obj	91,93	2	1	seinen Briefkasten

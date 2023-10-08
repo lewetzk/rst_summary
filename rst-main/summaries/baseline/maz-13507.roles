@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	4,5	0	0	ihre
+dir-obj	4,6	0	13	ihre Grenzen
+other	129,136	1	_	um das Bombodrom in der Kyritz-Ruppiner Heide
+other	132,136	1	7	in der Kyritz-Ruppiner Heide
+sbj	138,141	1	4	der einstige Kanzlerkandidat
+sbj	145,146	1	4	er

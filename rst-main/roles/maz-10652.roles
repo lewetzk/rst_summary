@@ -1,0 +1,35 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	4,5	2	14	das
+sbj	8,11	2	0	Johannes B. Kerner
+other	15,19	3	3	in seiner gleichnamigen ZDF-Talkshow
+other	16,17	3	0	seiner
+sbj	20,24	3	8	Die emanzipierte Verona Feldbusch
+sbj	20,29	3	4	Die emanzipierte Verona Feldbusch und die Emanze Alice Schwarzer
+sbj	25,29	4	9	die Emanze Alice Schwarzer
+dir-obj	30,32	4	0	den Talkmaster
+other	32,40	4	7	mit ihrem verbalen Gefecht über das gängige Frauenbild
+other	33,34	4	4	ihrem
+other	36,40	4	6	über das gängige Frauenbild
+dir-obj	42,45	4	16	Die staunenden Zuschauer
+sbj	46,47	5	17	das
+sbj	52,54	6	18	die Quoten
+sbj	61,63	7	1	die Mainzelmänner
+sbj	66,67	7	1	wir
+other	67,68	7	1	unser
+dir-obj	67,70	7	0	unser Zugpferd Kerner
+other	72,74	7	20	die Woche
+sbj	80,82	8	0	der Sympathieträger
+other	85,88	8	21	in der Woche
+other	91,92	8	0	seine
+dir-obj	91,96	8	13	seine Prominenten und weniger Prominenten
+other	98,101	8	2	Auf diesen Sendeplätzen
+sbj	111,112	9	12	Das
+indir-obj	114,116	10	1	dem Zweiten
+not_specified	116,118	10	15	unterm Quotenstrich
+other	121,122	10	5	trotzdem
+sbj	127,128	10	10	das
+indir-obj	128,131	10	3	der Sendung selbst
+indir-obj	128,133	10	_	der Sendung selbst und ihrer
+other	132,133	10	3	ihrer
+indir-obj	132,135	10	_	ihrer " Allzweckwaffe
+sbj	149,150	11	19	wir

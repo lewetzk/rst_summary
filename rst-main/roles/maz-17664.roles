@@ -1,0 +1,33 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,6	2	15	der Vorrat
+sbj	8,10	2	16	Dieser Zusatz
+other	12,15	3	17	in der Werbung
+dir-obj	18,21	3	18	den letzten Unentschlossenen
+other	22,28	3	_	für den Kauf der lammfellgefütterten Hosenträger
+other	25,28	3	19	der lammfellgefütterten Hosenträger
+other	25,28	3	19	der lammfellgefütterten Hosenträger
+other	29,33	3	14	der Kaffeetasse für Linkshänder
+other	34,37	3	6	des automatischen Korkenziehers
+other	42,45	4	1	mit dem Euro
+sbj	46,47	4	21	das
+dir-obj	57,61	5	4	die ersten blanken Münzen
+sbj	67,68	5	4	sie
+dir-obj	94,105	8	13	den Fahrplan für die Ablösung der einen Währung durch die andere
+other	96,105	8	0	für die Ablösung der einen Währung durch die andere
+other	99,102	8	12	der einen Währung
+other	102,105	8	1	durch die andere
+sbj	114,117	9	_	die , die
+dir-obj	117,118	9	2	sie
+other	125,130	10	_	von der Ausnahme kreisliche Busgesellschaft
+dir-obj	138,140	10	1	die Einheitswährung
+other	145,146	10	24	seine
+dir-obj	145,148	10	20	seine eigene Mark-Epoche
+other	153,157	10	9	Erst zum Märzbeginn 2002
+other	159,160	11	0	damit
+sbj	167,169	12	11	die Schlangen
+other	175,178	13	23	in der Sparkasse
+dir-obj	179,181	13	22	die Widersprüchlichkeit
+sbj	186,187	13	3	er
+dir-obj	190,192	13	1	Den Euro
+sbj	193,194	13	3	ich
+sbj	199,200	13	3	ich

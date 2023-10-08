@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	15,18	0	14	der modernsten Produktionslinien
+other	29,32	0	15	aus dem Brandenburgischen
+other	32,37	0	5	auf dem Frühstückstisch italienischer Familien
+sbj	62,63	1	13	dies
+other	67,70	1	0	den engagierten Mitarbeitern
+indir-obj	67,75	1	19	den engagierten Mitarbeitern und der Investitionsfreudigkeit des Konzerns
+other	71,75	1	18	der Investitionsfreudigkeit des Konzerns
+other	73,75	1	3	des Konzerns
+sbj	99,101	2	0	die Milchverarbeiter
+other	102,105	2	12	in die Zukunft

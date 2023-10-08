@@ -1,0 +1,32 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	5,6	2	26	es
+sbj	6,11	2	0	die kleinen Meldungen am Rande
+other	14,17	2	7	über diesen Krieg
+sbj	19,23	2	8	die Erfolgsberichte der Militärs
+other	21,23	2	21	der Militärs
+indir-obj	24,29	2	9	Nach dem Fall von Masar-i-Scharif
+other	27,29	3	10	von Masar-i-Scharif
+other	31,36	3	11	vor den Friseurläden der Stadt
+other	34,36	3	12	der Stadt
+dir-obj	45,47	3	13	ihre Bärte
+other	57,60	4	14	aus den Restaurants
+indir-obj	68,72	4	3	dem Regime der Taliban
+other	70,72	4	1	der Taliban
+other	84,87	5	22	auf die Straße
+indir-obj	90,93	5	0	Bei solchen Nachrichten
+indir-obj	99,101	6	2	der Nordallianz
+dir-obj	101,103	6	6	auf Kabul
+sbj	110,113	7	4	die politischen Bedenken
+sbj	116,121	7	5	der Krieg gegen die Taliban
+other	118,121	7	1	gegen die Taliban
+sbj	130,132	8	2	die Nordallianz
+sbj	143,148	8	18	Das lose Bündnis aus Minderheiten
+dir-obj	153,155	9	17	die Macht
+other	155,158	9	16	über die Paschtunen-Mehrheit
+indir-obj	165,167	9	23	der Lösung
+indir-obj	171,173	9	24	des Problems
+sbj	174,178	9	15	Das Problem der Amerikaner
+other	176,178	10	20	der Amerikaner
+dir-obj	182,184	10	2	die Nordallianz
+other	194,195	10	25	das
+sbj	198,203	10	19	die Glaubwürdigkeit der gesamten Anti-Terror-Operation

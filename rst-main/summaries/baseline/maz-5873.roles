@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	7,9	0	2	das "Goldene-Oktober"-Wetter
+other	10,11	0	2	seinem
+indir-obj	10,12	0	11	seinem Ende
+other	89,92	1	1	auf der Fahrbahn
+sbj	100,101	1	4	sie
+sbj	166,167	2	13	wir
+other	168,170	2	5	das alles
+other	177,180	2	16	in der Realität
+other	186,190	2	15	aus den genannten Gründen

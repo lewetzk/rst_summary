@@ -1,0 +1,13 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	99,101	0	4	die Christdemokraten
+sbj	109,110	0	4	sie
+indir-obj	110,116	0	17	in ihrer Ablehnung zu jeglichen Fusionen
+indir-obj	111,112	0	4	ihrer
+sbj	4,5	1	12	niemand
+other	5,9	1	1	unter den Dallgower Kommunalpolitikern
+other	7,8	1	6	Dallgower
+sbj	13,14	1	1	alle
+other	16,18	1	11	zur Gemeindereform
+dir-obj	19,26	1	14	den vorausgehenden Verhandlungen mit den südlichen Nachbarn
+other	22,26	1	15	mit den südlichen Nachbarn
+sbj	91,93	2	4	die CDU

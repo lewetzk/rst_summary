@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	79,81	0	0	Dieser Krieg
+sbj	2,7	1	6	Der Reichstagsbrand im Jahre 1933
+sbj	2,12	1	_	Der Reichstagsbrand im Jahre 1933 und der Krieg in Afghanistan
+other	4,7	1	15	im Jahre 1933
+other	8,12	1	0	der Krieg in Afghanistan
+other	10,12	1	4	in Afghanistan
+other	15,19	1	16	auf den ersten Blick
+dir-obj	33,35	2	2	die Ereignisse

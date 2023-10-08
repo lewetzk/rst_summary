@@ -1,0 +1,32 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,6	2	3	die Parteien
+sbj	8,9	2	3	sie
+other	9,14	2	14	in den Wahlkreisen der Region
+other	12,14	2	15	der Region
+other	14,18	2	16	für die Bundestagswahl 2002
+other	24,25	2	20	Dies
+sbj	36,42	3	1	Die Einwohner von Städten und Gemeinden
+other	46,51	4	17	vor dem Entscheid auf Bundesebene
+other	53,54	4	1	ihr
+indir-obj	53,57	4	9	ihr direkter politischer Ansprechpartner
+other	57,59	4	8	in Berlin
+dir-obj	70,75	5	13	die inhaltlichen Schwerpunkte der Kandidaten
+other	73,75	5	5	der Kandidaten
+sbj	80,81	6	5	sie
+other	97,102	7	11	mit den Vorstellungen der Bundestagsaspiranten
+other	100,102	7	5	der Bundestagsaspiranten
+other	114,115	8	21	ihr
+indir-obj	114,119	8	10	ihr Einfluss auf höchster Ebene
+sbj	128,130	9	6	der Bund
+other	131,134	9	7	in den Regionen
+other	140,142	9	18	die Umgehungsstraßen
+sbj	140,152	9	0	die Umgehungsstraßen und das Verkehrsprojekt Deutsche Einheit Nr. 17 - der Havelausbau
+other	143,152	9	2	das Verkehrsprojekt Deutsche Einheit Nr. 17 - der Havelausbau
+sbj	153,154	9	2	Letzterer
+other	155,158	10	19	im Potsdamer Umland
+sbj	167,171	11	4	die Gegner des Projekts
+other	172,175	11	12	in der Mehrheit
+other	177,179	11	4	Für sie
+sbj	180,184	11	22	die Haltung der Wahlkreiskandidaten
+other	182,184	11	5	der Wahlkreiskandidaten
+other	184,187	11	0	zu diesem Thema

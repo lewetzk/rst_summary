@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	161,162	1	_	Die
+other	167,171	1	_	an den Ruppiner See
+dir-obj	167,175	1	_	an den Ruppiner See oder zum Rheinsberger Schloss
+other	169,170	1	_	Ruppiner
+not_specified	169,171	1	_	Ruppiner See
+other	172,175	1	_	zum Rheinsberger Schloss

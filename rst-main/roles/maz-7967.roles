@@ -1,0 +1,35 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,7	1	1	Die Schönfließer Straße in Glienicke
+other	5,7	2	16	in Glienicke
+sbj	15,17	3	14	die Fassade
+sbj	18,21	3	15	Das Strausberger Straßenbauamt
+other	19,20	3	2	Strausberger
+other	22,26	3	6	im Zuge des Planfeststellungsverfahrens
+other	24,26	3	7	des Planfeststellungsverfahrens
+dir-obj	26,28	3	8	die Entwürfe
+other	43,46	5	19	in die Materie
+other	54,58	6	20	auf die unterschiedlichen Grundstücksfluchten
+sbj	59,63	6	26	Das Tiefbauamt der Gemeinde
+other	61,63	7	2	der Gemeinde
+dir-obj	64,66	7	24	die Einwände
+indir-obj	70,72	7	25	den Strausbergern
+indir-obj	74,76	7	4	den Besitzern
+other	78,79	7	4	ihres
+other	78,80	7	10	ihres Landes
+sbj	82,84	7	13	Die Arbeiten
+sbj	90,92	9	12	der Putz
+sbj	100,101	10	2	Strausberg
+other	109,110	10	18	Drum
+sbj	111,113	11	1	die Straße
+other	114,118	11	_	zum Nachteil von Verkehrssicherheit
+other	130,132	12	0	des Bürgermeisters
+other	132,133	12	17	daran
+sbj	140,142	13	0	Joachim Bienert
+indir-obj	144,147	13	11	dem Strausberger Blendwerk
+sbj	152,153	14	0	Er
+dir-obj	156,157	14	5	Schildow
+other	159,161	14	22	der Einzige
+other	162,165	14	21	Die Lehre daraus
+other	164,165	15	23	daraus
+other	177,179	17	3	Minister Meyer
+sbj	181,182	17	3	Sie

@@ -1,0 +1,14 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	27,28	0	18	deshalb
+sbj	29,30	0	1	es
+sbj	4,5	1	3	Nicht-Teschendorfer
+dir-obj	7,17	1	10	die Sorgen und Nöte um den Lkw-Verkehr im Griebener Weg
+other	11,14	1	13	um den Lkw-Verkehr
+other	11,17	1	11	um den Lkw-Verkehr im Griebener Weg
+other	14,17	1	16	im Griebener Weg
+other	127,130	2	2	gegenüber der Konkurrenz
+other	137,139	2	23	zur Unrentabilität
+other	137,141	2	_	zur Unrentabilität , Aufgabe
+other	137,148	2	15	zur Unrentabilität , Aufgabe des Firmenstandortes und den Verlust von Arbeitsplätzen
+other	140,148	2	17	Aufgabe des Firmenstandortes und den Verlust von Arbeitsplätzen
+other	144,148	2	25	den Verlust von Arbeitsplätzen

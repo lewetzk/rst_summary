@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,8	0	1	das Bündnis für Arbeit
+sbj	48,50	1	_	Das Wenige
+sbj	66,68	2	19	die Gewerkschaften
+sbj	73,77	2	_	die Zusage der Unternehmer
+other	75,77	2	3	der Unternehmer

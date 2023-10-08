@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	89,90	0	5	deshalb
+other	127,130	1	2	gegenüber der Konkurrenz
+other	137,139	1	23	zur Unrentabilität
+other	137,141	1	_	zur Unrentabilität , Aufgabe
+other	137,148	1	15	zur Unrentabilität , Aufgabe des Firmenstandortes und den Verlust von Arbeitsplätzen
+other	140,148	1	17	Aufgabe des Firmenstandortes und den Verlust von Arbeitsplätzen
+other	144,148	1	25	den Verlust von Arbeitsplätzen
+indir-obj	165,166	2	0	deren
+other	165,167	2	20	deren Angehörige

@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	84,85	0	4	Sie
+other	15,19	1	14	Nicht zum ersten Mal
+sbj	20,33	1	6	die wirtschaftliche Betätigung der Tochtergesellschaften mit ihren vielfältigen und offenkundig schwer überschaubaren Verflechtungen
+other	23,25	1	1	der Tochtergesellschaften
+other	25,33	1	5	mit ihren vielfältigen und offenkundig schwer überschaubaren Verflechtungen
+other	26,27	1	1	ihren
+sbj	141,143	2	_	der Verdacht
+sbj	146,149	2	3	der Kreis Potsdam-Mittelmark
+other	152,156	2	9	in der anonymen Anzeige

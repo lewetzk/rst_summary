@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	72,73	1	9	damit
+other	82,87	1	15	für den erhofften raschen Aufschwung
+sbj	125,127	2	0	Die Währungshüter
+other	128,129	2	0	ihren
+dir-obj	128,130	2	13	ihren Teil
+sbj	134,136	2	1	die Politiker
+dir-obj	138,140	2	8	die Verantwortung
+other	145,148	2	7	mit ihren Mitteln
+other	146,147	2	1	ihren

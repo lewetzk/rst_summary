@@ -1,0 +1,32 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,11	1	13	Der Traum vieler Menschen von der weißen Weihnacht
+other	7,11	2	1	von der weißen Weihnacht
+other	13,16	2	0	in der Prignitz
+sbj	25,27	3	0	die Landschaft
+other	34,38	4	2	an den beiden Feiertagen
+sbj	48,52	4	4	vor allem die Kinder
+other	60,64	5	15	zum zweiten Mal nacheinander
+other	70,75	6	_	an den Schneeeinbruch im Vorjahr
+other	73,75	6	14	im Vorjahr
+other	78,80	6	2	zum Fest
+dir-obj	80,82	6	0	die Prignitz
+other	84,89	6	2	sogar über die Feiertage hinaus
+sbj	103,106	7	1	die weiße Weihnacht
+indir-obj	111,113	7	20	der Vergangenheit
+other	115,118	7	11	In diesem Jahr
+sbj	119,120	8	1	sie
+other	122,125	8	12	in den Süden
+other	127,129	9	17	auf Mallorca
+other	130,132	9	2	zum Fest
+sbj	145,147	10	2	des Fest
+other	154,156	10	3	für uns
+indir-obj	159,164	11	6	den Menschen in diesen Regionen
+other	161,164	11	5	in diesen Regionen
+sbj	164,169	11	9	die Wetterunbilden auf den Straßen
+other	166,169	11	7	auf den Straßen
+indir-obj	174,176	12	10	dem Polizeibericht
+sbj	180,182	12	8	die Folgen
+other	182,185	12	0	in der Prignitz
+sbj	188,191	12	16	Die meisten Menschen
+other	193,196	13	1	auf den Wetterumschwung
+sbj	207,208	13	18	das

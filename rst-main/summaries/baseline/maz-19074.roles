@@ -1,0 +1,14 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,9	0	16	der Konflikt im Nahen Osten
+other	6,9	0	18	im Nahen Osten
+other	18,19	0	17	darüber
+sbj	22,24	0	5	Ariel Scharon
+sbj	25,27	0	9	Jassir Arafat
+sbj	78,80	1	8	die Israelis
+other	80,82	1	_	nach Washington
+sbj	86,87	1	8	sie
+sbj	92,94	1	1	die Palästinenser
+other	94,97	1	4	zur Europäischen Union
+other	98,109	1	10	zu den arabischen Staaten , von deren Unterstützung sie abhängen .
+sbj	106,107	1	1	sie
+other	161,164	2	15	zum nächsten Schachzug

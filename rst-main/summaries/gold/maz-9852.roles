@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	81,82	2	3	Sie
+dir-obj	89,92	2	1	die jungen Leute
+other	92,98	2	12	an die Regeln des menschlichen Zusammenlebens
+other	95,98	2	13	des menschlichen Zusammenlebens

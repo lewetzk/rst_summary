@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	78,81	0	21	Die Gasversorgung Zehdenick
+other	80,81	0	3	Zehdenick
+dir-obj	82,84	0	22	den Erdgaspreis
+sbj	116,118	1	1	Die Stadtwerke
+other	120,123	1	18	auf den Preis
+dir-obj	124,126	1	19	die Ökosteuererhöhung
+other	129,131	2	17	des Zulieferers
+other	131,132	2	26	dagegen

@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	50,56	0	9	die Geschichte von Parmalat in Gransee
+other	52,54	0	3	von Parmalat
+other	52,56	0	22	von Parmalat in Gransee
+other	54,56	0	2	in Gransee
+sbj	91,92	1	20	das
+sbj	113,115	2	0	die Mitarbeiter
+sbj	118,121	2	16	die millionenschweren Investionen
+indir-obj	133,134	3	2	Gransee
+other	137,142	3	6	auf dem Tisch von Einheimischen
+sbj	144,145	4	21	dies

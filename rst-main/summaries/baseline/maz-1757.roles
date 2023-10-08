@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,6	0	3	die Parteien
+sbj	8,9	0	3	sie
+other	9,14	0	14	in den Wahlkreisen der Region
+other	12,14	0	15	der Region
+other	14,18	0	16	für die Bundestagswahl 2002
+other	97,102	1	11	mit den Vorstellungen der Bundestagsaspiranten
+other	100,102	1	5	der Bundestagsaspiranten
+other	177,179	2	4	Für sie
+sbj	180,184	2	22	die Haltung der Wahlkreiskandidaten
+other	182,184	2	5	der Wahlkreiskandidaten
+other	184,187	2	0	zu diesem Thema

@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	140,143	0	5	die Stadt Wittstock
+sbj	71,76	2	3	Der Streit um den Schießplatz
+other	73,76	2	4	um den Schießplatz

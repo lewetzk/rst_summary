@@ -1,0 +1,31 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,4	1	18	Die Geburt
+sbj	11,13	2	19	das Kind
+other	20,21	3	1	Humboldt-Forum
+other	23,28	3	2	anstelle des einstigen Berliner Stadtschlosses
+dir-obj	30,32	3	6	Diese Empfehlung
+sbj	34,36	4	_	die Expertenkomission
+not_specified	39,40	4	8	Berlins
+sbj	43,45	4	1	Das Forum
+other	46,48	5	22	die Fassade
+dir-obj	46,51	5	23	die Fassade und die Dimensionen
+other	49,51	5	24	die Dimensionen
+indir-obj	51,55	5	2	des 1950 gesprengten Schlosses
+dir-obj	57,60	5	_	die Berliner Landesbibliothek
+other	69,72	6	0	für den Schlossplatz
+other	75,77	6	7	der Agonie
+sbj	82,92	6	16	Die mühselige Debatte um das ob und wie der Schloss-Rekonstruktion
+other	85,92	7	14	um das ob und wie der Schloss-Rekonstruktion
+other	90,92	7	13	der Schloss-Rekonstruktion
+other	93,100	7	17	zu den ärgerlichsten Episoden der Berliner Stadtentwicklungspolitik
+other	97,100	7	15	der Berliner Stadtentwicklungspolitik
+sbj	101,102	7	12	Es
+other	106,109	8	21	über diese Dinge
+other	124,125	8	4	ihre
+dir-obj	124,127	8	_	ihre " gute
+indir-obj	132,134	8	20	dem Unkraut
+other	137,143	8	11	Mit ihrer Entscheidungsschwäche in Sachen Schloss
+other	138,139	9	3	ihrer
+sbj	145,148	9	3	die Berliner Stadtpolitik
+sbj	154,158	9	9	die Zeit des Diskutierens
+other	156,158	9	10	des Diskutierens

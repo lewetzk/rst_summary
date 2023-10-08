@@ -1,0 +1,30 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	2,6	1	15	Unter den vielen Lobreden
+other	8,15	2	18	am neuen Hauptsitz des Instituts für Klimafolgenforschung
+other	11,15	2	2	des Instituts für Klimafolgenforschung
+sbj	16,18	2	_	die Tatsache
+other	23,24	2	2	dessen
+sbj	23,26	2	1	dessen Direktor Schellnhuber
+other	30,32	2	17	ins Ausland
+sbj	36,37	3	1	er
+dir-obj	46,48	3	2	fürs Institut
+other	56,58	4	0	in Potsdam
+other	62,63	4	14	das
+sbj	66,68	4	0	Die Stadt
+sbj	77,80	7	20	das astrophysikalische Institut
+sbj	85,86	7	6	das
+indir-obj	87,91	7	21	dem ehemaligen AIP-Direktor Hasinger
+dir-obj	91,93	7	22	die Gänsehaut
+other	93,96	7	10	in den Nacken
+sbj	97,101	7	13	Die Nähe zur Landesregierung
+other	99,101	8	12	zur Landesregierung
+sbj	106,110	8	11	das Tauziehen um Schellnhuber
+other	108,110	8	1	um Schellnhuber
+other	116,117	9	4	Deutschlands
+sbj	128,138	9	5	der Erfolg des interdisziplinären Helmholtz-Instituts für die Schulung an Supercomputern
+other	130,133	9	16	des interdisziplinären Helmholtz-Instituts
+other	133,138	9	7	für die Schulung an Supercomputern
+not_specified	150,151	10	23	Einsteins
+sbj	162,163	11	19	Brandenburg
+dir-obj	165,171	11	9	die rote Laterne in der Wissenschaftsförderung
+other	168,171	11	8	in der Wissenschaftsförderung

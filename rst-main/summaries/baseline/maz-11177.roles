@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+indir-obj	85,87	1	1	In Brandenburg
+sbj	88,94	1	0	die Abwasser-Debatte um hoch verschuldetete Zweckverbände
+sbj	174,180	2	19	das jahrelange Ringen um hohe Millionen-Schulden
+other	181,184	2	20	vor dem Abschluss

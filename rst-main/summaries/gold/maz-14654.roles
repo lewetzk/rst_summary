@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	106,109	1	0	Der gestrige Wahlausgang
+other	110,116	1	0	das persönliche Ergebnis der beiden Kandidaten
+other	113,116	1	3	der beiden Kandidaten
+sbj	118,119	1	3	sie
+other	121,124	1	1	im ersten Wahlgang
+sbj	172,175	2	1	denn die erste
+dir-obj	177,179	2	_	sowieso die
+other	183,186	2	2	jetzt durch die

@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	148,150	1	8	Die Entscheidung
+other	154,156	1	0	im Kreistag
+other	166,167	2	8	Dabei
+indir-obj	168,171	2	19	den kleinen Fraktionen
+other	171,175	2	11	aufgrund der obwaltenden Konstellation

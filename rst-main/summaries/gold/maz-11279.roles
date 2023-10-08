@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	16,22	0	7	nach dem Konkurs der ersten Betreibergesellschaft
+other	19,22	0	18	der ersten Betreibergesellschaft
+other	26,28	0	1	mit Artemedia
+sbj	187,189	2	_	das FX-Center
+dir-obj	192,193	2	24	es

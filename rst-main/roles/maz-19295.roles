@@ -1,0 +1,24 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	7,13	2	6	der CDU-Landesvorsitzende S. im Land B.
+other	10,13	2	1	im Land B.
+other	15,18	2	5	für Edmund Stoiber
+other	20,22	2	12	der Union
+sbj	25,26	3	15	wir
+sbj	30,35	3	3	die CDU-Basis im Bundesland B.
+other	32,35	3	1	im Bundesland B.
+other	36,37	3	3	ihrer
+indir-obj	36,40	3	14	ihrer Parteichefin Angela Merkel
+other	43,45	3	6	Landeschef S.
+other	48,50	3	8	im CDU-Bundesvorstand
+other	50,52	3	5	für Stoiber
+sbj	68,72	6	7	die Kür des Kanzlerkandidaten
+other	70,72	6	4	des Kanzlerkandidaten
+sbj	77,78	6	7	sie
+other	79,82	6	_	unter dem Code-Wort
+other	91,95	7	11	mit dem nötigen Ernst
+other	99,102	7	0	bei den Spitzenkandidaturen
+other	111,113	8	9	Berliner SPD
+dir-obj	114,117	8	13	den falschen Frontmann
+other	125,128	9	3	an der Basis
+sbj	130,134	9	10	Die Lösung des Problems
+other	132,134	9	2	des Problems

@@ -1,0 +1,19 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	63,65	0	16	die Stadtverordneten
+other	69,77	0	21	für die weitere Erschließung des neuen Ortsteils Diepensee
+other	73,77	0	4	des neuen Ortsteils Diepensee
+sbj	104,111	1	17	die Angebotsfrist für die Privatisierung der Flughafen-Holding
+other	106,111	1	0	für die Privatisierung der Flughafen-Holding
+other	109,111	1	1	der Flughafen-Holding
+sbj	127,129	2	_	die Holding-Gesellschafter
+sbj	130,131	2	7	Bund
+sbj	132,133	2	9	Brandenburg
+sbj	134,135	2	14	Berlin
+not_specified	136,140	2	_	sowohl die Kosten für
+dir-obj	136,148	2	_	sowohl die Kosten für den Ausbau und die Anbindung des Flughafens Schönefeld
+other	139,142	2	_	für den Ausbau
+other	139,144	2	_	für den Ausbau und die
+other	139,148	2	13	für den Ausbau und die Anbindung des Flughafens Schönefeld
+not_specified	145,148	2	12	des Flughafens Schönefeld
+other	151,155	2	2	für die Umsiedlung Diepensees
+other	154,155	2	4	Diepensees

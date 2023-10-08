@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	83,85	1	2	Die Laubag
+dir-obj	90,91	1	2	sie
+other	161,164	2	0	im neuen Konzern
+dir-obj	164,166	2	7	das Sagen

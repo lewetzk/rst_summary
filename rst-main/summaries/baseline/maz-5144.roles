@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,7	0	2	die ersten Witze
+sbj	93,94	1	8	Das
+other	169,171	2	1	Der Landkreis
+sbj	169,174	2	16	Der Landkreis und die Kommunen
+other	172,174	2	12	die Kommunen

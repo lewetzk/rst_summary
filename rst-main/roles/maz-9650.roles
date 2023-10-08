@@ -1,0 +1,22 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	5,8	2	0	die Europäische Zentralbank
+sbj	13,14	3	0	sie
+other	14,18	3	12	auf die schwache Konjunktur
+sbj	33,36	4	4	EZB-Chef Wim Duisenberg
+dir-obj	39,42	4	_	das böse R-Wort
+sbj	52,54	4	3	die Weltwirtschaft
+other	72,73	5	9	damit
+other	82,87	5	15	für den erhofften raschen Aufschwung
+sbj	89,95	5	11	Die Verunsicherung von Verbrauchern und Unternehmern
+other	96,100	6	16	seit dem 11. September
+other	106,107	6	10	Außerdem
+sbj	115,120	7	14	Die wichtigste Botschaft der Zinsentscheidung
+other	118,120	8	2	der Zinsentscheidung
+other	121,122	8	6	deshalb
+sbj	125,127	8	0	Die Währungshüter
+other	128,129	8	0	ihren
+dir-obj	128,130	8	13	ihren Teil
+sbj	134,136	8	1	die Politiker
+dir-obj	138,140	8	8	die Verantwortung
+other	145,148	8	7	mit ihren Mitteln
+other	146,147	8	1	ihren

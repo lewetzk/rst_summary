@@ -1,0 +1,27 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	9,11	2	0	Der Kanzler
+other	12,13	3	0	seinen
+indir-obj	12,15	3	11	seinen Berliner Genossen
+sbj	24,25	3	0	er
+dir-obj	26,28	3	12	die Liberalen
+other	31,37	3	6	für die Bundestagswahl im kommenden Jahr
+other	34,37	3	7	im kommenden Jahr
+sbj	41,45	4	4	FDP-Luftikus Jürgen W. Möllemann
+dir-obj	50,53	4	15	den Nahen Osten
+other	55,58	4	14	für diesen Fall
+sbj	71,73	5	3	Riesenstaatsmann Mümmelmann
+sbj	71,73	5	3	Riesenstaatsmann Mümmelmann
+sbj	76,78	5	17	Franz-Josef Strauß
+dir-obj	78,83	5	3	den schnauzbärtigen Fallschirmspringer aus Münster
+other	81,83	5	13	aus Münster
+not_specified	89,92	5	18	voll im Geschäft
+other	97,98	5	5	Israels
+dir-obj	97,100	5	_	Israels Politik der
+other	99,102	5	_	der " präventiven
+sbj	115,121	6	2	diese Methode der Hinrichtungen auf Verdacht
+other	117,121	6	1	der Hinrichtungen auf Verdacht
+other	144,146	6	5	in Israel
+dir-obj	149,165	6	10	Das mit Glück und einigem Geschick von Außenminister Joschka Fischer erarbeitete Gewicht Deutschlands in der Krisenregion
+other	155,159	6	9	von Außenminister Joschka Fischer
+other	161,162	6	16	Deutschlands
+other	162,165	6	8	in der Krisenregion

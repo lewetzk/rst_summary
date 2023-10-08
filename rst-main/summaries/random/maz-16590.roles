@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	35,44	0	4	das gesamte Paket an Neuerungen zur Familienförderung ab 2002
+other	40,44	0	17	zur Familienförderung ab 2002
+other	44,47	0	5	für die Betroffenen
+sbj	51,52	0	4	es
+sbj	17,19	1	7	der Bundestag
+dir-obj	21,24	1	6	den Beschluss darüber
+other	23,24	1	0	darüber
+sbj	27,28	1	0	dies
+sbj	149,150	2	20	Und

@@ -1,0 +1,13 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	5,7	0	_	Andreas Wansing
+sbj	8,12	0	15	den Geschäftsführer der Wobra
+other	10,12	0	0	der Wobra
+other	16,19	0	_	von seinem Plan
+other	17,18	0	4	seinem
+other	23,29	0	16	aus dem Bestand der Wobra hinaus
+other	26,28	0	0	der Wobra
+other	174,177	2	0	bei der Wobra
+other	179,187	2	3	für die Fehler des Managements und des Aufsichtsrates
+other	182,184	2	10	des Managements
+not_specified	182,187	2	21	des Managements und des Aufsichtsrates
+other	185,187	2	2	des Aufsichtsrates

@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	50,52	0	8	die Industrie
+sbj	59,62	0	11	die gebeutelten Kinos
+dir-obj	88,90	1	0	Harry Potter
+sbj	95,96	1	1	er
+dir-obj	99,101	1	0	die Kopie
+sbj	166,170	2	13	Der Verleih Warner Bros

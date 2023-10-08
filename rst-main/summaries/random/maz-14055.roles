@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+indir-obj	100,102	0	1	der Regierung
+sbj	105,107	0	_	der Mut
+dir-obj	109,111	0	11	den Arbeitsmarkt
+sbj	141,142	1	27	sie
+sbj	47,48	2	2	Der
+indir-obj	49,50	2	0	ihm
+other	51,57	2	20	in der Debatte über den Bundeshaushalt
+other	54,57	2	19	über den Bundeshaushalt

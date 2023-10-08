@@ -1,0 +1,26 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,5	1	11	Die Idee
+sbj	8,10	2	2	Die Stadt
+dir-obj	19,20	3	4	sie
+other	20,23	3	12	in die Erde
+other	29,31	3	13	im Frühjahr
+sbj	40,48	3	14	Der Auftakt , den die Grundschüler gestern gaben
+other	44,46	4	1	die Grundschüler
+other	56,59	5	15	in diesen Tagen
+dir-obj	59,61	5	0	die Arbeiten
+sbj	67,68	5	10	MAZ
+sbj	80,84	6	1	die Mädchen und Jungen
+other	84,92	6	8	auf der großen Freifläche in der Berliner Straße
+other	88,92	6	9	in der Berliner Straße
+sbj	97,99	7	7	das Ganze
+other	113,117	8	0	in solch einer Pflanzaktion
+dir-obj	120,122	8	5	das Ergebnis
+dir-obj	130,132	9	6	den Stolz
+other	135,138	9	17	für die Allgemeinheit
+other	144,147	9	2	mit der Stadt
+sbj	148,149	9	20	Das
+other	155,157	10	16	zum Alltag
+sbj	163,168	10	1	Die 30 Mädchen und Jungen
+other	172,178	11	19	in der Neigungsgruppe Biologie und Umwelt
+dir-obj	201,203	12	18	die Bestätigung
+sbj	205,206	12	3	sie

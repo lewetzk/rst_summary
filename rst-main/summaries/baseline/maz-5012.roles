@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,7	0	14	Die Wiederwahl von Landrat Schröder
+other	4,7	0	0	von Landrat Schröder
+other	8,13	0	13	schon vor der gestrigen Wahl
+other	109,113	1	_	um Geld und die
+other	109,114	1	_	um Geld und die Freiräume

@@ -1,0 +1,33 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	8,9	2	3	sie
+sbj	13,14	2	25	Das
+other	18,21	3	17	auch der Fall
+other	36,37	4	2	ihren
+dir-obj	36,38	4	0	ihren Müll
+other	39,45	4	6	in die doch einfach gekennzeichneten Behälter
+other	57,62	5	27	bei der Farbunterscheidung von Flaschen
+other	66,67	5	5	ihre
+dir-obj	66,68	5	14	ihre Probleme
+sbj	69,71	5	1	Die Rethmann-Mitarbeiter
+other	75,78	6	24	aus dem Papiercontainer
+sbj	96,100	7	16	die Hälfte der Abfälle
+other	98,100	7	0	der Abfälle
+other	101,105	7	15	in den falschen Kreislauf
+sbj	113,115	8	1	die Rethmänner
+dir-obj	120,122	8	19	das Sammelsystem
+indir-obj	129,131	9	18	der Vergangenheit
+other	135,136	10	8	deshalb
+sbj	136,148	10	_	die mit 37 Prozent doch recht hohe Anzahl der Bürger vom Görden
+other	144,148	10	4	der Bürger vom Görden
+other	146,148	10	7	vom Görden
+indir-obj	150,153	10	_	dem neuen System
+sbj	162,163	10	4	Sie
+other	164,165	10	4	ihre
+dir-obj	164,166	10	10	ihre Entscheidung
+other	171,174	10	_	neben dem Effekt
+sbj	176,178	10	11	die Schmuddelecken
+sbj	181,190	10	23	der Weg mit dem gelben Sack vor die Haustür
+other	183,187	10	26	mit dem gelben Sack
+other	187,190	10	9	vor die Haustür
+other	192,196	10	20	die Fahrt zum Container
+other	194,196	10	22	zum Container

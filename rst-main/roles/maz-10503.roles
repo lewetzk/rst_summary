@@ -1,0 +1,33 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	1,8	1	14	Der Rausschmiss der Öffentlichkeit aus dem Kita-Untersuchungs-Ausschuss
+other	3,5	2	11	der Öffentlichkeit
+other	5,8	2	12	aus dem Kita-Untersuchungs-Ausschuss
+other	15,18	2	13	aus dem Tollhaus
+other	22,36	3	5	auf die Kette vieler Ereignisse rund um das Versagen der Verwaltung in Sachen Kitas
+other	28,36	3	7	um das Versagen der Verwaltung in Sachen Kitas
+other	31,33	3	2	der Verwaltung
+sbj	37,39	3	4	dieser Akt
+sbj	40,43	3	6	die nächste Perle
+other	46,47	4	17	damit
+sbj	49,51	4	1	die Eltern
+sbj	60,62	4	2	Die Verwaltung
+dir-obj	72,74	5	1	die Eltern
+other	80,85	5	8	über den Zustand der Häuser
+not_specified	83,85	5	19	der Häuser
+sbj	96,98	6	9	das Jugendamt
+other	102,104	6	0	im Jugendhilfeausschuss
+sbj	105,107	6	1	Die Eltern
+dir-obj	112,114	7	16	den Skandal
+sbj	116,117	7	1	Sie
+dir-obj	118,120	8	15	die Rechnung
+other	120,124	8	3	ohne SPD-Mann Kurt Kreisel
+other	127,130	8	0	gegen das Gremium
+sbj	136,138	8	0	der Ausschuss
+sbj	145,146	9	3	Kreisel
+dir-obj	146,148	9	0	den Ausschuss
+sbj	156,157	10	3	er
+other	157,160	10	0	gegen den Ausschuss
+sbj	163,164	10	3	er
+sbj	172,174	11	18	das Rechtsamt
+sbj	176,178	11	0	der Ausschuss
+other	184,185	11	10	dahinter

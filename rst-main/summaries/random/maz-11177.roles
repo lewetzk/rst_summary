@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	27,29	0	1	das Land
+other	30,33	0	13	im vorigen Jahr
+other	38,43	0	7	in die Sanierung des AZV
+other	41,43	0	3	des AZV
+other	77,78	1	10	Dazu
+other	81,84	1	22	der transparenten Öffentlichkeitsarbeit
+sbj	174,180	2	19	das jahrelange Ringen um hohe Millionen-Schulden
+other	181,184	2	20	vor dem Abschluss

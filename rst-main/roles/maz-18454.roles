@@ -1,0 +1,30 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,4	2	5	das Stadtteilfest
+sbj	6,8	2	11	der Streit
+other	9,13	2	1	in der Brandenburger Vorstadt
+sbj	23,25	3	8	die Frage
+sbj	29,31	3	6	die Beteiligten
+sbj	44,46	4	_	Das Fest
+sbj	68,72	6	4	Der Verein Brandenburger Vorstadt
+sbj	100,105	8	12	Der Aktionskreis um Martin Zühlke
+other	102,105	9	2	um Martin Zühlke
+sbj	115,117	9	10	Beide Ansätze
+other	119,121	10	3	am Bürger
+sbj	128,130	10	4	Der Verein
+other	133,136	11	_	am Namen von
+dir-obj	144,149	11	7	das Hausrecht für den Stadtteil
+other	146,149	11	1	für den Stadtteil
+sbj	150,151	11	4	er
+sbj	160,161	12	4	er
+sbj	164,165	12	2	Zühlke
+sbj	181,183	14	0	beide Seiten
+other	183,186	14	3	auf die Bürger
+sbj	189,190	14	0	sie
+dir-obj	190,191	14	3	die
+sbj	196,197	15	3	sie
+other	197,198	15	2	Zühlkes
+dir-obj	197,199	15	9	Zühlkes Fest
+sbj	203,205	15	5	der Spaß
+sbj	211,213	15	5	die Sache
+sbj	217,219	15	4	der Verein
+dir-obj	219,220	15	13	dies

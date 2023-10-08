@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	80,82	1	0	der Sympathieträger
+other	85,88	1	21	in der Woche
+other	91,92	1	0	seine
+dir-obj	91,96	1	13	seine Prominenten und weniger Prominenten

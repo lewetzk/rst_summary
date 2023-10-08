@@ -1,0 +1,44 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,7	1	6	Der Reichstagsbrand im Jahre 1933
+sbj	2,12	1	_	Der Reichstagsbrand im Jahre 1933 und der Krieg in Afghanistan
+other	4,7	2	15	im Jahre 1933
+other	8,12	2	0	der Krieg in Afghanistan
+other	10,12	2	4	in Afghanistan
+other	15,19	2	16	auf den ersten Blick
+dir-obj	33,35	3	2	die Ereignisse
+indir-obj	45,47	4	20	den Leuten
+other	48,51	4	6	über den Reichstagsbrand
+sbj	58,59	5	1	wir
+indir-obj	64,65	5	1	uns
+other	66,76	5	0	über den Kampf gegen den Terrorismus in dem asisatischen Land
+other	69,72	5	24	gegen den Terrorismus
+other	72,76	5	4	in dem asisatischen Land
+sbj	79,81	5	0	Dieser Krieg
+sbj	87,94	6	3	Was man nicht durch Augenschein nachprüfen kann
+sbj	98,99	7	3	Es
+sbj	105,106	8	3	es
+indir-obj	106,110	8	14	den Interessen der Machthaber
+other	108,110	8	5	der Machthaber
+sbj	112,123	8	_	Die Botschaft der Autoren des am Samstag in Zossen aufgeführten Stücks
+other	114,123	9	_	der Autoren des am Samstag in Zossen aufgeführten Stücks
+other	116,123	9	_	des am Samstag in Zossen aufgeführten Stücks
+other	117,119	9	17	am Samstag
+other	119,121	9	8	in Zossen
+other	124,131	9	12	Eines Tages müssen wir die Wahrheit sagen
+not_specified	134,137	9	13	auf die Gegenwart
+sbj	145,146	10	27	wir
+sbj	154,155	11	1	wir
+indir-obj	162,163	11	1	uns
+dir-obj	163,165	11	26	die Wahrheit
+sbj	167,168	11	1	Wir
+other	174,175	12	1	unsere
+sbj	174,176	12	23	unsere Regierung
+other	176,180	12	21	im Sinne des Volkes
+other	178,180	12	1	des Volkes
+sbj	184,186	12	7	der Kanzler
+other	186,188	12	5	Amerika gegenüber
+dir-obj	188,192	12	22	die uneingeschränkte Solidarität Deutschlands
+other	191,192	12	19	Deutschlands
+other	195,198	12	25	In meinem Namen
+other	196,197	12	18	meinem
+sbj	199,200	12	7	er

@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+not_specified	3,5	0	14	Raubritter Bassewitz
+dir-obj	5,7	0	7	die Kyritzer
+sbj	12,14	0	7	die Bewohner
+sbj	98,102	1	2	der Fretzdorfer Thomas Hausbalk
+other	99,100	1	21	Fretzdorfer
+other	102,105	1	_	mit seinem Schrotbrot
+other	103,104	1	2	seinem
+indir-obj	116,120	1	16	den Ansprüchen gesunder Ernährung
+other	176,179	2	1	Mit der PR-Aktion

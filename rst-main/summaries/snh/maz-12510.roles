@@ -1,0 +1,18 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,7	0	5	Der Wunsch nach Frieden
+other	10,12	0	2	des Krieges
+indir-obj	63,65	2	3	Diesem Szenario
+sbj	66,68	2	4	die Nachwuchsjournalisten
+dir-obj	68,75	2	24	eine Seite und den Wunsch nach Frieden
+other	71,75	2	5	den Wunsch nach Frieden
+other	109,110	5	16	Dazu
+sbj	111,116	5	19	das Unrecht auf unserem Planeten
+other	113,116	5	17	auf unserem Planeten
+other	114,115	5	12	unserem
+sbj	169,177	6	2	der Kampf gegen den Top-Terroristen und seine Helfer
+other	171,174	6	0	gegen den Top-Terroristen
+other	171,176	6	_	gegen den Top-Terroristen und seine
+other	171,177	6	26	gegen den Top-Terroristen und seine Helfer
+not_specified	172,177	6	23	den Top-Terroristen und seine Helfer
+not_specified	175,176	6	25	seine
+sbj	181,184	7	21	Auch diese Frage

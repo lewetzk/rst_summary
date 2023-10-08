@@ -1,0 +1,18 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	29,32	0	0	Landrat Burkhard Schröder
+sbj	37,38	0	0	er
+dir-obj	38,40	0	4	diese Entscheidungen
+indir-obj	40,44	0	6	den Mitgliedern des Kreistages
+other	42,44	0	2	des Kreistages
+sbj	65,67	1	7	das Paracelsus-Krankenhaus
+other	71,75	1	18	mit der Nauener Havellandklinik
+other	73,74	1	19	Nauener
+other	75,81	1	12	unter dem Dach einer kreiseigenen GmbH
+sbj	82,85	1	7	das Rathenower Krankenhaus
+other	83,84	1	8	Rathenower
+dir-obj	128,130	2	7	Das Krankenhaus
+sbj	131,135	2	_	der bekommen , der
+dir-obj	135,142	2	10	die wohnortnahe Versorgung von Patienten in Rathenow
+other	140,142	2	8	in Rathenow
+dir-obj	146,153	2	11	die betriebswirtschaftliche und medizinische Qualität des Paracelsus-Krankenhauses
+other	151,153	2	7	des Paracelsus-Krankenhauses

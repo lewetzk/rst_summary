@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	99,103	1	17	Auf der einen Seite
+other	107,110	1	18	zur öffentlichen Angelegenheit
+other	112,116	1	16	auf der anderen Seite
+dir-obj	125,127	1	21	die Autoren
+other	165,170	2	11	um den Verfall der Sitten
+other	168,170	2	12	der Sitten
+indir-obj	176,178	2	0	der Stadt

@@ -1,0 +1,24 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,7	1	11	Der Kurzfilm zu Silvester
+sbj	32,33	3	1	Sie
+sbj	53,55	5	2	Der Satz
+other	57,61	6	0	auf die Wittstocker Region
+sbj	63,67	6	12	Die Bürgerinitiative Freie Heide
+sbj	71,76	7	3	Der Streit um den Schießplatz
+other	73,76	8	4	um den Schießplatz
+sbj	82,87	8	8	Die Meldung in der Zeitung
+other	84,87	9	10	in der Zeitung
+other	90,92	9	7	am Neujahrstag
+other	109,110	10	14	Deshalb
+sbj	112,115	11	9	der gleiche Kommentar
+sbj	118,120	11	3	Der Streit
+sbj	125,126	12	3	Er
+indir-obj	130,132	13	6	der Bundeswehr
+indir-obj	133,135	13	13	den Schießplatzgemeinden
+indir-obj	136,138	13	0	der Region
+sbj	140,143	14	5	die Stadt Wittstock
+dir-obj	151,153	14	3	Den Streit
+dir-obj	157,159	15	5	die Stadt
+sbj	165,167	16	4	der Platz
+other	191,192	17	15	Das
+sbj	200,202	17	3	der Streit

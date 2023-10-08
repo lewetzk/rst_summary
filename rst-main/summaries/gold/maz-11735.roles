@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	15,19	0	_	Sowohl die G-20 Gruppe
+sbj	16,19	0	_	die G-20 Gruppe
+sbj	22,24	0	14	die Industrieländer
+sbj	22,28	0	5	die Industrieländer sowie die mächtigsten Schwellenländer
+sbj	25,28	0	15	die mächtigsten Schwellenländer
+other	33,36	0	6	die 183 IWF-Staaten
+other	38,40	0	0	in Ottawa
+other	44,48	0	_	gegen Geldwäsche und die
+other	44,51	0	8	gegen Geldwäsche und die Finanzierung von Terrornetzen
+sbj	156,158	2	1	Die Staaten
+not_specified	161,163	2	10	im Zweifelsfall

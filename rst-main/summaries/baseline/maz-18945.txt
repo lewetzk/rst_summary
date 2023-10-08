@@ -1,0 +1,4 @@
+#Radfahrer zählen nicht
+0	"Tschühüs, kommt gut nach Hause.
+5	Nur bei unseren Behördern vermisst man das "Kommt gut nach Hause!"
+11	Übrigens: Auch Fahrradfahrer und Eltern zahlen Steuern.

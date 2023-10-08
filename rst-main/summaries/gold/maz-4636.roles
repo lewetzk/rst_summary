@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	81,83	0	1	die Rettungskräfte
+sbj	92,93	0	1	sie
+dir-obj	93,95	0	2	die Bürger
+sbj	120,121	1	1	sie
+indir-obj	130,131	1	1	ihrem
+indir-obj	130,135	1	_	ihrem steten Bemühen um Vorbeugung
+other	138,142	1	_	zum Beispiel im Brandschutz
+sbj	144,146	1	1	die Feuerwehr
+other	146,152	1	5	schon in der Planung eines Gebäudes
+sbj	172,174	2	11	die Polizei
+sbj	178,180	2	1	die Rettungskräfte

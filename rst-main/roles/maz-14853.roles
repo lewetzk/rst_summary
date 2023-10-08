@@ -1,0 +1,28 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	5,11	2	1	für Luckenwaldes designierte Bürgermeisterin Elisabeth Herzog-von_der_Heide
+other	6,7	2	3	Luckenwaldes
+other	17,23	3	6	am ersten Tag nach ihrem Wahlsieg
+other	20,23	3	12	nach ihrem Wahlsieg
+other	21,22	3	1	ihrem
+sbj	34,40	3	5	der EU-Kommissar für Regionalpolitik aus Brüssel
+other	38,40	3	13	aus Brüssel
+other	45,50	3	4	der letzten drei deutschen Urban-Städte
+dir-obj	50,52	3	11	die Programm-Verträge
+other	69,71	4	3	für Luckenwalde
+sbj	76,78	4	1	Elisabeth Herzog
+sbj	83,84	5	3	Luckenwalde
+other	91,93	5	15	vom Urban-II-Projekt
+indir-obj	98,104	5	1	der 2. Beigeordneten und künftigen Bürgermeisterin
+indir-obj	108,109	5	1	ihr
+other	109,111	5	10	im Wahlkampf
+other	116,117	5	7	Brandenburgs
+sbj	116,120	5	2	Brandenburgs Städtebauminister Hartmut Meyer
+other	134,138	7	8	gleich am ersten Tag
+sbj	144,145	8	0	das
+sbj	152,153	9	0	es
+other	164,168	10	9	nach all den Vorschusslorbeeren
+sbj	169,171	10	2	Minister Meyer
+other	173,176	10	1	zur künftigen Bürgermeisterin
+sbj	180,181	10	1	Sie
+other	183,186	10	14	an Ihren Taten
+other	184,185	10	1	Ihren

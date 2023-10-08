@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	16,17	0	3	sie
+dir-obj	21,29	0	2	die zurzeit noch katastrophale Parkfläche an der Graf-von-Lindenau-Halle
+other	26,29	0	0	an der Graf-von-Lindenau-Halle
+sbj	114,118	1	_	die total misslungene Abstellfläche
+sbj	127,130	1	10	die vielen Besucher
+other	130,133	1	0	für die Halle
+other	190,192	2	_	Beim CSI
+other	193,198	2	19	dem hochdotierten Reitturnier im Januar
+other	196,198	2	21	im Januar

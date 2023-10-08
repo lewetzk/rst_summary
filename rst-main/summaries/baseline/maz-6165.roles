@@ -1,0 +1,13 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,6	0	1	die Feuerwehr
+other	11,16	0	9	an jedem Ort der Stadt
+other	14,16	0	10	der Stadt
+other	19,20	0	19	derzeit
+sbj	21,22	0	20	es
+sbj	77,78	1	4	Die
+other	84,88	1	0	an der Berliner Straße
+other	90,93	1	22	Nahe der Schnellstraße
+other	97,100	1	7	nahe am Klinikum
+sbj	184,187	2	16	die neue Wache
+other	192,194	2	23	in Babelsberg
+indir-obj	198,200	2	5	der Havel

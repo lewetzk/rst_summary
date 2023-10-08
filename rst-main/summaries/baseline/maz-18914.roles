@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	1,4	0	2	Mit Helga Kaden
+indir-obj	9,11	0	0	der Stadt
+other	94,97	1	0	für die Stadt

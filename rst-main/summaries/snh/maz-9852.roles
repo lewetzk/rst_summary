@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	40,41	0	15	Deshalb
+other	49,52	0	5	in Königs Wusterhausen
+sbj	52,55	0	4	der Verein Jugendrechtshaus
+sbj	81,82	1	3	Sie
+dir-obj	89,92	3	1	die jungen Leute
+other	92,98	3	12	an die Regeln des menschlichen Zusammenlebens
+other	95,98	3	13	des menschlichen Zusammenlebens

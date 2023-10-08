@@ -1,0 +1,26 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	3,6	1	14	Im Löwenberger Land
+other	9,11	2	15	der Kita-Öffnungszeiten
+sbj	13,15	2	16	Die Verwaltung
+other	16,17	3	1	damit
+other	25,34	3	6	mit der Anzahl betreuter Kinder zu den verschiedenen Tageszeiten
+other	30,34	3	17	zu den verschiedenen Tageszeiten
+other	37,41	4	7	hinter den neuen Betreuungszeiten
+indir-obj	49,51	5	5	der Landesregierung
+other	51,54	5	19	beim Thema Kinderbetreuung
+sbj	54,56	5	18	der Rotstift
+other	63,66	5	11	Mit den Folgen
+sbj	68,72	6	20	die Verwaltungen vor Ort
+other	78,81	7	21	bis zur Schließung
+other	84,86	7	4	die Folge
+other	87,88	7	4	Davon
+sbj	89,92	8	22	auch die Löwenberger
+sbj	98,102	8	3	Die eingangs erwähnte Analyse
+other	103,105	9	_	der Versuch
+sbj	130,132	10	0	diese Spanne
+other	136,142	10	9	der insgesamt betreuten Mädchen und Jungen
+other	142,145	10	2	in der Einrichtung
+sbj	147,149	10	2	Die Einrichtung
+sbj	152,154	11	8	die Zahlen
+sbj	160,162	11	10	die Mehrheit
+other	182,183	11	13	zudem

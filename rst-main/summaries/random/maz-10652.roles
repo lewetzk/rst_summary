@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	61,63	0	1	die Mainzelmänner
+sbj	66,67	0	1	wir
+other	67,68	0	1	unser
+dir-obj	67,70	0	0	unser Zugpferd Kerner
+other	72,74	0	20	die Woche
+sbj	149,150	1	19	wir
+sbj	52,54	2	18	die Quoten

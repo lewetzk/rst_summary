@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	24,25	0	11	Das
+sbj	26,28	0	2	die Bauaufsicht
+sbj	32,33	0	2	sie
+other	33,34	0	2	ihren
+dir-obj	33,39	0	0	ihren unbegründeten Baustopp-Bescheid gegen einen Grundbesitzer
+other	172,173	2	16	davon
+other	175,178	2	13	in den Amtsstuben
+sbj	183,186	2	12	die überschüssige Kraft
+other	186,192	2	10	in die schnelle Bearbeitung von Bauanträgen

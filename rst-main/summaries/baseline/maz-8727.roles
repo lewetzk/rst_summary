@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	7,12	0	0	die Initiatoren der Bücherstadt Wünsdorf
+other	9,12	0	1	der Bücherstadt Wünsdorf
+other	11,12	0	9	Wünsdorf
+other	12,13	0	0	ihr
+dir-obj	12,14	0	10	ihr Konzept

@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+SBJ	4,7	0	3	Die einstige Fußball-Weltmacht
+SBJ	74,77	1	34	die drei Knirpse
+INDIR-OBJ	82,92	1	3	der um Ehre und Reputation kämpfenden Mannschaft von Rudi Völler
+not_specified	90,91	1	14	Rudi
+not_specified	90,92	1	0	Rudi Völler
+not_specified	91,92	1	5	Völler
+SBJ	92,96	1	21	der Weg zur Weltmeisterschaft
+not_specified	94,96	1	2	zur Weltmeisterschaft

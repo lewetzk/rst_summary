@@ -1,0 +1,13 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	169,176	0	11	Für die austrittswilligen Amtsgemeinden Damsdorf und Gollwitz
+other	173,174	0	28	Damsdorf
+other	175,176	0	29	Gollwitz
+sbj	178,181	0	13	die Groß-Kreutzer Problemlage
+other	179,180	0	7	Groß-Kreutzer
+sbj	158,159	1	5	Die
+dir-obj	161,162	1	4	Götz
+sbj	1,9	2	16	Die jüngste Entwicklung in Groß Kreutz und Götz
+other	4,7	2	7	in Groß Kreutz
+other	4,9	2	0	in Groß Kreutz und Götz
+other	11,21	2	17	für die Kommunalpolitiker , die das Amt Emster-Havel erhalten wollen
+other	16,19	2	1	das Amt Emster-Havel

@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,4	0	8	Die Litanei
+sbj	79,81	1	0	die Lernmittelfreiheit
+sbj	125,128	2	5	auch die Landesregierung
+other	148,151	2	3	an der Grundausstattung

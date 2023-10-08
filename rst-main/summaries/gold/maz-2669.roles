@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	13,15	0	20	In Falkensee
+sbj	66,68	1	4	die Sozialdemokratin
+sbj	75,77	1	2	der Rathauschef
+other	80,81	1	9	damit
+sbj	81,85	1	19	die Ein-Stimmen-Mehrheit der SPD/FDP-Zählgemeinschaft
+not_specified	83,85	1	17	der SPD/FDP-Zählgemeinschaft
+other	85,88	1	18	in der Stadtverordenten-Versammlung

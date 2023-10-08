@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	29,32	0	2	allein diese Nachricht
+sbj	172,175	1	12	das Amtsgericht Potsdam
+other	174,175	1	14	Potsdam
+dir-obj	178,179	1	3	es
+sbj	201,203	2	15	das Seniorenheim
+indir-obj	203,205	2	3	dem Haus

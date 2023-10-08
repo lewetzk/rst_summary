@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,5	0	0	Dietmar Zigan
+indir-obj	12,20	0	1	zu seinem Wittenberger Amts- und Parteikollegen Klaus Petry
+other	13,14	0	0	seinem
+other	14,15	0	2	Wittenberger
+sbj	80,81	1	8	Das
+indir-obj	83,84	1	1	Petry
+other	187,191	2	22	Im Gegensatz zu damals
+other	192,193	2	1	Petrys
+sbj	192,194	2	15	Petrys Kontrahenten

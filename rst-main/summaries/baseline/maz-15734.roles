@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	2,4	0	1	vom Wursthof
+other	4,6	0	10	zum Markt
+other	103,106	1	_	in der Mönchen-
+other	103,111	1	8	in der Mönchen- und in der Zinnaer Straße
+other	107,111	1	14	in der Zinnaer Straße
+sbj	112,114	1	0	der Fußgänger
+other	117,120	1	15	auf die Fahrbahn

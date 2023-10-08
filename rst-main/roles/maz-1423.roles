@@ -1,0 +1,22 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,4	1	7	Die Diskussion
+sbj	7,11	2	1	die neue Wittstocker Stadthalle
+other	9,10	2	0	Wittstocker
+indir-obj	24,28	2	8	Bei der jüngsten Sitzung
+sbj	29,31	3	9	die Stadtverordneten
+sbj	45,47	4	10	Die Einnahmen
+sbj	57,59	5	11	Die Betriebskosten
+other	59,63	6	1	für den schmucken Veranstaltungsort
+dir-obj	72,74	7	1	die Halle
+sbj	89,91	8	12	der Stadthaushalt
+sbj	93,95	8	1	Die Halle
+other	100,103	10	6	in der Region
+sbj	108,110	11	3	die Nachbarstädte
+sbj	115,116	11	0	Wittstock
+sbj	124,126	12	5	Das Oktoberfest
+sbj	135,141	13	4	Die Gäste aus nah und fern
+indir-obj	148,149	14	0	Wittstock
+indir-obj	151,152	14	2	Gymnasium
+sbj	159,161	15	0	die Dosse-Stadt
+dir-obj	176,178	15	1	die Halle
+sbj	179,180	15	0	Wittstock

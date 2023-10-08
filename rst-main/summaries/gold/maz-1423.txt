@@ -1,0 +1,3 @@
+7	Die Betriebskosten für den schmucken Veranstaltungsort sind hoch.
+9	Je mehr Veranstaltungen stattfinden, desto weniger wird der Stadthaushalt belastet.
+16	Fest steht, dass die Dosse-Stadt als Mittelzentrum ohne einen ansehnlichen Veranstaltungsort mit ausreichend Platz fürs Publikum nicht auskommt.

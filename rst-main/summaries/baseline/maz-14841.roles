@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	9,10	0	9	unsere
+sbj	9,12	0	15	unsere geliebte D-Mark
+other	146,149	2	5	Für den Verbraucher
+sbj	150,152	2	_	die Hoffnung
+other	157,159	2	25	der Bäcker
+sbj	157,159	2	25	der Bäcker
+other	157,161	2	24	der Bäcker , Frisör
+other	157,163	2	23	der Bäcker , Frisör und Kaufmannsladen
+sbj	166,169	2	1	die Stadtwerke Zehdenick
+other	168,169	2	3	Zehdenick
+dir-obj	174,177	2	7	nur das Nötigste

@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	174,176	2	5	der Sanitärtrakt
+other	178,181	2	10	zur nächsten Saison
+indir-obj	183,184	2	0	Radewege
+dir-obj	185,195	2	11	den Wettbewerb um Freizeitkapitäne auf dem Beetzsee mit anderen Anbietern
+other	189,192	2	7	auf dem Beetzsee

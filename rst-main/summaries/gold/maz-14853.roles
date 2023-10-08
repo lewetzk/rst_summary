@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	17,23	0	6	am ersten Tag nach ihrem Wahlsieg
+other	20,23	0	12	nach ihrem Wahlsieg
+other	21,22	0	1	ihrem
+sbj	34,40	0	5	der EU-Kommissar für Regionalpolitik aus Brüssel
+other	38,40	0	13	aus Brüssel
+other	45,50	0	4	der letzten drei deutschen Urban-Städte
+dir-obj	50,52	0	11	die Programm-Verträge

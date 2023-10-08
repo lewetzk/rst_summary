@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	130,132	0	2	die Nordallianz
+other	5,6	1	26	es
+sbj	6,11	1	0	die kleinen Meldungen am Rande
+other	14,17	1	7	über diesen Krieg
+sbj	19,23	1	8	die Erfolgsberichte der Militärs
+other	21,23	1	21	der Militärs
+other	84,87	2	22	auf die Straße

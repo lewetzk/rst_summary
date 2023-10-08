@@ -1,0 +1,29 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	2,4	2	1	vom Wursthof
+other	4,6	2	10	zum Markt
+other	14,18	3	12	bis an die Einmündungen
+dir-obj	19,21	3	13	die Sicht
+other	25,28	4	3	auf der Straßenmitte
+other	40,41	5	18	dazwischen
+other	59,60	6	17	Der
+other	62,64	7	1	des Wursthofes
+other	67,69	7	21	zum Beispiel
+sbj	78,80	8	22	die Bordsteine
+other	80,86	8	7	für den Verkehr in beide Richtungen
+other	103,106	9	_	in der Mönchen-
+other	103,111	9	8	in der Mönchen- und in der Zinnaer Straße
+other	107,111	9	14	in der Zinnaer Straße
+sbj	112,114	9	0	der Fußgänger
+other	117,120	9	15	auf die Fahrbahn
+sbj	124,125	10	0	er
+sbj	131,133	11	5	die Mittelstraße
+other	137,141	11	2	mit den anderen Straßen
+sbj	149,150	12	24	Das
+other	155,161	13	2	zu den anderen Verkehrsadern der Stadt
+not_specified	159,161	13	6	der Stadt
+sbj	162,166	13	_	Der Vorschlag zu prüfen
+other	170,174	14	20	in den vorhandenden Einbahnstraßen
+other	185,186	15	9	diejenigen
+other	188,191	15	23	aus der Lessingstraße
+not_specified	190,191	15	16	Lessingstraße
+other	191,193	15	3	ins Zentrum

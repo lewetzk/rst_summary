@@ -1,0 +1,15 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	2,6	0	15	Unter den vielen Lobreden
+other	8,15	0	18	am neuen Hauptsitz des Instituts für Klimafolgenforschung
+other	11,15	0	2	des Instituts für Klimafolgenforschung
+sbj	16,18	0	_	die Tatsache
+other	23,24	0	2	dessen
+sbj	23,26	0	1	dessen Direktor Schellnhuber
+other	30,32	0	17	ins Ausland
+sbj	97,101	1	13	Die Nähe zur Landesregierung
+other	99,101	1	12	zur Landesregierung
+sbj	106,110	1	11	das Tauziehen um Schellnhuber
+other	108,110	1	1	um Schellnhuber
+sbj	162,163	2	19	Brandenburg
+dir-obj	165,171	2	9	die rote Laterne in der Wissenschaftsförderung
+other	168,171	2	8	in der Wissenschaftsförderung

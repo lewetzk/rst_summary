@@ -1,0 +1,35 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,7	2	3	der Noch-Finanzbeigeordnete Hans-Joachim Bosse
+indir-obj	7,9	2	17	den Stadtverordneten
+other	9,15	2	20	bei der Einbringung des Haushalts 2002
+other	12,15	2	18	des Haushalts 2002
+other	15,17	2	19	ins Gewissen
+sbj	21,25	3	1	die Haushaltspolitiker der SPD
+other	23,25	3	5	der SPD
+other	25,29	3	7	im Vorfeld ihrer Wochenendklausur
+other	27,28	3	1	ihrer
+other	27,29	3	6	ihrer Wochenendklausur
+other	50,51	5	21	daran
+dir-obj	52,53	5	4	sie
+sbj	56,57	5	3	Bosse
+other	60,64	6	2	auf den teuren Theaterneubau
+other	68,70	7	_	der Versuch
+dir-obj	71,73	7	2	das Projekt
+other	78,82	7	10	angesichts der dünnen SPD-CDU-Mehrheit
+other	82,84	7	26	im Desaster
+other	92,95	8	2	zu dem Vorhaben
+other	97,100	9	15	bei der Kammerakademie
+sbj	101,103	9	16	die Verwaltung
+dir-obj	117,119	9	12	Das Füllhorn
+indir-obj	129,134	11	9	der Kooperationsvereinbarung mit der CDU
+other	131,134	11	0	mit der CDU
+other	136,137	11	0	deren
+sbj	143,145	11	8	Die PDS
+other	147,148	12	22	dagegen
+dir-obj	151,155	13	13	die sicher notwendigen Investitionen
+other	161,163	13	11	am Ende
+sbj	165,169	13	27	der Verkauf von Tafelsilber
+other	170,172	13	25	Dieses Problem
+sbj	170,175	13	24	Dieses Problem und das Haushaltsloch
+other	173,175	13	23	das Haushaltsloch
+dir-obj	181,182	13	3	Bosse

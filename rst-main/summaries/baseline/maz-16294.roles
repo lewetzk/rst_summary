@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,8	0	16	Der Ausbau des Flughafens Schönefeld
+other	5,8	0	5	des Flughafens Schönefeld
+other	11,14	0	4	für die PDS
+other	91,95	1	15	mit dem leisen Hinweis
+other	95,96	1	31	darauf
+indir-obj	103,104	1	11	dem
+other	109,112	1	29	in den Planungen
+other	113,116	1	10	auf den Weg
+sbj	185,190	2	1	Die Genossen von der PDS
+other	187,190	2	4	von der PDS

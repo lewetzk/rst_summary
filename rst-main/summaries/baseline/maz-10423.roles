@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,14	0	15	Die von den Elstalern lange herbei gesehnte Umgehungsstraße für den historischen Ortskern
+other	3,6	0	2	von den Elstalern
+other	10,14	0	0	für den historischen Ortskern
+other	65,66	1	26	Daran

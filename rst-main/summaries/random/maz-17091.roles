@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,9	1	1	Die Weiße Stadt in Oranienburg
+other	7,9	1	11	in Oranienburg
+sbj	17,20	2	5	Firmenchef Klaus Kesting

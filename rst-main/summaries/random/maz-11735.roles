@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	148,150	0	0	nach Ottawa
+sbj	66,69	1	20	Der unbeteiligte Beobachter
+dir-obj	10,12	2	13	das Geld

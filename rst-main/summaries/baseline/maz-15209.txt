@@ -1,0 +1,4 @@
+#Diener vieler Herren
+0	Wer es allen Recht machen möchte, hat es schwer.
+8	Den Interessen aller drei Fahrgastgruppen gerecht zu werden, scheint unmöglich.
+16	Mal sehen, wer sich am Dienstag beschwert.

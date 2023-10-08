@@ -1,0 +1,15 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	17,18	0	0	er
+indir-obj	18,19	0	3	ihm
+dir-obj	19,21	0	_	den Titel
+sbj	125,126	3	1	wir
+other	126,130	3	10	beim Blick ins Telefonbuch
+other	128,130	3	19	ins Telefonbuch
+other	130,136	3	9	in den größeren Städten der Region
+other	134,136	3	18	der Region
+other	144,146	4	25	in Hennigsdorf
+other	148,150	4	24	in Oranienburg
+other	152,154	4	12	in Falkensee
+other	156,158	4	7	in Nauen
+sbj	191,192	5	1	wir
+indir-obj	192,193	5	4	ihnen

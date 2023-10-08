@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	77,78	0	9	Das
+other	82,85	0	_	zum erklärten Ziel
+dir-obj	86,89	0	3	den ehemaligen Truppenübungsplatz

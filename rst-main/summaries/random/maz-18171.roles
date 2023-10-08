@@ -1,0 +1,14 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	46,49	0	8	auf das Grundstück
+indir-obj	53,54	0	1	ihm
+dir-obj	59,64	0	9	den bürokratischen Gang der Dinge
+other	62,64	0	7	der Dinge
+dir-obj	24,25	1	11	Das
+sbj	26,28	1	2	die Bauaufsicht
+sbj	32,33	1	2	sie
+other	33,34	1	2	ihren
+dir-obj	33,39	1	0	ihren unbegründeten Baustopp-Bescheid gegen einen Grundbesitzer
+sbj	132,134	2	2	Die Bauverwaltung
+other	144,145	2	2	ihre
+sbj	144,146	2	4	ihre Mitarbeiter
+other	149,154	2	3	auf der Suche nach Bausündern

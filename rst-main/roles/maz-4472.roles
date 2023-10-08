@@ -1,0 +1,39 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,6	1	4	Die Ketziner und Paretzer
+other	5,6	2	0	Paretzer
+other	8,11	2	15	aus der Zeitung
+sbj	14,15	2	4	sie
+other	17,19	2	28	nach Uetz
+other	17,21	2	29	nach Uetz , Marquardt
+other	17,23	2	20	nach Uetz , Marquardt und Potsdam
+other	17,23	2	20	nach Uetz , Marquardt und Potsdam
+other	25,27	2	19	über Falkenrehde
+sbj	30,36	2	_	Weder das Wasserstraßenneubauamt Berlin als Bauherr
+sbj	31,36	3	3	das Wasserstraßenneubauamt Berlin als Bauherr
+other	33,34	3	25	Berlin
+sbj	38,41	3	8	die bauausführende Firma
+sbj	42,45	3	9	die Straßenverkehrsbehörde Nauen
+other	44,45	3	17	Nauen
+other	49,50	3	5	dazu
+other	53,68	4	13	von der in Paretz herrschenden generellen Ablehnung gegen den Havelausbau und den damit verbundenen Brückenneubau
+other	55,57	4	0	in Paretz
+other	60,63	4	6	gegen den Havelausbau
+other	60,65	4	_	gegen den Havelausbau und den
+other	65,66	4	6	damit
+dir-obj	69,71	4	0	die Bürger
+sbj	94,96	5	14	die Umleitung
+sbj	106,110	6	16	die Wanderer und Radfahrer
+sbj	117,119	7	2	die Landwirte
+other	119,122	7	12	mit ihren Traktoren
+other	120,121	7	2	ihren
+other	124,130	7	10	auf die Felder jenseits des Kanals
+other	127,130	7	11	jenseits des Kanals
+sbj	133,135	8	3	das Wasserstraßenneubauamt
+sbj	143,145	9	3	die Behörde
+sbj	150,162	9	24	der unglückliche Zeitpunkt des Baubeginns so kurz nach der Wiedereröffnung des Schlosses
+other	153,162	9	22	des Baubeginns so kurz nach der Wiedereröffnung des Schlosses
+other	155,162	9	23	so kurz nach der Wiedereröffnung des Schlosses
+other	160,162	9	1	des Schlosses
+other	171,174	10	21	nach der Buga
+sbj	177,182	10	27	Der enorme Zeitverzug beim Schloss
+other	180,182	10	1	beim Schloss

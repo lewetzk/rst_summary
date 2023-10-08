@@ -1,0 +1,4 @@
+#Nostalgie und frische Luft
+0	Wenn ältere Pritzwalker aufs Hainholz zu sprechen kommen, da können sie schon in Erinnerungen schwelgen.
+5	Das war damals für die Jugend selbstverständlich."
+11	Also, was hält Sie von einem Dezemberausflug ins Grüne ab?

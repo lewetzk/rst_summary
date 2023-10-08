@@ -1,0 +1,35 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	7,9	2	0	aufs Hainholz
+sbj	15,16	2	1	sie
+other	26,29	3	10	des Pritzwalker Bauausschusses
+other	27,28	3	3	Pritzwalker
+other	29,31	3	18	am Mittwoch
+other	35,40	3	8	über die Bewirtschaftung des Stadtforstes
+other	38,40	3	0	des Stadtforstes
+other	40,45	3	7	auf der Tagesordnung ihrer Sitzung
+other	43,44	3	4	ihrer
+other	43,45	3	9	ihrer Sitzung
+sbj	48,49	4	3	Pritzwalk
+other	50,53	4	0	auf seinen Stadtwald
+other	51,52	4	3	seinen
+sbj	64,66	5	14	Wolfgang Eichhorst
+sbj	68,70	6	6	Dietrich Kurtz
+other	74,80	7	5	als Jungs und mit der Clique
+other	77,80	7	16	mit der Clique
+sbj	81,82	7	5	wir
+other	83,85	7	0	ins Hainholz
+sbj	87,88	7	11	Das
+other	90,93	8	17	für die Jugend
+sbj	97,98	9	5	sie
+other	119,120	10	19	dabei
+sbj	124,125	10	6	Kurtz
+sbj	126,133	10	0	Der wunderbare Mischwald am Rande der Stadt
+other	129,133	11	12	am Rande der Stadt
+other	131,133	11	3	der Stadt
+other	140,143	11	13	auf die Menschen
+sbj	144,145	11	0	Er
+sbj	174,176	13	15	dieser Eindruck
+dir-obj	180,182	13	_	die vielen
+other	186,188	13	0	im Hainholz
+dir-obj	204,205	13	20	Sie
+other	208,210	13	0	ins Grüne

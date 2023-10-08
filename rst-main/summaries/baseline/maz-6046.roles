@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+indir-obj	65,66	1	2	uns
+other	68,69	1	0	Veronas
+sbj	68,70	1	8	Veronas Tränen
+sbj	68,73	1	4	Veronas Tränen und Dieters Geschwätz
+other	71,72	1	15	Dieters
+sbj	71,73	1	11	Dieters Geschwätz
+other	73,76	1	21	auf dem Bildschirm
+sbj	131,132	2	13	Berlusconi
+sbj	136,138	2	1	Der Westen
+indir-obj	139,141	2	10	dem Islam

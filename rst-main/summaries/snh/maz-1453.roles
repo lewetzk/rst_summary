@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	74,76	0	1	Die Damsdorfer
+other	77,79	0	9	von Emster-Havel
+other	77,79	0	9	von Emster-Havel
+other	80,86	0	14	vom dortigen Amtsausschuss und peinlichen Gezänk
+sbj	105,108	1	2	Die Lehniner Gemeinden
+other	142,145	2	6	Aus dem Ergebnis
+sbj	152,154	2	1	die Damsdorfer
+other	155,157	2	7	vom Emster-Amt

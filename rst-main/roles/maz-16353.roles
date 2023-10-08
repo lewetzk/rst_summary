@@ -1,0 +1,30 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,7	2	3	die Arbeiter von Säbu
+other	5,7	2	1	von Säbu
+other	8,10	2	4	in Blumenow
+sbj	14,15	2	3	Sie
+sbj	24,25	4	3	sie
+other	39,42	4	0	die jüngsten Einwohner
+sbj	50,51	5	3	sie
+dir-obj	52,55	5	10	auch die Qualität
+sbj	62,63	6	3	sie
+other	87,92	6	14	Auf der Suche nach Profis
+sbj	94,96	7	4	die Blumenower
+sbj	104,105	8	4	fanden
+other	105,107	8	6	sie in
+other	108,110	8	1	, bei
+other	111,116	8	8	. Für die Qualität der
+other	114,116	9	7	Qualität der
+other	121,125	9	9	. Allein im Kreis
+sbj	126,127	10	1	hat
+other	143,145	11	15	Kindertagesstätte in
+sbj	155,159	12	0	ehe die Mädchen und
+other	159,162	12	5	Jungen das erste
+other	163,166	12	2	ausgelassen im neuen
+sbj	175,177	14	2	ist das
+indir-obj	177,180	14	_	Projekt vielen ,
+other	179,187	14	12	, in erster Linie aber der Eigeninitiative der
+other	185,187	14	4	Eigeninitiative der
+sbj	188,189	14	4	.
+not_specified	200,201	16	11	sich
+sbj	200,202	16	0	sich ihre

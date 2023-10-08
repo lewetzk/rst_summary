@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	80,84	0	1	die Mädchen und Jungen
+other	84,92	0	8	auf der großen Freifläche in der Berliner Straße
+other	88,92	0	9	in der Berliner Straße
+sbj	163,168	2	1	Die 30 Mädchen und Jungen
+other	172,178	2	19	in der Neigungsgruppe Biologie und Umwelt

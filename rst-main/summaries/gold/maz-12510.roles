@@ -1,0 +1,17 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	26,27	0	7	Afghanistan
+other	28,34	0	8	seit dem vom Bundestag abgesegneten Bündnis-Marschbefehl
+other	30,32	0	9	vom Bundestag
+indir-obj	63,65	1	3	Diesem Szenario
+sbj	66,68	1	4	die Nachwuchsjournalisten
+dir-obj	68,75	1	24	eine Seite und den Wunsch nach Frieden
+other	71,75	1	5	den Wunsch nach Frieden
+other	109,110	2	16	Dazu
+sbj	111,116	2	19	das Unrecht auf unserem Planeten
+other	113,116	2	17	auf unserem Planeten
+other	114,115	2	12	unserem
+other	122,124	2	7	aus Afghanistan
+other	122,124	2	7	aus Afghanistan
+other	122,126	2	11	aus Afghanistan , Israel
+other	122,128	2	27	aus Afghanistan , Israel und Afrika
+other	129,131	2	20	im Fernsehen

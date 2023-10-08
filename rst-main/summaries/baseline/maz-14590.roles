@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	4,6	0	16	in Potsdam
+sbj	6,9	0	2	der brandenburgische Kunstpreis
+sbj	77,81	1	3	das Votum der Jury
+other	79,81	1	21	der Jury
+other	85,88	1	4	Für all das
+other	90,92	1	0	in Rheinsberg
+sbj	94,96	1	_	Siegfried Matthus
+sbj	100,104	1	7	Leiter der dortigen Kammeroper
+other	101,104	1	13	der dortigen Kammeroper

@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,11	0	13	Der Traum vieler Menschen von der weißen Weihnacht
+other	7,11	0	1	von der weißen Weihnacht
+other	13,16	0	0	in der Prignitz
+other	115,118	1	11	In diesem Jahr
+sbj	119,120	1	1	sie
+other	122,125	1	12	in den Süden
+sbj	207,208	2	18	das

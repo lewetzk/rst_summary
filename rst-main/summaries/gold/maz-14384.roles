@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	7,9	0	0	aufs Hainholz
+sbj	15,16	0	1	sie
+sbj	126,133	1	0	Der wunderbare Mischwald am Rande der Stadt
+other	129,133	1	12	am Rande der Stadt
+other	131,133	1	3	der Stadt
+other	140,143	1	13	auf die Menschen

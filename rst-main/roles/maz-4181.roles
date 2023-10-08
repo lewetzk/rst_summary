@@ -1,0 +1,32 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	0,2	0	_	Fingerspitzengefühl Der
+other	11,14	2	_	sich auf die
+sbj	16,17	2	_	.
+sbj	21,22	3	_	wie
+other	22,25	3	_	sie von der
+sbj	30,32	4	_	erfahren die
+dir-obj	34,35	4	_	was
+sbj	38,39	4	_	wenn
+other	42,45	4	_	rechtzeitig auf die
+other	50,52	4	_	eventuell das
+other	58,64	5	_	- neben der eindeutigen Auszeichnung der
+other	62,64	5	_	Auszeichnung der
+sbj	66,75	5	_	auch die " richtige " Umrechnung von Mark in
+sbj	76,81	5	_	. Der Umrechnungskurs für den
+other	78,81	6	_	Umrechnungskurs für den
+other	84,85	6	_	.
+other	96,99	8	_	Stellen hinter dem
+sbj	104,105	8	_	.
+other	107,110	9	_	jedoch bei den
+other	125,126	11	_	ist
+other	131,134	11	_	rechtzeitig mit der
+sbj	139,142	12	_	ja der abgerundete
+other	142,146	12	_	Bonbonpreis durch den aufgerundeten
+dir-obj	155,157	13	_	nur die
+other	166,169	14	_	sich mit den
+other	173,176	14	_	verliert bei der
+dir-obj	176,178	14	_	Euroumstellung den
+other	181,182	14	_	riskiert
+dir-obj	182,186	14	_	damit das Vertrauen seiner
+other	184,185	14	_	Vertrauen
+other	184,186	14	_	Vertrauen seiner

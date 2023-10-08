@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	7,10	0	0	vor dem Fest
+sbj	95,97	1	6	Die Erinnerung
+other	97,102	1	1	an diese Verlierer unserer Zeit
+other	100,101	1	11	unserer
+dir-obj	104,106	1	0	sein Weihnachtsfest
+sbj	177,179	2	13	die MAZ

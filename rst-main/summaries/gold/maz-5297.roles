@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	25,26	0	19	Damit
+other	33,35	0	3	der Energiewirtschaft
+other	35,37	0	20	in Ostdeutschland
+other	41,43	1	2	die Laubag
+sbj	41,47	1	_	die Laubag und ihr wichtigster Kunde
+not_specified	44,45	1	16	ihr
+other	44,47	1	_	ihr wichtigster Kunde
+other	48,50	1	1	die Veag
+other	99,102	2	8	aus dem Dilemma
+sbj	103,110	2	_	die Bildung eines neuen Energiekonzerns aus Rohstofflieferanten

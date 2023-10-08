@@ -1,0 +1,37 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	16,20	2	14	den Wahlspot der CDU
+other	18,20	2	13	der CDU
+other	23,25	2	0	Gerhard Schröders
+sbj	23,27	2	_	Gerhard Schröders leichtsinniger Satz
+sbj	33,34	3	0	er
+other	36,42	3	3	am Erfolg beim Abbau der Arbeitslosigkeit
+other	38,42	3	5	beim Abbau der Arbeitslosigkeit
+other	40,42	3	4	der Arbeitslosigkeit
+sbj	47,48	3	2	Der
+indir-obj	49,50	4	0	ihm
+other	51,57	4	20	in der Debatte über den Bundeshaushalt
+other	54,57	4	19	über den Bundeshaushalt
+sbj	64,66	5	0	der Kanzler
+sbj	64,69	5	1	der Kanzler und seine Minister
+other	67,68	5	0	seine
+sbj	67,69	5	18	seine Minister
+dir-obj	69,77	5	24	die Verunsicherung der Verbraucher seit dem 11. September
+dir-obj	69,77	5	24	die Verunsicherung der Verbraucher seit dem 11. September
+other	71,73	5	22	der Verbraucher
+other	73,77	5	23	seit dem 11. September
+dir-obj	79,82	5	_	den verschärften Konjunktureinbruch
+indir-obj	100,102	6	1	der Regierung
+sbj	105,107	6	_	der Mut
+dir-obj	109,111	6	11	den Arbeitsmarkt
+sbj	114,118	6	16	Die Probe aufs Exempel
+other	116,118	7	17	aufs Exempel
+sbj	123,126	7	1	Die Regierung Schröder
+other	125,126	8	0	Schröder
+not_specified	127,129	8	15	der Großindustrie
+indir-obj	127,132	8	6	der Großindustrie und den Gewerkschaften
+indir-obj	130,132	8	8	den Gewerkschaften
+indir-obj	135,137	8	7	dem Mittelstand
+sbj	141,142	9	27	sie
+other	148,151	9	9	unter diesen Rahmenbedingungen
+not_specified	167,168	9	21	der
+dir-obj	169,172	9	10	die teilnehmende Beobachtung

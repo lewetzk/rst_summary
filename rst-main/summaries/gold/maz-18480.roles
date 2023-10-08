@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	29,31	0	10	in Wiesenburg
+other	33,38	0	11	für die Grund- und Gesamtschule
+other	41,42	0	16	dies
+indir-obj	129,133	2	0	nur dem Wiesenburger Förderverein
+indir-obj	139,141	2	14	der Gesellschaft

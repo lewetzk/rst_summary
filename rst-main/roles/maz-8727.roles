@@ -1,0 +1,21 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	7,12	2	0	die Initiatoren der Bücherstadt Wünsdorf
+other	9,12	2	1	der Bücherstadt Wünsdorf
+other	11,12	2	9	Wünsdorf
+other	12,13	2	0	ihr
+dir-obj	12,14	2	10	ihr Konzept
+sbj	16,18	2	11	Die Basis
+sbj	42,44	5	1	die Bücherstadt
+other	56,64	6	12	trotz der Pleite der Landesentwicklungsgesellschaft ( LEG )
+other	59,64	6	2	der Landesentwicklungsgesellschaft ( LEG )
+other	67,71	6	3	in den eigenen Reihen
+indir-obj	72,76	6	13	Mit dem gestrigen Umwelttag
+sbj	86,90	8	14	solche " Ausrutscher "
+other	120,124	10	1	in der grünen Waldstadt
+dir-obj	127,132	10	4	die Beschäftigung mit der Natur
+other	129,132	10	8	mit der Natur
+sbj	169,171	12	2	die LEG
+other	171,174	12	7	in diesem Jahr
+sbj	176,177	12	2	Sie
+other	178,187	13	5	vor ( ! ) der langen Nacht der Antiquare
+dir-obj	188,191	13	6	die 2000er Besucherzahlen

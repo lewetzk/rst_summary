@@ -1,0 +1,17 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	6,8	0	3	in Fröhden
+other	9,12	0	2	für die Dorferneuerungsplanung
+sbj	13,14	1	22	Das
+sbj	30,32	1	13	die Einwohner
+other	94,99	2	9	auf das Ja-Wort aus Brieselang
+other	97,99	2	1	aus Brieselang
+sbj	114,115	2	0	er
+sbj	122,123	2	0	er
+dir-obj	126,128	2	10	die Fassade
+other	131,132	2	0	dem
+indir-obj	137,138	2	0	ihm
+other	138,139	2	0	sein
+other	138,140	2	3	sein Dorf
+sbj	138,143	2	14	sein Dorf und dessen Erscheinungsbild
+other	141,142	2	3	dessen
+other	141,143	2	12	dessen Erscheinungsbild

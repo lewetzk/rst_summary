@@ -1,0 +1,30 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,8	2	1	das Bündnis für Arbeit
+other	11,15	2	17	Für BDA-Chef Dieter Hundt
+sbj	17,18	3	1	es
+sbj	23,26	3	6	IG-Metall-Vize Jürgen Peters
+sbj	39,41	4	4	Die Ergebnisse
+other	43,46	5	5	in der Tat
+sbj	48,50	5	_	Das Wenige
+sbj	66,68	7	19	die Gewerkschaften
+sbj	73,77	7	_	die Zusage der Unternehmer
+other	75,77	7	3	der Unternehmer
+sbj	85,89	7	15	Der jüngst geplatzte Termin
+other	91,94	8	23	auf das Gewerkschaftskonto
+sbj	96,101	9	16	die Strategie der IG Metall
+other	98,101	9	0	der IG Metall
+sbj	104,105	9	0	Sie
+other	113,116	10	3	auf die Bündnispartner
+sbj	121,126	10	10	Der Geldbeutel der eigenen Mitglieder
+other	123,126	11	18	der eigenen Mitglieder
+sbj	131,135	11	9	die Sorgen der Arbeitslosen
+other	133,135	11	11	der Arbeitslosen
+sbj	136,141	11	2	Das erste Bündnis für Arbeit
+other	142,147	12	21	durch die Unfähigkeit der Kohl-Regierung
+other	145,147	12	8	der Kohl-Regierung
+other	147,150	12	7	in die Brüche
+other	155,156	12	2	sein
+not_specified	155,157	12	_	sein Erfinder
+other	158,161	12	20	IG-Metall-Chef Klaus Zwickel
+other	165,166	12	2	ihm
+dir-obj	166,168	12	13	den Totenschein

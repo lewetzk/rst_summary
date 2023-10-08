@@ -1,0 +1,4 @@
+#Radfahrer zählen nicht
+0	"Tschühüs, kommt gut nach Hause.
+6	leider - sofern man mit dem Fahrrad unterwegs ist.
+5	Nur bei unseren Behördern vermisst man das "Kommt gut nach Hause!"

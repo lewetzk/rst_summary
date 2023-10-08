@@ -1,0 +1,4 @@
+#Politisches Signal
+0	Derzeit bestimmen die Parteien, wen sie in den Wahlkreisen der Region für die Bundestagswahl 2002 in das Rennen schicken werden.
+5	Sich frühzeitig mit den Vorstellungen der Bundestagsaspiranten vertraut zu machen, ist deshalb sinnvoll.
+11	Für sie muss die Haltung der Wahlkreiskandidaten zu diesem Thema auch ein politisches Signal sein.

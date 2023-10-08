@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	26,27	0	18	sie
+dir-obj	31,32	0	20	sie
+sbj	37,38	0	17	sie
+other	76,78	2	1	im Land

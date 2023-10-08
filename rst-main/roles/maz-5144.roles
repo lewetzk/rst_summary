@@ -1,0 +1,23 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,7	2	2	die ersten Witze
+other	10,11	2	2	Darin
+dir-obj	27,29	5	_	den Anschein
+sbj	42,43	5	4	sie
+sbj	50,55	6	3	auch die Verantwortlichen des Landkreises
+other	53,55	6	1	des Landkreises
+other	55,58	6	11	mit der Weltlage
+sbj	61,64	6	3	Der zuständige Stab
+other	79,83	7	15	Auf dem Bahnhof Neustadt
+other	82,83	8	14	Neustadt
+sbj	93,94	8	8	Das
+other	102,105	10	5	Landrat Christian Gilde
+dir-obj	113,121	10	9	das Reagieren auf möglichen Terror und seine Folgen
+other	115,121	10	0	auf möglichen Terror und seine Folgen
+other	119,120	10	0	seine
+other	119,121	10	7	seine Folgen
+sbj	133,134	12	5	er
+other	143,147	13	6	vor dem 11. September
+sbj	162,164	14	13	der Katastrophenschutz
+other	169,171	14	1	Der Landkreis
+sbj	169,174	14	16	Der Landkreis und die Kommunen
+other	172,174	14	12	die Kommunen

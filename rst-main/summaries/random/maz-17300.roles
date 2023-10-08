@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	33,42	0	20	Erst die Stichwahl zwischen Wolfgang Engel und Christian Gilde
+other	36,42	0	12	zwischen Wolfgang Engel und Christian Gilde
+other	37,39	0	4	Wolfgang Engel
+other	40,42	0	1	Christian Gilde
+dir-obj	50,52	0	19	die Entscheidung

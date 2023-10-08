@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	79,81	0	5	dieser Beschluss
+other	82,87	0	_	nicht mal mehr das Papier
+sbj	92,93	0	5	er
+sbj	96,97	1	23	Das

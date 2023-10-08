@@ -1,0 +1,30 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	19,22	3	_	Türenklappern , das
+other	21,26	3	19	das widerwillige Aufjaulen des Motors
+other	24,26	3	18	des Motors
+dir-obj	31,32	4	3	das
+other	32,35	4	6	an der Feiertagen
+sbj	45,49	5	8	die meisten lieben Weihnachtsgäste
+other	49,52	5	7	am ersten Feiertag
+other	56,60	5	25	Nur bei unseren Behördern
+other	58,59	6	22	unseren
+dir-obj	62,65	6	_	das " Kommt
+not_specified	74,77	6	24	mit dem Fahrrad
+other	80,91	6	_	An der viel und schnell befahrenen Landesstraße zwischen Wustrau und Dammkrug
+other	87,91	7	13	zwischen Wustrau und Dammkrug
+other	88,89	7	10	Wustrau
+other	90,91	7	5	Dammkrug
+other	110,118	8	1	auf der im Winter vereisten Brücke in Altfriesack
+other	112,114	8	14	im Winter
+other	116,118	8	9	in Altfriesack
+sbj	119,122	8	15	das Straßenbauamt Kyritz
+other	121,122	8	4	Kyritz
+dir-obj	123,125	8	23	den Gehweg
+other	134,138	8	20	das Autobahnamt in Tarmow
+other	136,138	8	11	in Tarmow
+sbj	141,144	8	1	die Altfriesacker Brücke
+not_specified	163,166	8	16	von der Straße
+other	168,170	8	17	durchs Geländer
+other	170,173	8	21	in den Rhin
+other	176,179	8	2	Für die Verkehrsplaner
+sbj	185,186	9	0	sie

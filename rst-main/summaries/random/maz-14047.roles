@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	117,118	0	9	das
+other	122,126	0	4	für diesen wichtigen Beschluss
+dir-obj	163,164	1	17	das
+sbj	172,173	1	5	er
+dir-obj	173,175	1	7	das Krankenhaus
+sbj	29,32	2	0	Landrat Burkhard Schröder
+sbj	37,38	2	0	er
+dir-obj	38,40	2	4	diese Entscheidungen
+indir-obj	40,44	2	6	den Mitgliedern des Kreistages
+other	42,44	2	2	des Kreistages

@@ -1,0 +1,37 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	3,6	1	_	Schlachtefest - mit
+dir-obj	13,15	2	3	den Schrecken
+other	15,20	2	14	auf die Gesichter der Deutschen
+other	18,20	2	1	der Deutschen
+sbj	25,30	3	3	die Angst vor dem Rinderwahn
+other	27,30	3	15	vor dem Rinderwahn
+sbj	35,39	3	5	auch die cleversten Werbestrategen
+other	41,44	3	2	wie das Schlachtefest
+other	44,46	3	4	am Wochenende
+other	46,48	3	0	in Paaren/Glien
+other	49,52	3	7	an den Mann
+other	49,52	3	7	an den Mann
+other	56,59	3	6	an den Verbraucher
+sbj	62,64	3	3	Die BSE-Panik
+sbj	75,79	5	21	das Vertrauen der Menschen
+other	77,79	5	1	der Menschen
+sbj	81,85	5	10	der Absatz von Fleischwaren
+dir-obj	86,89	5	20	die gewohnten Größenordnungen
+sbj	93,94	6	22	dies
+other	94,99	6	13	das Ergebnis einer veränderten Politik
+sbj	107,109	7	1	die Verbraucher
+other	109,112	7	_	zu ihren alten
+other	110,111	7	1	ihren
+sbj	127,130	8	9	Die regionalen Produkte
+sbj	135,139	9	2	Das Schlachtefest in Paaren/Glien
+other	137,139	10	0	in Paaren/Glien
+dir-obj	140,142	10	8	diese These
+sbj	143,145	10	1	Die Menschen
+other	150,157	11	11	Statt der plastikverpackten Einheitswurst aus der Supermarkttheke
+other	154,157	12	12	aus der Supermarkttheke
+sbj	158,159	12	1	sie
+sbj	165,167	12	19	dieser Trend
+sbj	171,174	12	3	die ganze BSE-Hysterie
+not_specified	174,176	12	17	am Ende
+other	177,178	12	3	ihr
+dir-obj	177,179	12	18	ihr Gutes

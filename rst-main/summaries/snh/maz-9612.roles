@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,6	0	3	Die Bundeswehr
+other	11,12	0	3	ihre
+sbj	11,17	0	5	ihre geplanten Aktivitäten aus der Luft
+not_specified	14,17	0	13	aus der Luft
+other	21,29	0	15	auf die Entwicklung der Region im touristischen Bereich
+other	24,26	0	14	der Region
+other	26,29	0	4	im touristischen Bereich
+sbj	148,150	2	2	Die Kommunen
+other	154,157	2	5	mit dem Problem

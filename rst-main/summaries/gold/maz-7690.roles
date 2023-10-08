@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	62,64	0	3	Die BSE-Panik
+sbj	107,109	1	1	die Verbraucher
+other	109,112	1	_	zu ihren alten
+other	110,111	1	1	ihren
+sbj	127,130	2	9	Die regionalen Produkte

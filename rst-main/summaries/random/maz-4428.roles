@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	16,17	0	3	sie
+dir-obj	21,29	0	2	die zurzeit noch katastrophale Parkfläche an der Graf-von-Lindenau-Halle
+other	26,29	0	0	an der Graf-von-Lindenau-Halle
+other	64,66	2	_	Am Parkplatz

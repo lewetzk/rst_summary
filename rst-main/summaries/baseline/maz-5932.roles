@@ -1,0 +1,17 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	10,15	0	21	im Bereich des Amtes Dahme
+other	12,15	0	20	des Amtes Dahme
+sbj	96,100	1	_	die Fusion von Ihlow
+other	98,100	1	27	von Ihlow
+other	98,102	1	16	von Ihlow , Illmersdorf
+other	98,104	1	13	von Ihlow , Illmersdorf , Rietdorf
+other	98,106	1	11	von Ihlow , Illmersdorf , Rietdorf , Niendorf
+other	98,108	1	15	von Ihlow , Illmersdorf , Rietdorf , Niendorf , Bollensdorf
+other	98,110	1	14	von Ihlow , Illmersdorf , Rietdorf , Niendorf , Bollensdorf und Mehlsdorf
+other	110,112	1	0	zu Groß-Ihlow
+not_specified	165,177	2	7	Im Vergleich zur bislang praktizierten Kleinstaaterei im ländlich geprägten Süden des Kreisgebietes
+other	167,177	2	33	zur bislang praktizierten Kleinstaaterei im ländlich geprägten Süden des Kreisgebietes
+other	171,177	2	10	im ländlich geprägten Süden des Kreisgebietes
+other	175,177	2	8	des Kreisgebietes
+sbj	178,179	2	1	sie
+sbj	180,183	2	9	das kleinere Übel

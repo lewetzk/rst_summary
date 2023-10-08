@@ -1,0 +1,39 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	1,4	1	2	Die Berliner PDS
+other	6,13	2	23	bei den Koalitionsverhandlungen mit der regierenden SPD
+other	9,13	2	20	mit der regierenden SPD
+other	16,18	2	26	in Schönefeld
+other	22,24	2	21	im Wahlkampf
+sbj	32,34	3	0	alle Politiker
+sbj	37,38	3	0	sie
+dir-obj	38,40	3	7	die Macht
+other	67,68	5	19	darauf
+sbj	72,74	5	_	die Sache
+other	82,85	6	1	an der Flughafen-Frage
+indir-obj	89,91	6	2	der PDS
+sbj	92,97	6	16	Die gemäßigte Reaktion der Parteibasis
+other	95,97	7	15	der Parteibasis
+sbj	105,106	7	4	Gysi
+dir-obj	107,116	8	18	die Chance der PDS zum Mitregieren in der Bundeshauptstadt
+other	109,111	8	2	der PDS
+not_specified	111,113	8	17	zum Mitregieren
+other	113,116	8	3	in der Bundeshauptstadt
+sbj	133,135	9	1	der Flughafenausbau
+other	135,149	9	9	in der ursprünglich vom Bund und von den Ländern Berlin und Brandenburg geplanten Dimension
+other	138,140	9	24	vom Bund
+other	138,147	9	11	vom Bund und von den Ländern Berlin und Brandenburg
+other	141,147	9	12	von den Ländern Berlin und Brandenburg
+other	144,145	9	3	Berlin
+other	146,147	9	8	Brandenburg
+other	150,152	9	22	zum Tragen
+not_specified	154,155	9	6	das
+sbj	159,161	9	_	die Wenigsten
+other	166,168	9	4	wie Gysi
+sbj	172,173	10	4	er
+other	174,183	10	14	auf die zu erwartenden Gerichtsprozesse um den geplanten Flughafen
+other	179,183	10	13	um den geplanten Flughafen
+dir-obj	187,188	11	4	ihm
+other	189,190	11	4	seine
+dir-obj	189,191	11	5	seine Taktik
+sbj	194,196	11	5	diese Taktik
+sbj	199,200	11	5	sie

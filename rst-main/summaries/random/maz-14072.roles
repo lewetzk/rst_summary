@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	75,80	0	2	weniger an den Kandidaten selbst
+other	75,80	0	2	weniger an den Kandidaten selbst
+other	83,85	0	_	an denen
+other	87,89	0	2	hinter ihnen
+not_specified	180,183	1	25	Nicht dem Ego
+sbj	68,69	2	19	Das

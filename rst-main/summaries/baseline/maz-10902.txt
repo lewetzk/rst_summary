@@ -1,0 +1,4 @@
+#In die Offensive
+0	Drogenprobleme an der Schule: Offen wird darüber nicht gerne geredet.
+5	Erstmals wird versucht, das Problem offensiv zu bewerten.
+10	Der Elternstammtisch des Jahn-Gymnasiums und PIRA sind in eine Vorreiterrolle geschlüpft.

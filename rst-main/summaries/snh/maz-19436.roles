@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	105,106	0	4	Gysi
+dir-obj	107,116	0	18	die Chance der PDS zum Mitregieren in der Bundeshauptstadt
+other	109,111	0	2	der PDS
+not_specified	111,113	0	17	zum Mitregieren
+other	113,116	0	3	in der Bundeshauptstadt

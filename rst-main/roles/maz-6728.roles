@@ -1,0 +1,40 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	1,5	1	4	Das Schulmuseum in Reckahn
+other	3,5	2	0	in Reckahn
+sbj	11,19	3	8	das von Friedrich Eberhard von Rochow initiierte Haus
+other	12,17	3	20	von Friedrich Eberhard von Rochow
+other	19,24	3	9	im 18. und 19. Jahrhundert
+other	25,30	3	10	für die Entwicklung der Volksschulen
+other	28,30	3	21	der Volksschulen
+dir-obj	34,39	3	25	das Flair eines historischen Klassenzimmers
+sbj	43,44	3	6	sie
+other	47,49	3	26	in Deutschland
+sbj	54,59	4	28	die vom Landkreis getragene Einrichtung
+other	55,57	4	3	vom Landkreis
+other	59,71	4	29	von der im August im benachbarten Barockschloss eröffneten Ausstellung zur brandenburgisch-preußischen Schulgeschichte
+other	61,63	4	18	im August
+other	63,66	4	2	im benachbarten Barockschloss
+other	68,71	4	27	zur brandenburgisch-preußischen Schulgeschichte
+dir-obj	74,80	5	2	das mit großem Aufwand sanierte Schloss
+other	84,88	5	11	an der alten Dorfschule
+other	90,95	5	19	In diesen knapp drei Monaten
+other	98,101	6	4	durch das Museum
+other	104,106	7	5	von ihnen
+other	107,109	7	23	übers Wochenende
+other	109,111	7	0	nach Reckahn
+other	114,121	7	22	auf die kompakte Werbung für das Preußenjahr
+other	118,121	7	1	für das Preußenjahr
+sbj	124,126	7	_	Der Verein
+not_specified	127,129	8	15	Historisches Reckahn
+not_specified	128,129	8	30	Reckahn
+other	130,135	8	14	mit seinem Vorsitzenden Otto-Günther Beckmann
+not_specified	131,132	8	24	seinem
+not_specified	134,135	8	17	Beckmann
+other	137,146	8	12	auf die große Resonanz seiner Arbeit in der Öffentlichkeit
+other	141,142	8	7	seiner
+other	141,146	8	13	seiner Arbeit in der Öffentlichkeit
+other	143,146	8	16	in der Öffentlichkeit
+sbj	148,149	8	7	Er
+dir-obj	150,151	9	0	Reckahn
+other	154,159	9	3	weit über den Kreis hinaus
+sbj	162,164	9	1	Das Preußenjahr

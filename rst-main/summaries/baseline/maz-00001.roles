@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,5	0	0	Dagmar Ziegler
+other	6,9	0	4	in der Schuldenfalle
+dir-obj	127,132	1	_	Angebote des vorzeitigen Ausstiegs nutzen
+other	129,132	1	_	vorzeitigen Ausstiegs nutzen

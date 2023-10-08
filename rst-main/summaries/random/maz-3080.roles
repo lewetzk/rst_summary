@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	158,163	1	6	die Interkulturelle Woche in Ludwigsfelde
+other	161,163	1	16	in Ludwigsfelde
+indir-obj	167,173	1	7	der Verständigung für Deutsche und Ausländer

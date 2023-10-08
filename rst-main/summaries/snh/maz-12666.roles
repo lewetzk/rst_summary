@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	116,118	0	13	die Rheinsberger
+other	118,121	0	1	vom zweiten Thermalbad-Bewerber
+other	127,129	0	4	vom ersten
+indir-obj	180,181	1	4	Rogner

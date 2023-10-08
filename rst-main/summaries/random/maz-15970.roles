@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	77,78	0	0	Rudi
+sbj	79,81	0	19	der Richtige
+other	14,16	1	20	für Fußball-Deutschland
+dir-obj	20,23	1	13	die schönste Bescherung

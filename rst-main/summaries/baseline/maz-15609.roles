@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	1,4	0	0	Die Blankenfelder Gemeindevertreter
+other	2,3	0	1	Blankenfelder
+other	5,6	0	0	ihren
+dir-obj	5,7	0	11	ihren Beschluss
+dir-obj	8,10	0	12	die Straßenlampen
+other	10,13	0	3	in der Nacht
+sbj	112,114	1	8	die Kommune
+sbj	121,125	1	9	der Vertrag mit Edis
+other	123,125	1	7	mit Edis

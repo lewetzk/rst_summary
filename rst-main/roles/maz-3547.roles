@@ -1,0 +1,28 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,9	1	13	Die Verwaltungsspitze des Kreises Potsdam-Mittelmark
+other	6,9	2	3	des Kreises Potsdam-Mittelmark
+other	15,19	2	14	Nicht zum ersten Mal
+sbj	20,33	3	6	die wirtschaftliche Betätigung der Tochtergesellschaften mit ihren vielfältigen und offenkundig schwer überschaubaren Verflechtungen
+other	23,25	3	1	der Tochtergesellschaften
+other	25,33	3	5	mit ihren vielfältigen und offenkundig schwer überschaubaren Verflechtungen
+other	26,27	3	1	ihren
+sbj	37,41	3	2	Die diesmal schwerwiegenden Vorwürfe
+other	43,46	4	7	von der Staatsanwaltschaft
+other	56,66	4	_	für die am Donnerstag geplante Wiederwahl von Landrat Lothar Koch
+other	58,60	4	20	am Donnerstag
+other	62,66	4	_	von Landrat Lothar Koch
+other	67,68	4	12	SPD
+other	75,78	5	3	des Kreises Potsdam-Mittelmark
+sbj	84,85	5	4	Sie
+sbj	88,91	6	_	Verkehrsgesellschaften , Krankenhaus-GmbH
+sbj	90,91	7	8	Krankenhaus-GmbH
+sbj	98,100	7	0	diese Unternehmen
+other	102,104	7	18	der Daseinsvorsorge
+other	108,111	8	10	bei der ABU-Service-GmbH
+other	108,117	8	15	bei der ABU-Service-GmbH oder nun auch bei der Gesundheitszentrum-GmbH
+other	114,117	8	11	bei der Gesundheitszentrum-GmbH
+sbj	117,123	8	16	der zunächst gut gemeinte soziale Zweck
+other	125,128	8	17	der geschäftlichen Betätigung
+sbj	141,143	8	_	der Verdacht
+sbj	146,149	8	3	der Kreis Potsdam-Mittelmark
+other	152,156	8	9	in der anonymen Anzeige

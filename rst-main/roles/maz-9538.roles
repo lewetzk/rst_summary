@@ -1,0 +1,36 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	10,15	2	3	die Mitglieder des Prignitzer Kreistages
+other	12,15	2	0	des Prignitzer Kreistages
+other	13,14	2	4	Prignitzer
+sbj	18,19	3	3	sie
+dir-obj	23,28	3	1	die oberste Verwaltungsposition im Landkreis
+other	26,28	3	6	im Landkreis
+sbj	29,34	3	_	Der amtierende Landrat Hans Lange
+not_specified	35,36	4	17	CDU
+other	38,41	4	_	gegen Margarete Vierjahn
+dir-obj	45,49	4	9	die Unterstützung der SPD
+other	47,49	4	10	der SPD
+sbj	53,55	5	1	die Position
+other	56,60	5	14	die der hauptamtlichen Bürgermeister
+other	57,60	5	15	der hauptamtlichen Bürgermeister
+sbj	65,67	5	12	das Ergebnis
+sbj	71,73	6	5	Hans Lange
+other	74,81	6	18	vor allem im westlichen Teil des Kreises
+other	79,81	6	6	des Kreises
+other	88,90	6	5	Bei ihm
+sbj	91,93	7	7	der Bürger
+sbj	95,96	7	7	er
+sbj	112,113	8	5	er
+other	113,116	8	1	mit seinem Amt
+other	114,115	8	5	seinem
+sbj	119,121	8	2	Margarete Vierjahn
+dir-obj	126,132	9	13	die Qualifikation für die höhere Verwaltungstätigkeit
+other	128,132	9	1	für die höhere Verwaltungstätigkeit
+sbj	134,135	10	2	sie
+sbj	148,150	10	8	Die Entscheidung
+other	154,156	11	0	im Kreistag
+other	166,167	11	8	Dabei
+indir-obj	168,171	12	19	den kleinen Fraktionen
+other	171,175	12	11	aufgrund der obwaltenden Konstellation
+indir-obj	182,184	12	4	den Prignitzern
+not_specified	190,192	12	16	ins Ungewisse

@@ -1,0 +1,13 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	1,2	1	17	Davon
+sbj	3,7	1	_	die bevölkerungsreichen Wohngebiete Schlaatz
+other	6,7	1	1	Schlaatz
+other	6,11	1	22	Schlaatz , Stern und Drewitz
+other	8,9	1	8	Stern
+other	10,11	1	25	Drewitz
+sbj	14,16	1	3	Der Bauausschuss
+other	17,18	1	3	seine
+dir-obj	17,20	1	14	seine ganze Aufmerksamkeit
+other	20,23	1	15	zum wiederholten Male
+indir-obj	28,32	1	5	der kuscheligen Eigenheimsiedlung Parforceheide
+other	31,32	1	19	Parforceheide

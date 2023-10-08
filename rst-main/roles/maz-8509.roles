@@ -1,0 +1,27 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,6	1	_	Reste vom Sonntagsbraten
+other	4,6	2	9	vom Sonntagsbraten
+other	10,13	2	10	die alte Barbiepuppe
+other	15,18	2	11	in den Laubsack
+dir-obj	19,20	2	0	Das
+other	29,30	3	0	daran
+other	45,47	4	5	In Nauen
+other	52,57	5	20	der jährlich anfallenden 4000 Säcke
+other	57,60	5	13	an der Straße
+sbj	63,64	5	4	er
+other	87,88	7	2	ihren
+dir-obj	87,89	7	3	ihren Müll
+dir-obj	92,93	7	3	ihn
+sbj	97,98	7	19	Das
+other	108,111	9	8	des zunehmenden Missbrauchs
+other	108,114	9	14	des zunehmenden Missbrauchs und leerer Kassen
+sbj	124,126	9	15	die Stadtväter
+dir-obj	126,132	9	7	die für den Bürger kostenlose Laubentsorgung
+other	127,130	9	1	für den Bürger
+other	140,141	10	16	damit
+not_specified	161,162	11	6	das
+sbj	172,174	11	5	die Stadt
+other	174,179	11	17	an die Einsicht ihrer Bürger
+other	177,178	11	5	ihrer
+other	177,179	11	1	ihrer Bürger
+sbj	189,191	11	18	diese Appelle

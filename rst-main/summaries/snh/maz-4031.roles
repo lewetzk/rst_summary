@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	20,22	0	5	Das Hohenzollernland
+other	28,29	0	16	Brandenburgs
+other	28,31	0	0	Brandenburgs Kulturministerin Wanka
+dir-obj	28,36	0	3	Brandenburgs Kulturministerin Wanka und ihre Berliner Kollegin Goehler
+other	32,33	0	0	ihre
+other	32,36	0	7	ihre Berliner Kollegin Goehler
+other	36,39	0	6	aus dieser Erhebung
+indir-obj	43,46	1	15	der borussischen Kampagne
+sbj	52,53	1	3	sie

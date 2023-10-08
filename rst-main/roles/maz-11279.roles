@@ -1,0 +1,39 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,4	1	2	Das FX-Center
+other	7,12	2	17	auf dem Stand von 1999
+other	10,12	2	25	von 1999
+other	16,22	3	7	nach dem Konkurs der ersten Betreibergesellschaft
+other	19,22	3	18	der ersten Betreibergesellschaft
+other	26,28	3	1	mit Artemedia
+sbj	38,44	4	27	die hoch subventionierte Infrastruktur des Hauses
+not_specified	42,44	4	8	des Hauses
+other	47,50	4	_	wie sein Leumund
+other	48,49	4	14	sein
+other	51,54	4	9	mit dem Technik-Inventar
+not_specified	58,60	4	6	der Zeit
+sbj	68,69	5	1	Artemedia
+other	69,71	5	3	beim Börsengang
+other	74,77	5	3	Aus dem Börsengang
+sbj	81,82	6	1	Artemedia
+sbj	92,94	7	_	die Verpflichtungen
+other	97,104	7	15	aus der Förderung von Land und EU
+other	100,104	7	13	von Land und EU
+other	108,111	7	2	über dem FX-Center
+other	114,115	8	10	seinen
+dir-obj	114,116	8	1	seinen Betrieb
+indir-obj	123,125	8	23	dem Förderzweck
+sbj	129,131	8	5	die Geldgeber
+dir-obj	131,133	8	_	das Recht
+not_specified	134,138	8	19	im Interesse der Steuerzahler
+not_specified	136,138	8	21	der Steuerzahler
+dir-obj	138,140	8	22	die Pflicht
+other	142,143	8	5	ihre
+dir-obj	142,144	8	20	ihre Beiträge
+other	155,158	10	12	mitten im Landtagswahlkampf
+sbj	160,162	10	2	das FX-Center
+indir-obj	163,165	10	0	der SPD-Staatskanzlei
+sbj	168,170	11	4	der CDU-Wirtschaftsminister
+other	173,174	11	4	seine
+sbj	173,176	11	0	seine heutigen Koalitionspartner
+sbj	187,189	11	_	das FX-Center
+dir-obj	192,193	11	24	es

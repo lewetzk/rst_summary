@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	72,76	0	4	in der schönen Weihnachtszeit
+sbj	78,83	0	6	das Elend des innerstädtischen Einzelhandels
+other	80,83	0	9	des innerstädtischen Einzelhandels
+other	107,110	1	5	für den Schwenk
+other	110,113	1	0	in die City
+sbj	121,123	2	0	Die Stadt
+sbj	129,130	2	0	sie

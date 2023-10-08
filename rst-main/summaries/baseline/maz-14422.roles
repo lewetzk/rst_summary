@@ -1,0 +1,13 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	100,102	1	1	die Knirpse
+sbj	106,107	1	1	sie
+sbj	112,113	1	1	sie
+other	113,116	1	10	in ihrem Kindergarten
+other	114,115	1	1	ihrem
+sbj	120,121	1	1	sie
+dir-obj	121,123	1	12	die Tanten
+dir-obj	128,130	1	11	den Abend
+dir-obj	173,174	2	18	das
+other	176,178	2	0	im Ort
+other	181,182	2	6	darum
+dir-obj	188,190	2	2	das Haus

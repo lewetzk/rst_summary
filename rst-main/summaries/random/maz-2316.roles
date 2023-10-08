@@ -1,0 +1,22 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+not_specified	92,94	0	11	Zum Beweis
+sbj	95,100	0	2	Die damalige Aufsichtsratschefin Margit Spielmann
+other	101,103	0	18	am Samstag
+sbj	105,106	0	2	sie
+other	109,112	0	13	für ihre Wobra-Arbeit
+other	110,111	0	2	ihre
+sbj	115,116	0	7	Schliesing
+other	116,119	0	12	noch im Vorjahr
+other	119,126	0	17	mit der Möglichkeit einer Klage gegen sie
+other	124,126	0	2	gegen sie
+other	128,131	0	14	von der SPD
+other	137,138	1	9	Deshalb
+sbj	140,141	1	4	Wansing
+other	145,147	1	1	des Verkaufs
+sbj	156,158	1	1	der Verkauf
+other	161,164	1	8	mit den Mietern
+other	174,177	2	0	bei der Wobra
+other	179,187	2	3	für die Fehler des Managements und des Aufsichtsrates
+other	182,184	2	10	des Managements
+not_specified	182,187	2	21	des Managements und des Aufsichtsrates
+other	185,187	2	2	des Aufsichtsrates

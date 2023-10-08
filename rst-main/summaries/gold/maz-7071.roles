@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	24,26	0	2	Die Stadt
+indir-obj	28,31	0	5	der hochverschuldeten Wohnungsbaugesellschaft
+other	32,33	0	2	ihre
+dir-obj	32,34	0	14	ihre Pflichten
+sbj	61,62	1	0	Sie
+sbj	121,123	2	15	Das Schlimmste

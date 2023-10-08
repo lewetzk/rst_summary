@@ -1,0 +1,36 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,7	1	5	Der Wunsch nach Frieden
+other	10,12	2	2	des Krieges
+sbj	17,19	3	2	der Krieg
+indir-obj	19,22	3	18	dem eigenen Land
+sbj	26,27	3	7	Afghanistan
+other	28,34	4	8	seit dem vom Bundestag abgesegneten Bündnis-Marschbefehl
+other	30,32	4	9	vom Bundestag
+sbj	45,47	4	3	Diese Situation
+dir-obj	49,51	5	4	die MAZ-Jugendredakteure
+indir-obj	63,65	6	3	Diesem Szenario
+sbj	66,68	7	4	die Nachwuchsjournalisten
+dir-obj	68,75	7	24	eine Seite und den Wunsch nach Frieden
+other	71,75	7	5	den Wunsch nach Frieden
+indir-obj	78,79	8	6	dem
+other	109,110	10	16	Dazu
+sbj	111,116	11	19	das Unrecht auf unserem Planeten
+other	113,116	11	17	auf unserem Planeten
+other	114,115	11	12	unserem
+other	122,124	11	7	aus Afghanistan
+other	122,124	11	7	aus Afghanistan
+other	122,126	11	11	aus Afghanistan , Israel
+other	122,128	11	27	aus Afghanistan , Israel und Afrika
+other	129,131	11	20	im Fernsehen
+sbj	136,142	12	13	die Schere zwischen Arm und Reich
+other	150,152	13	0	bin Laden
+dir-obj	158,159	13	1	Das
+sbj	160,165	14	15	die Anschläge vom 11. September
+other	162,165	14	14	vom 11. September
+sbj	169,177	15	2	der Kampf gegen den Top-Terroristen und seine Helfer
+other	171,174	15	0	gegen den Top-Terroristen
+other	171,176	15	_	gegen den Top-Terroristen und seine
+other	171,177	15	26	gegen den Top-Terroristen und seine Helfer
+not_specified	172,177	15	23	den Top-Terroristen und seine Helfer
+not_specified	175,176	15	25	seine
+sbj	181,184	15	21	Auch diese Frage

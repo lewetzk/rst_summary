@@ -1,0 +1,28 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,6	1	3	Die Bundeswehr
+other	11,12	2	3	ihre
+sbj	11,17	2	5	ihre geplanten Aktivitäten aus der Luft
+not_specified	14,17	2	13	aus der Luft
+other	21,29	2	15	auf die Entwicklung der Region im touristischen Bereich
+other	24,26	2	14	der Region
+other	26,29	2	4	im touristischen Bereich
+other	38,40	3	7	der Bundesrepublik
+other	47,52	3	6	mit den Interessen des Tourismus
+other	50,52	3	4	des Tourismus
+other	62,69	4	16	in der Erläuterung zum Luft/Bodenschießplatz bei Wittstock
+other	65,69	4	0	zum Luft/Bodenschießplatz bei Wittstock
+other	67,69	4	11	bei Wittstock
+other	70,71	4	12	Dazu
+other	72,76	5	18	in der kommenden Woche
+sbj	76,79	5	2	die betroffenen Gemeinden
+sbj	83,85	6	19	die Aussage
+other	108,112	7	10	des ehemaligen Kreises Kyritz
+sbj	118,119	7	1	sie
+other	119,122	7	5	mit den Überfliegern
+sbj	148,150	9	2	Die Kommunen
+other	154,157	10	5	mit dem Problem
+sbj	159,160	10	2	Sie
+indir-obj	162,165	11	9	dem Landkreis Ost-prignitz-Ruppin
+dir-obj	167,173	11	8	die nichtmilitärische Nutzung der Kyritz-Ruppiner Heide
+other	170,173	11	0	der Kyritz-Ruppiner Heide
+sbj	175,180	11	_	Überzeugung oder einfach nur Verdrängung

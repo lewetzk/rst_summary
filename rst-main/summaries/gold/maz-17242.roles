@@ -1,0 +1,17 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	10,11	0	0	ich
+other	15,19	0	13	in der letzten Minute
+other	19,22	0	14	aus dem Haus
+other	25,32	0	12	in das in der Garage eingemummelte Auto
+other	27,30	0	15	in der Garage
+sbj	35,36	0	0	ich
+dir-obj	36,39	0	16	die miesen Grade
+sbj	90,92	2	23	die einen
+dir-obj	92,94	2	24	die Zeit
+sbj	103,105	2	6	die anderen
+other	111,114	2	8	in den Schuhgeschäften
+sbj	115,118	2	7	die warmen Stiefel
+sbj	124,128	2	17	die Hompage der Standheizungsbauer
+other	126,128	2	10	der Standheizungsbauer
+other	134,135	2	5	die
+other	135,137	2	9	der Wetterkarten

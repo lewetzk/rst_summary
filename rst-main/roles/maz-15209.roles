@@ -1,0 +1,24 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	23,27	3	_	Die Regionale Verkehrsgesellschaft Dahme-Spreewald
+other	26,27	4	13	Dahme-Spreewald
+other	43,45	5	8	zur Arbeit
+sbj	48,49	5	3	Sie
+sbj	61,63	7	0	die Schüler
+sbj	64,65	7	0	Sie
+dir-obj	66,68	8	2	die RVS
+dir-obj	79,82	9	14	Den dritten Schwerpunkt
+other	87,88	10	4	ihre
+dir-obj	87,91	10	10	ihre Einkäufe oder Arztbesuche
+indir-obj	95,100	10	11	Den Interessen aller drei Fahrgastgruppen
+sbj	108,110	12	2	die RVS
+sbj	121,122	13	1	sie
+other	125,126	13	9	Deshalb
+sbj	131,133	14	2	die RVS
+sbj	145,147	14	3	Die Berufstätigen
+sbj	151,153	15	2	Die RVS
+other	154,155	16	6	deswegen
+other	159,160	16	7	Daraufhin
+other	164,165	17	5	ihre
+sbj	164,166	17	0	ihre Kinder
+other	166,167	17	12	dadurch
+dir-obj	180,182	18	0	die Schüler

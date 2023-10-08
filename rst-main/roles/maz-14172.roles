@@ -1,0 +1,37 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,5	1	0	Dietmar Zigan
+indir-obj	12,20	2	1	zu seinem Wittenberger Amts- und Parteikollegen Klaus Petry
+other	13,14	2	0	seinem
+other	14,15	2	2	Wittenberger
+sbj	25,27	3	0	SPD-Mann Zigan
+other	27,28	3	0	seine
+dir-obj	27,29	3	4	seine Wiederwahl
+other	40,41	4	0	er
+other	42,45	4	5	vor der Abstimmung
+sbj	58,60	5	20	die CDU
+other	63,65	5	19	ins Rennen
+indir-obj	70,71	6	0	Zigan
+sbj	80,81	6	8	Das
+indir-obj	83,84	7	1	Petry
+other	87,92	8	11	neben dem CDU-Kandidaten Karl-Heinz Straßburg
+sbj	102,104	8	12	Die UBG
+dir-obj	105,107	9	10	Horst Jaruczewski
+other	109,110	9	9	Damit
+other	113,114	10	3	derjenigen
+dir-obj	120,121	10	1	Petry
+other	121,124	10	14	aus dem Amt
+other	128,131	10	13	in den Ring
+sbj	133,135	10	16	Die Aussichten
+indir-obj	136,139	11	6	dem gleichen Anliegen
+other	145,146	11	23	dabei
+other	152,153	12	1	Petrys
+sbj	152,154	12	18	Petrys Haupttrumpfkarte
+other	155,160	12	7	die Ansiedlung eines Industriepark Holz
+other	166,167	12	21	damit
+indir-obj	167,169	12	17	dem Vorwurf
+sbj	170,171	12	1	er
+sbj	173,180	12	1	der richtige Mann für einen Aufschwung Wittenberges
+other	179,180	12	2	Wittenberges
+other	187,191	12	22	Im Gegensatz zu damals
+other	192,193	12	1	Petrys
+sbj	192,194	12	15	Petrys Kontrahenten

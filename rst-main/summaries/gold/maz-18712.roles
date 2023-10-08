@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	6,9	0	2	die letzte Lobpreisung
+other	9,12	0	3	für Hans-Joachim Giersberg
+indir-obj	15,16	1	3	ihm
+indir-obj	16,18	1	2	die Ehrenbürgerwürde
+indir-obj	20,21	1	3	ihm
+sbj	21,22	1	1	Potsdam
+other	95,96	2	3	Sein
+sbj	95,101	2	8	Sein stilles , aber nachhaltiges Eintreten
+other	101,106	2	9	für die Qualitäten der Kulturlandschaft
+other	106,109	2	5	außerhalb seiner Gärten
+dir-obj	119,121	2	1	die Landeshauptstadt

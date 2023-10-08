@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	10,11	0	0	ich
+other	15,19	0	13	in der letzten Minute
+other	19,22	0	14	aus dem Haus
+other	25,32	0	12	in das in der Garage eingemummelte Auto
+other	27,30	0	15	in der Garage
+sbj	35,36	0	0	ich
+dir-obj	36,39	0	16	die miesen Grade
+other	186,189	2	22	Jedenfalls im Winter
+other	191,192	2	18	eure
+sbj	191,193	2	0	eure Jette

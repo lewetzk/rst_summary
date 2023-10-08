@@ -1,0 +1,31 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	3,10	2	5	an der CDU-Basis in Werder und Umgebung
+other	6,8	2	4	in Werder
+sbj	11,13	2	10	Der Grund
+dir-obj	14,35	3	11	die Weigerung des Innenministers und Parteivorsitzenden Jörg Schönbohm , dem eindeutigen Bürgerwillen der Golmer nach Eingliederung in die Stadt Werder nachzukommen
+other	16,22	3	3	des Innenministers und Parteivorsitzenden Jörg Schönbohm
+other	23,28	3	12	dem eindeutigen Bürgerwillen der Golmer
+other	26,28	3	13	der Golmer
+other	30,34	3	14	in die Stadt Werder
+other	38,40	4	3	für Schönbohm
+sbj	48,51	4	2	die Junge Union
+other	51,53	4	4	in Werder
+other	54,57	4	8	gegen seinen Kurs
+other	55,56	4	3	seinen
+other	62,66	4	7	mit seinem sofortigen Austritt
+other	63,64	4	1	seinem
+other	66,71	4	2	aus der Christlich Demokratischen Union
+other	74,76	4	1	für ihn
+sbj	85,87	5	15	die Situation
+other	87,90	5	3	für den Parteivorsitzenden
+other	91,92	5	17	dadurch
+sbj	94,95	5	3	er
+sbj	112,113	5	6	sie
+other	122,125	5	5	an der Basis
+other	130,132	6	4	in Werder
+sbj	147,150	6	0	CDU-Amtsinhaber Werner Große
+sbj	153,154	6	9	Das
+sbj	161,164	6	3	der eigene Parteichef
+indir-obj	164,166	6	0	dem Kandidaten
+other	168,174	6	16	in die Parade einer erfolgreichen Amtszeit
+other	182,183	6	18	ihre

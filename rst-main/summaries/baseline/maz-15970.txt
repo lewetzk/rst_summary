@@ -1,0 +1,4 @@
+#Weihnachtsmann Völler
+0	Ja, ist denn heut' schon Weihnachten?
+5	Keine Frage, Rudi ist der Richtige.
+11	Dann wäre selbst im Juni Weihnachten.

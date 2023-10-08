@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	30,32	0	0	die Stadt
+sbj	37,38	0	0	sie
+other	129,132	1	1	in der Verwaltung
+sbj	5,7	2	0	die Stadt
+other	8,13	2	10	für die Unterhaltung eigener Immobilien

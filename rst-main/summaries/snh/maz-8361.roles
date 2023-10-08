@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	79,82	0	5	mit seinem Alleingang
+other	80,81	0	1	seinem
+other	82,83	0	18	Bayerns
+dir-obj	82,86	0	4	Bayerns Ministerpräsidenten Edmund Stoiber
+dir-obj	82,86	0	4	Bayerns Ministerpräsidenten Edmund Stoiber

@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	88,90	0	5	Bei ihm
+sbj	91,93	0	7	der Bürger
+sbj	95,96	0	7	er
+sbj	71,73	1	5	Hans Lange
+other	74,81	1	18	vor allem im westlichen Teil des Kreises
+other	79,81	1	6	des Kreises

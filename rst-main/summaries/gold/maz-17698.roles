@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	109,111	0	_	die Beharrlichkeit
+sbj	116,119	0	2	die Falkenseer Stadtverwaltung
+other	117,118	0	18	Falkenseer
+dir-obj	122,127	0	_	die Konzerterlaubnis für die Stadthalle
+other	124,127	0	_	für die Stadthalle
+other	130,134	0	11	der letzten rauchfreien Bastionen
+sbj	182,184	2	9	Dieses Prinzip
+indir-obj	185,187	2	2	den Verantwortlichen
+sbj	193,194	2	2	sie

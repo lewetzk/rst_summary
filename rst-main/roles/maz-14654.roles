@@ -1,0 +1,28 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	17,20	3	11	am gestrigen Abend
+sbj	27,29	3	5	Elisabeth Herzog-von_der_Heide
+other	30,31	4	15	SPD
+other	34,37	4	_	über das Wahlergebnis
+indir-obj	39,40	4	5	ihr
+sbj	47,49	4	6	Hans-Jürgen Akuloff
+other	50,51	4	4	PDS
+sbj	57,58	4	6	er
+dir-obj	58,65	4	0	das bisher beste Ergebnis für die PDS
+other	62,65	4	4	für die PDS
+sbj	67,68	4	10	Das
+sbj	82,86	5	9	Die Parteienlandschaft in Luckenwalde
+other	84,86	6	13	in Luckenwalde
+other	94,95	6	12	Deshalb
+sbj	106,109	7	0	Der gestrige Wahlausgang
+other	110,116	8	0	das persönliche Ergebnis der beiden Kandidaten
+other	113,116	8	3	der beiden Kandidaten
+sbj	118,119	8	3	sie
+other	121,124	8	1	im ersten Wahlgang
+other	133,136	9	_	. Nach der
+other	141,144	10	_	dann in der
+sbj	147,148	10	5	"
+dir-obj	148,149	10	6	Herz-Dame
+sbj	164,167	11	8	. Die extreme
+sbj	172,175	11	1	denn die erste
+dir-obj	177,179	11	_	sowieso die
+other	183,186	11	2	jetzt durch die

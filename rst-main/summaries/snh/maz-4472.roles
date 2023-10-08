@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	53,68	0	13	von der in Paretz herrschenden generellen Ablehnung gegen den Havelausbau und den damit verbundenen Brückenneubau
+other	55,57	0	0	in Paretz
+other	60,63	0	6	gegen den Havelausbau
+other	60,65	0	_	gegen den Havelausbau und den
+other	65,66	0	6	damit
+dir-obj	69,71	1	0	die Bürger

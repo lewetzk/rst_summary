@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	64,65	0	1	er
+sbj	114,115	1	1	er
+dir-obj	116,122	1	12	den selben Nachnamen wie ein Mitgefangener
+sbj	69,70	2	1	er
+sbj	74,76	2	17	das Justizministerium
+other	84,87	2	18	in die Freiheit
+sbj	88,89	2	1	er

@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+indir-obj	1,4	0	2	Der rot-grünen Koalition
+sbj	18,19	0	0	sie
+indir-obj	19,26	0	11	der Bereitstellung von Bundeswehrsoldaten für den Anti-Terror-Kampf
+other	23,26	0	10	für den Anti-Terror-Kampf
+sbj	64,66	1	15	der Kosovo-Krieg
+other	67,75	1	19	mit dem Kampf für die Menschenrechte in Europa
+other	70,75	1	17	für die Menschenrechte in Europa
+other	73,75	1	7	in Europa
+other	81,88	1	18	um die militärische Solidarität mit den USA
+other	85,88	1	16	mit den USA
+sbj	137,140	2	2	die eigene Koalition

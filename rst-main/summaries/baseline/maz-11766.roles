@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,7	0	3	der Noch-Finanzbeigeordnete Hans-Joachim Bosse
+indir-obj	7,9	0	17	den Stadtverordneten
+other	9,15	0	20	bei der Einbringung des Haushalts 2002
+other	12,15	0	18	des Haushalts 2002
+other	15,17	0	19	ins Gewissen
+other	97,100	1	15	bei der Kammerakademie
+sbj	101,103	1	16	die Verwaltung
+other	170,172	2	25	Dieses Problem
+sbj	170,175	2	24	Dieses Problem und das Haushaltsloch
+other	173,175	2	23	das Haushaltsloch
+dir-obj	181,182	2	3	Bosse

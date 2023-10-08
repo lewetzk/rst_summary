@@ -1,0 +1,25 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	2,12	1	11	Im Streit zwischen der Stadt Wittstock und dem Landesstraßenbauamt Kyritz
+other	4,12	2	15	zwischen der Stadt Wittstock und dem Landesstraßenbauamt Kyritz
+other	5,8	2	0	der Stadt Wittstock
+other	9,12	2	9	dem Landesstraßenbauamt Kyritz
+other	11,12	2	16	Kyritz
+sbj	13,16	2	10	Bürgermeister Lutz Scheidemann
+sbj	21,22	2	0	Wittstock
+dir-obj	34,36	3	2	die Innenstadt
+other	39,42	4	12	in den Wohnzimmerschränken
+sbj	46,47	4	4	Wer
+other	47,48	5	4	sein
+dir-obj	47,49	5	7	sein Haus
+sbj	60,62	5	8	der Putz
+not_specified	62,65	5	13	von der Fassade
+other	67,70	5	5	Mit der Einigung
+other	72,75	6	3	auf die Wittstocker
+sbj	80,81	6	3	Sie
+other	89,92	7	2	in der Innenstadt
+sbj	94,98	7	1	Die Entlastungsstraße für Lkw
+other	100,104	8	2	um die Altstadt herum
+other	144,148	11	2	in der Wittstocker Altstadt
+sbj	159,161	12	6	der Stadtbummel
+other	166,167	12	14	Deshalb
+dir-obj	173,176	12	2	die Wittstocker Altstadt

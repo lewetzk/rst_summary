@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	168,169	2	3	Das
+other	174,181	2	2	der Mieter und Vermieter in der Mittelstadt
+other	178,181	2	0	in der Mittelstadt

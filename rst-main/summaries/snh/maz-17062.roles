@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	80,81	0	0	Brandenburg
+sbj	99,105	2	14	Das innerhalb von Zis geplante City-Management
+other	102,103	2	1	Zis
+other	109,110	2	8	dabei
+other	157,164	3	19	Mit den Erfahrungen aus Urban im Gepäck
+other	161,162	3	2	Urban
+sbj	165,167	3	20	die Zis-Macher

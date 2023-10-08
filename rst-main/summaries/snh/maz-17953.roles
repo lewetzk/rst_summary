@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	73,74	0	13	dabei
+sbj	113,116	1	5	der junge Mann
+sbj	122,123	1	5	er
+other	190,194	2	_	der Probleme Gesellschaft gewesen
+other	193,194	2	_	gewesen

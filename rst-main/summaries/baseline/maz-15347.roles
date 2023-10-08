@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	1,5	0	11	Auch bei den Senioren
+sbj	6,7	0	20	sie
+sbj	9,11	0	2	die ABM-Lücke
+sbj	177,179	2	1	der Treff
+sbj	186,188	2	4	Arno Rentsch
+sbj	192,193	2	4	er
+not_specified	199,202	2	25	die endgültige Lösung

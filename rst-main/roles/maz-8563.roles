@@ -1,0 +1,36 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	10,12	3	20	durchs Glücksspiel
+indir-obj	19,22	4	21	nur den allerwenigsten
+sbj	23,25	4	18	Die Masse
+other	32,34	5	6	am Ende
+other	42,43	6	24	Ihr
+sbj	42,44	6	25	Ihr Einsatz
+other	52,54	8	26	zum Beispiel
+other	54,56	8	_	an der
+other	74,77	9	_	der Einnahmen der
+other	76,79	9	3	der " Glücksspirale
+other	81,85	9	0	an die Stiftung Denkmalschutz
+not_specified	84,85	9	28	Denkmalschutz
+sbj	87,88	9	0	Die
+other	90,91	10	31	damit
+other	93,95	10	16	im Brandenburgischen
+dir-obj	97,99	10	15	den Verfall
+other	102,103	10	2	ihre
+dir-obj	102,104	10	17	ihre Schönheit
+sbj	107,108	10	2	sie
+sbj	115,117	10	22	Der Bogen
+other	118,119	11	5	dabei
+other	119,127	11	9	von den ganz Großen wie dem Brandenburger Dom
+other	124,127	11	11	dem Brandenburger Dom
+other	127,138	11	10	bis zu den ganz Kleinen wie der winzigen Dorfkirche von Kanin
+other	133,138	11	12	der winzigen Dorfkirche von Kanin
+other	136,138	11	13	von Kanin
+other	145,148	12	8	der Beelitzer Wasserturm
+other	155,157	12	14	Haus Friedrichshuld
+not_specified	156,157	12	4	Friedrichshuld
+other	157,159	12	7	in Philippsthal
+other	181,182	13	1	ihrem
+other	181,183	13	27	ihrem Herzblut
+sbj	185,186	14	19	Sie
+other	187,190	14	30	an diesem Wochenende
+sbj	199,200	14	23	Sie

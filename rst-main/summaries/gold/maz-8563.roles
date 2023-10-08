@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	87,88	1	0	Die
+other	90,91	1	31	damit
+other	93,95	1	16	im Brandenburgischen
+dir-obj	97,99	1	15	den Verfall
+other	102,103	1	2	ihre
+dir-obj	102,104	1	17	ihre Schönheit
+sbj	107,108	1	2	sie
+other	145,148	2	8	der Beelitzer Wasserturm
+other	155,157	2	14	Haus Friedrichshuld
+not_specified	156,157	2	4	Friedrichshuld
+other	157,159	2	7	in Philippsthal

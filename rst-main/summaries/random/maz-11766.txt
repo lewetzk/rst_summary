@@ -1,0 +1,4 @@
+#Füllhorn
+11	Dieses Problem und das Haushaltsloch werden nicht verschwinden, wenn man Bosse in die Wüste geschickt hat.
+3	Bosse hatte empfohlen, auf den teuren Theaterneubau zu verzichten.
+4	Doch der Versuch, das Projekt sterben zu lassen, hätte angesichts der dünnen SPD-CDU-Mehrheit im Desaster geendet.

@@ -1,0 +1,29 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	1,4	1	0	Die Blankenfelder Gemeindevertreter
+other	2,3	2	1	Blankenfelder
+other	5,6	2	0	ihren
+dir-obj	5,7	2	11	ihren Beschluss
+dir-obj	8,10	2	12	die Straßenlampen
+other	10,13	2	3	in der Nacht
+sbj	24,34	2	13	Das sicherlich gut gemeinte Anliegen , nämlich Energiekosten zu sparen
+indir-obj	36,37	3	0	ihnen
+other	44,47	4	3	in der Nacht
+indir-obj	79,81	6	14	laut Abfallzweckverband
+indir-obj	82,87	6	15	am Vorabend des jeweiligen Abholetages
+other	84,87	6	16	des jeweiligen Abholetages
+dir-obj	87,90	6	5	an den Straßenrand
+sbj	97,104	7	6	die Fragen der Unfälle und der Haftung
+other	99,101	7	10	der Unfälle
+other	102,104	7	4	der Haftung
+sbj	112,114	8	8	die Kommune
+sbj	121,125	8	9	der Vertrag mit Edis
+other	123,125	8	7	mit Edis
+other	151,154	10	2	mit dem Abschalte-Beschluss
+sbj	155,157	10	0	der Gemeinderat
+sbj	166,167	11	0	er
+dir-obj	168,170	11	1	den Ort
+sbj	174,176	11	0	Der Gemeinderat
+dir-obj	177,180	12	2	den unseligen Beschluss
+sbj	184,186	12	17	die Bürger
+sbj	192,193	12	18	wir
+other	194,197	12	19	im 21. Jahrhundert

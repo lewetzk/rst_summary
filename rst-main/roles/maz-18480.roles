@@ -1,0 +1,21 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	11,15	2	9	die Jugend im Fläming
+other	13,15	2	3	im Fläming
+other	29,31	3	10	in Wiesenburg
+other	33,38	3	11	für die Grund- und Gesamtschule
+other	41,42	3	16	dies
+sbj	62,64	4	1	die Schule
+other	66,71	4	12	in den Mittelpunkt der Gesellschaft
+other	69,71	4	13	der Gesellschaft
+sbj	73,74	4	1	Sie
+dir-obj	85,88	5	5	An die Stelle
+sbj	112,114	7	8	die Devise
+not_specified	117,118	7	15	Das
+indir-obj	129,133	9	0	nur dem Wiesenburger Förderverein
+indir-obj	139,141	9	14	der Gesellschaft
+indir-obj	148,150	10	3	der Region
+indir-obj	158,162	10	6	im Gespräch mit Lehrern
+other	162,163	10	2	ihre
+dir-obj	162,164	10	7	ihre Anforderungen
+other	164,172	10	4	an die oft krititisierte Ausbildung in den Schulen
+other	169,172	10	1	in den Schulen

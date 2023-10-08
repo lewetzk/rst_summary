@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	122,124	0	16	der Bahnhaltepunkt
+sbj	129,131	0	1	die Straße
+other	131,132	0	1	ihren
+dir-obj	131,134	0	_	ihren eigentlichen Zweck
+dir-obj	137,139	0	8	den Verkehr
+other	139,142	0	7	aus dem Ort
+sbj	48,50	1	1	die Fahrbahn

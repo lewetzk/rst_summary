@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	181,183	0	0	das Experiment
+other	77,78	2	4	seine
+dir-obj	77,84	2	12	seine eigene Wohnung mit Bad und Küche

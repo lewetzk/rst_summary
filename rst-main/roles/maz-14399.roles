@@ -1,0 +1,19 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	4,6	2	3	zwei Frischlinge
+indir-obj	7,8	2	3	Schnitzel
+indir-obj	11,12	2	3	Kotelett
+sbj	37,38	3	12	sie
+dir-obj	38,51	3	8	die Internetseite des Zentralorgans der deutschen Jäger , " Wild und Hund "
+other	40,45	3	9	des Zentralorgans der deutschen Jäger
+sbj	63,71	4	10	der Werbeslogan " Jeder Klick ein Treffer "
+sbj	72,77	4	11	Solche martialischen Töne einzelner Weidmänner
+indir-obj	78,82	5	0	den Gegnern der Jägerei
+other	80,82	5	2	der Jägerei
+sbj	88,96	6	0	die " Initiative zur Abschaffung der Jagd "
+other	93,95	6	2	der Jagd
+indir-obj	97,99	6	5	in Berlin
+indir-obj	102,104	7	4	aus Baden-Württemberg
+sbj	130,132	8	1	dieser Tierschützer
+sbj	144,147	9	6	das natürliche Gleichgewicht
+sbj	157,161	9	7	das Ansinnen der Jagdgegner
+other	159,161	9	0	der Jagdgegner

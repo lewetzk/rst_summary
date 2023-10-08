@@ -1,0 +1,15 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	56,63	0	20	am klaren Bekenntnis zur Politik des Bundeskanzlers
+other	56,63	0	20	am klaren Bekenntnis zur Politik des Bundeskanzlers
+other	59,63	0	16	zur Politik des Bundeskanzlers
+other	61,63	0	9	des Bundeskanzlers
+other	64,73	0	21	am uneingeschränkten Verteidigen der Kosovo- und Mazedonien-Einsätze der Bundeswehr
+other	67,73	0	18	der Kosovo- und Mazedonien-Einsätze der Bundeswehr
+other	71,73	0	24	der Bundeswehr
+sbj	78,84	0	19	die etwa 60 Leute im Raum
+other	82,84	0	17	im Raum
+other	87,89	0	1	der Regierenden
+other	129,136	1	_	um das Bombodrom in der Kyritz-Ruppiner Heide
+other	132,136	1	7	in der Kyritz-Ruppiner Heide
+sbj	138,141	1	4	der einstige Kanzlerkandidat
+sbj	145,146	1	4	er

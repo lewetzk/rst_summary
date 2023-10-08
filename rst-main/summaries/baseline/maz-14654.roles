@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	94,95	1	12	Deshalb
+sbj	172,175	2	1	denn die erste
+dir-obj	177,179	2	_	sowieso die
+other	183,186	2	2	jetzt durch die

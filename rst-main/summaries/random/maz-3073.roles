@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	66,68	0	2	die Landwirte
+other	43,45	1	16	vom Halm
+other	47,50	1	10	aus dem Boden

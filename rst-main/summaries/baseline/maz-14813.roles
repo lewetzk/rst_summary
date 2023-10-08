@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,4	0	9	wir
+dir-obj	4,5	0	10	es
+dir-obj	88,90	1	0	Harry Potter
+sbj	95,96	1	1	er
+dir-obj	99,101	1	0	die Kopie
+sbj	166,170	2	13	Der Verleih Warner Bros

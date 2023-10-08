@@ -1,0 +1,37 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	6,9	2	15	auf dem Fraktionsgestühl
+sbj	14,16	3	0	der Oberbürgermeister
+indir-obj	16,18	3	16	den Stadtverordneten
+sbj	36,38	4	3	Finanzstadtrat Bosse
+other	41,44	5	4	aus der Zeitung
+sbj	48,49	5	3	er
+other	49,52	5	5	im Sommer 2002
+dir-obj	64,65	6	3	ihn
+other	65,66	6	3	sein
+sbj	65,67	6	0	sein Chef
+indir-obj	74,76	6	20	dem Publikum
+other	80,82	6	21	im Januar
+sbj	92,97	7	12	die Regierungsabsprache mit den Christdemokraten
+other	94,97	7	22	mit den Christdemokraten
+other	101,102	7	13	davon
+sbj	107,109	9	1	der Neue
+other	112,113	9	1	seinen
+dir-obj	112,116	9	18	seinen Umzug nach Potsdam
+other	114,116	9	7	nach Potsdam
+dir-obj	118,120	9	14	die Kinderlein
+dir-obj	122,124	9	17	das Aufgabenfeld
+dir-obj	128,130	10	10	die Stegreifkomödie
+sbj	132,138	10	8	Der Preis für die schönste Pointe
+other	134,138	11	9	für die schönste Pointe
+other	141,144	11	6	an CDU-Fraktionschef Kapuste
+other	146,147	12	3	Bosse
+sbj	154,157	12	3	Nur das Opferlamm
+other	158,159	13	3	seine
+dir-obj	158,160	13	11	seine Rolle
+sbj	161,163	13	3	Der Noch-Beigeordnete
+dir-obj	164,168	14	2	das Manuskript seiner Haushaltsrede
+other	166,167	14	3	seiner
+other	166,168	14	23	seiner Haushaltsrede
+sbj	170,171	14	2	Es
+sbj	177,179	15	0	Matthias Platzeck
+dir-obj	180,182	15	_	das Transparent

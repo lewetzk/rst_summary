@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,4	0	_	Der Naturpark
+other	6,12	0	14	zwischen Jüterbog , Luckenwalde und Treuenbrietzen
+other	7,8	0	12	Jüterbog
+other	9,10	0	7	Luckenwalde
+not_specified	11,12	0	15	Treuenbrietzen
+other	15,18	0	0	außerhalb der Region
+other	24,25	1	13	Deshalb
+sbj	31,33	1	2	Manfred Stolpe
+indir-obj	33,36	1	3	dem weiträumigen Areal
+other	46,48	2	2	des Ministerpräsidenten
+other	48,51	2	0	in die Provinz

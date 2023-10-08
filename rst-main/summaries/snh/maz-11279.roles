@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	92,94	0	_	die Verpflichtungen
+other	97,104	0	15	aus der Förderung von Land und EU
+other	100,104	0	13	von Land und EU
+other	108,111	0	2	über dem FX-Center
+sbj	168,170	1	4	der CDU-Wirtschaftsminister
+other	173,174	1	4	seine
+sbj	173,176	1	0	seine heutigen Koalitionspartner

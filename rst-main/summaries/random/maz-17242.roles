@@ -1,0 +1,13 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	48,49	0	0	ich
+other	57,60	0	1	in der Sichtscheibe
+other	62,66	0	21	beim Abbiegen nach links
+dir-obj	67,69	0	20	das Seitenfenster
+not_specified	73,76	0	19	in den Gegenverkehr
+sbj	10,11	1	0	ich
+other	15,19	1	13	in der letzten Minute
+other	19,22	1	14	aus dem Haus
+other	25,32	1	12	in das in der Garage eingemummelte Auto
+other	27,30	1	15	in der Garage
+sbj	35,36	1	0	ich
+dir-obj	36,39	1	16	die miesen Grade

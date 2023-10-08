@@ -1,0 +1,27 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,5	1	_	Die Palette
+dir-obj	14,18	2	6	Diese nicht neue Erkenntnis
+sbj	19,27	3	7	der Markt der Möglichkeiten am Sonnabend in Treuenbrietzen
+other	21,23	3	0	der Möglichkeiten
+other	23,25	3	14	am Sonnabend
+other	25,27	3	18	in Treuenbrietzen
+other	33,37	4	0	an diese freiwillige Tätigkeit
+other	47,50	4	5	im Kreis Potsdam-Mittelmark
+not_specified	49,50	4	11	Potsdam-Mittelmark
+other	50,53	4	1	in diesem Jahr
+other	54,55	4	2	ihre
+dir-obj	54,57	4	16	ihre vierte Auflage
+other	60,63	4	17	Neben der Präsentation
+dir-obj	73,74	5	10	Das
+sbj	76,82	6	3	die Mitglieder der Vereine und Selbsthilfegruppen
+not_specified	78,82	6	20	der Vereine und Selbsthilfegruppen
+other	86,87	6	3	Ihr
+sbj	86,90	6	_	Ihr Engagement für soziale
+other	100,103	7	15	in die Notwendigkeit
+sbj	106,107	7	12	das
+sbj	113,116	7	_	Die Politik hingegen
+other	119,122	8	1	in diesem Jahr
+dir-obj	147,151	8	19	die Streichung des Gehörlosengeldes
+other	149,151	8	8	des Gehörlosengeldes
+other	157,158	8	4	Lausitzring
+dir-obj	175,177	8	_	die unentgeltliche

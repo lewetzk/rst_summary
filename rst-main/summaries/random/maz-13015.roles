@@ -1,0 +1,9 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	134,136	0	5	die SPD
+indir-obj	136,137	0	4	dem
+sbj	96,98	1	3	das Loch
+sbj	102,104	1	_	der Selbsthass
+sbj	108,110	1	8	die Brandenburger
+other	110,114	1	3	ob ihrer hässlichen Mitte
+other	111,112	1	8	ihrer
+sbj	118,119	1	8	sie

@@ -1,0 +1,39 @@
+import os
+import re
+
+def extract_anno(filename, pcc_path="bracketed_files/", file_end=".txt"):
+    
+    annos = {}
+    
+    with open(pcc_path + filename + file_end, 'r') as myfile:
+        read_file = myfile.read()
+        read_file.replace('\n', ' ')
+        #print(read_file)
+    
+        regex1 = r"\[([^\]]+)]1"
+        result1 = re.search(regex1, read_file)
+        annos[result1.group()[1:-2]] = 1
+        
+        regex2 = r"\[([^\]]+)]2"
+        result2 = re.search(regex2, read_file)
+        annos[result2.group()[1:-2]] = 2
+        
+        regex3 = r"\[([^\]]+)]3"
+        result3 = re.search(regex3, read_file)
+        annos[result3.group()[1:-2]] = 3
+        breakpoint()
+        
+    important_sents = list(annos.values())
+        
+    return annos, important_sents
+
+
+annos = {}
+path = "bracketed_files/"
+dirs1 = os.listdir(path)
+for file in dirs1:
+    if file.endswith(".txt"):
+        summary, _ = extract_anno(file[:-4])
+        annos[file] = summary
+        
+breakpoint()

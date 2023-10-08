@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	49,51	0	9	die Rechnerei
+other	68,79	1	11	Auch für das kaum öffentlich gemachte Thema der Sozialfürsorgepflicht der Kommune
+other	75,79	1	18	der Sozialfürsorgepflicht der Kommune
+other	77,79	1	2	der Kommune
+dir-obj	16,20	2	_	die eigenen finanziellen Interessen

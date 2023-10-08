@@ -1,0 +1,31 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	1,4	1	0	Die Oranienburger Mittelstadt
+other	2,3	2	22	Oranienburger
+sbj	10,11	2	0	sie
+other	11,19	2	_	zu den 15 ausgewählten Stadtteilen im Land Brandenburg
+other	16,19	2	14	im Land Brandenburg
+other	22,27	2	15	in den nächsten fünf Jahren
+other	27,33	2	_	vom 220 Millionen Mark schweren EU-Förderprogramm
+other	34,37	2	_	Zukunft im Stadtteil
+other	35,37	2	16	im Stadtteil
+other	39,40	2	5	ZiS
+other	47,52	3	20	der Situation in der Mittelstadt
+other	49,52	3	0	in der Mittelstadt
+other	61,62	4	0	ihr
+sbj	61,63	4	11	ihr Zustand
+other	78,79	4	10	Velten-Süd
+sbj	93,99	5	19	die Hälfte der Bewohner der Mittelstadt
+other	95,99	5	2	der Bewohner der Mittelstadt
+other	97,99	5	0	der Mittelstadt
+other	100,103	5	12	über den Wegzug
+dir-obj	110,112	6	13	die Wohnqualität
+other	126,130	7	18	für den beginnenen Abstieg
+sbj	131,139	7	9	der Einbau von Sperrgittern an Durchgängen zu Wohnanlagen
+other	146,150	8	7	im Umfeld der Schulen
+other	148,150	8	8	der Schulen
+other	153,156	9	1	nach den Notsignalen
+not_specified	158,160	9	21	der Hoffnung
+sbj	164,166	9	3	das ZiS-Programm
+sbj	168,169	9	3	Das
+other	174,181	9	2	der Mieter und Vermieter in der Mittelstadt
+other	178,181	9	0	in der Mittelstadt

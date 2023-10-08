@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	137,142	0	16	Die Parkgebühren in der Einkaufszone
+other	139,142	0	15	in der Einkaufszone
+sbj	187,189	2	7	der Grundsatz

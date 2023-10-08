@@ -1,0 +1,36 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	4,5	2	0	ihre
+dir-obj	4,6	2	13	ihre Grenzen
+sbj	8,9	3	1	Ich
+indir-obj	10,11	3	1	mir
+dir-obj	12,20	3	6	die Meinung von 220_000 Menschen in meinem Wahlkreis
+other	17,20	3	14	in meinem Wahlkreis
+other	18,19	3	1	meinem
+sbj	31,33	3	1	Ernst Bahr
+other	33,35	3	2	am Montagabend
+sbj	42,44	4	1	der SPD-Mann
+other	46,51	4	15	aus dem Trio der Gesprächspartner
+other	49,51	4	5	der Gesprächspartner
+other	56,63	5	20	am klaren Bekenntnis zur Politik des Bundeskanzlers
+other	56,63	5	20	am klaren Bekenntnis zur Politik des Bundeskanzlers
+other	59,63	5	16	zur Politik des Bundeskanzlers
+other	61,63	5	9	des Bundeskanzlers
+other	64,73	5	21	am uneingeschränkten Verteidigen der Kosovo- und Mazedonien-Einsätze der Bundeswehr
+other	67,73	5	18	der Kosovo- und Mazedonien-Einsätze der Bundeswehr
+other	71,73	5	24	der Bundeswehr
+sbj	78,84	5	19	die etwa 60 Leute im Raum
+other	82,84	5	17	im Raum
+other	87,89	5	1	der Regierenden
+sbj	96,98	6	12	die Summe
+dir-obj	104,106	7	11	die Sympathien
+sbj	109,110	7	1	Bahr
+other	122,125	7	4	vor Rudolf Scharping
+other	129,136	8	_	um das Bombodrom in der Kyritz-Ruppiner Heide
+other	132,136	8	7	in der Kyritz-Ruppiner Heide
+sbj	138,141	8	4	der einstige Kanzlerkandidat
+sbj	145,146	8	4	er
+other	174,176	12	2	am Montag
+sbj	190,191	14	3	sie
+other	191,196	14	23	im Gegensatz zu ihren Wählern
+other	193,196	14	22	zu ihren Wählern
+other	194,195	14	3	ihren

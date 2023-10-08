@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	38,39	0	_	wenn
+other	42,45	0	_	rechtzeitig auf die
+other	78,81	1	_	Umrechnungskurs für den
+other	84,85	1	_	.
+other	125,126	3	_	ist
+other	181,182	4	_	riskiert
+dir-obj	182,186	4	_	damit das Vertrauen seiner
+other	184,185	4	_	Vertrauen
+other	184,186	4	_	Vertrauen seiner

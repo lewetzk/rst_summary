@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	9,13	0	12	die Außen- und Sicherheitsexperten
+other	13,15	0	22	in Berlin
+other	16,23	0	3	auf die Äußerungen von US-Verteidigungsminister Donald Rumsfeld
+other	19,23	0	0	von US-Verteidigungsminister Donald Rumsfeld
+other	58,59	1	0	Rumsfeld
+other	66,69	1	4	innerhalb der US-Regierung
+dir-obj	162,165	2	17	die eigenen Soldaten
+sbj	168,169	2	1	sie
+dir-obj	169,173	2	10	den Zusammenhalt im Bündnis
+other	171,173	2	16	im Bündnis

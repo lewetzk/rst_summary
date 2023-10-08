@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,4	0	7	Die Diskussion
+sbj	7,11	0	1	die neue Wittstocker Stadthalle
+other	9,10	0	0	Wittstocker
+sbj	93,95	1	1	Die Halle
+dir-obj	176,178	2	1	die Halle
+sbj	179,180	2	0	Wittstock

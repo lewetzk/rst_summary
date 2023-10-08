@@ -1,0 +1,15 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	9,10	0	0	ihre
+dir-obj	9,11	0	10	ihre Patienten
+dir-obj	9,11	0	10	ihre Patienten
+other	12,13	0	0	ihr
+dir-obj	12,14	0	11	ihr Personal
+dir-obj	15,18	0	5	die Kassenärztliche Vereinigung
+not_specified	19,21	0	12	im Unklaren
+sbj	26,27	1	18	sie
+dir-obj	31,32	1	20	sie
+sbj	37,38	1	17	sie
+sbj	117,120	2	_	das , was
+other	124,126	2	1	im Land
+other	126,132	2	14	in dieser einen Praxis in Ludwigsfelde
+other	130,132	2	2	in Ludwigsfelde

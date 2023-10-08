@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	2,12	0	11	Im Streit zwischen der Stadt Wittstock und dem Landesstraßenbauamt Kyritz
+other	4,12	0	15	zwischen der Stadt Wittstock und dem Landesstraßenbauamt Kyritz
+other	5,8	0	0	der Stadt Wittstock
+other	9,12	0	9	dem Landesstraßenbauamt Kyritz
+other	11,12	0	16	Kyritz
+sbj	13,16	0	10	Bürgermeister Lutz Scheidemann
+sbj	94,98	1	1	Die Entlastungsstraße für Lkw
+other	100,104	1	2	um die Altstadt herum
+other	166,167	2	14	Deshalb
+dir-obj	173,176	2	2	die Wittstocker Altstadt

@@ -1,0 +1,28 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,9	1	1	Die Weiße Stadt in Oranienburg
+other	7,9	2	11	in Oranienburg
+sbj	17,20	2	5	Firmenchef Klaus Kesting
+other	26,34	4	6	vor dem endgültigen Abzug der russischen Armee 1994
+other	30,33	4	7	der russischen Armee
+sbj	35,36	4	5	er
+other	36,45	4	3	mit dem Umbau von Kasernen zu Sozial- und Eigentumswohnungen
+sbj	46,48	4	5	Der Unternehmer
+other	49,52	5	3	für das Vorhaben
+sbj	61,62	5	5	er
+sbj	68,71	6	14	der große Katzenjammer
+sbj	72,76	6	15	Die Gesellschaft Kesting Fertigbau
+other	94,95	8	17	Seitdem
+sbj	101,105	9	12	Der Verkauf des Wohngebiets
+other	103,105	10	2	des Wohngebiets
+other	115,121	11	9	in die Infrastruktur der einstigen Heinkel-Siedlung
+other	118,121	11	2	der einstigen Heinkel-Siedlung
+sbj	127,129	11	8	Die Folgen
+other	136,137	12	10	Damit
+sbj	139,143	13	4	der jetzt gegründete Bürgerverein
+other	147,148	14	4	seine
+sbj	147,149	14	0	seine Mitstreiter
+sbj	155,156	14	0	sie
+other	159,163	14	13	Entgegen der ursprünglichen Planung
+sbj	166,169	14	1	die Weiße Stadt
+other	169,172	14	_	in das EU-Förderprogramm
+other	174,176	14	1	im Stadtteil

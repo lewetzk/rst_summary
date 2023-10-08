@@ -1,0 +1,15 @@
+name: rst
+channels:
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - scikit-learn
+  - torchvision
+  - cpuonly
+  - pytorch
+  - torchaudio
+  - transformers
+  - sentencepiece
+  - protobuf
+  - nltk

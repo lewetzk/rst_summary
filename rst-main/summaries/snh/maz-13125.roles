@@ -1,0 +1,13 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	58,59	0	1	wir
+indir-obj	64,65	0	1	uns
+other	66,76	0	0	über den Kampf gegen den Terrorismus in dem asisatischen Land
+other	69,72	0	24	gegen den Terrorismus
+other	72,76	0	4	in dem asisatischen Land
+sbj	112,123	1	_	Die Botschaft der Autoren des am Samstag in Zossen aufgeführten Stücks
+other	114,123	1	_	der Autoren des am Samstag in Zossen aufgeführten Stücks
+other	116,123	1	_	des am Samstag in Zossen aufgeführten Stücks
+other	117,119	1	17	am Samstag
+other	119,121	1	8	in Zossen
+other	124,131	1	12	Eines Tages müssen wir die Wahrheit sagen
+not_specified	134,137	1	13	auf die Gegenwart

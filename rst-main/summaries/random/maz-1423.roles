@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	45,47	0	10	Die Einnahmen
+other	100,103	1	6	in der Region
+sbj	93,95	2	1	Die Halle

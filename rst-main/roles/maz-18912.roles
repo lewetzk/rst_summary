@@ -1,0 +1,42 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,4	2	0	Franz Fühmann
+other	8,9	2	0	sein
+dir-obj	8,14	2	3	sein Essay über Georg Trakls Dichtung
+other	11,13	2	17	Georg Trakls
+sbj	17,18	2	0	er
+indir-obj	18,19	2	3	ihm
+dir-obj	19,21	2	_	den Titel
+other	27,29	3	16	im Westen
+sbj	30,36	3	3	das Buch aus dem Rostocker Hinstorff-Verlag
+other	32,36	3	8	aus dem Rostocker Hinstorff-Verlag
+other	34,35	3	6	Rostocker
+dir-obj	40,42	4	5	den Titel
+sbj	47,48	4	5	der
+sbj	52,54	4	21	Der Westleser
+dir-obj	55,57	5	3	das Buch
+other	60,64	5	26	Der Sturz des Engels
+other	62,64	5	20	des Engels
+other	85,88	7	14	in der Weihnachtszeit
+sbj	96,97	8	1	wir
+dir-obj	98,99	8	2	sie
+other	113,115	9	15	der Sympathie
+sbj	125,126	10	1	wir
+other	126,130	10	10	beim Blick ins Telefonbuch
+other	128,130	10	19	ins Telefonbuch
+other	130,136	10	9	in den größeren Städten der Region
+other	134,136	10	18	der Region
+other	144,146	10	25	in Hennigsdorf
+other	148,150	10	24	in Oranienburg
+other	152,154	10	12	in Falkensee
+other	156,158	10	7	in Nauen
+sbj	159,161	10	2	Die Engel
+other	162,165	11	13	die wunderbaren Boten
+other	162,165	11	13	die wunderbaren Boten
+other	166,170	11	11	die Musen und Heilsbringer
+dir-obj	173,175	12	2	die Himmelsscharen
+sbj	191,192	12	1	wir
+indir-obj	192,193	12	4	ihnen
+sbj	197,198	12	1	Wir
+indir-obj	199,200	12	1	uns
+other	200,201	12	1	unsere
+dir-obj	200,203	12	23	unsere eigenen Gedanken

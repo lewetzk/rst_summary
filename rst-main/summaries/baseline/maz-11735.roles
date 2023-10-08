@@ -1,0 +1,4 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	10,12	0	13	das Geld
+sbj	156,158	2	1	Die Staaten
+not_specified	161,163	2	10	im Zweifelsfall

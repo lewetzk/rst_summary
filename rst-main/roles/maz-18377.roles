@@ -1,0 +1,30 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,4	1	_	Die Kränzliner
+sbj	17,18	2	1	Sie
+sbj	26,28	3	2	Die Klärwerke
+sbj	26,31	3	9	Die Klärwerke beziehungsweise die Druckleitungen
+sbj	29,31	4	13	die Druckleitungen
+other	33,36	4	6	von der Gemeinde
+other	33,43	4	8	von der Gemeinde und damit von den Steuern der Bürger
+other	37,38	4	15	damit
+other	38,43	4	7	von den Steuern der Bürger
+other	41,43	4	1	der Bürger
+sbj	48,49	5	1	sie
+sbj	57,58	5	1	sie
+sbj	67,71	5	0	Die übrigen Fehrbelliner Verbandgemeinden
+not_specified	74,76	6	18	im Recht
+sbj	79,80	7	0	sie
+other	90,92	7	3	der Solidargemeinschaft
+sbj	101,103	8	14	beide Argumentationen
+sbj	104,106	8	4	Die einen
+other	111,112	9	4	ihr
+sbj	111,113	9	12	ihr Bürgermeister
+sbj	120,123	9	0	Die anderen wiederum
+other	126,129	10	3	zur Solidargemeinschaft Zweckverband
+dir-obj	131,133	10	_	die Regeln
+sbj	139,145	10	_	die zu fügen haben , die
+sbj	150,152	11	5	der Streit
+sbj	166,170	11	5	der Ärger über Klärbeiträge
+other	176,178	11	11	am Mittwoch
+dir-obj	182,186	11	17	den Weg zur Verbandsversammlung
+other	184,186	11	16	zur Verbandsversammlung

@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	8,9	0	1	Weihnachten
+sbj	77,78	1	0	Rudi
+sbj	79,81	1	19	der Richtige
+other	164,166	2	12	im Juni
+other	166,167	2	1	Weihnachten

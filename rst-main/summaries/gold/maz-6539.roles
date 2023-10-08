@@ -1,0 +1,12 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	9,11	0	0	Der Kanzler
+other	12,13	0	0	seinen
+indir-obj	12,15	0	11	seinen Berliner Genossen
+sbj	24,25	0	0	er
+dir-obj	26,28	0	12	die Liberalen
+other	31,37	0	6	für die Bundestagswahl im kommenden Jahr
+other	34,37	0	7	im kommenden Jahr
+dir-obj	149,165	2	10	Das mit Glück und einigem Geschick von Außenminister Joschka Fischer erarbeitete Gewicht Deutschlands in der Krisenregion
+other	155,159	2	9	von Außenminister Joschka Fischer
+other	161,162	2	16	Deutschlands
+other	162,165	2	8	in der Krisenregion

@@ -1,0 +1,7 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	115,117	1	2	die Bauaufsicht
+dir-obj	118,120	1	0	den Bescheid
+other	172,173	2	16	davon
+other	175,178	2	13	in den Amtsstuben
+sbj	183,186	2	12	die überschüssige Kraft
+other	186,192	2	10	in die schnelle Bearbeitung von Bauanträgen

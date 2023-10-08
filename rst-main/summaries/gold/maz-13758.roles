@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	13,14	0	22	Das
+sbj	30,32	0	13	die Einwohner
+sbj	73,75	1	21	die Freude
+sbj	174,176	2	2	Die Dorferneuerungsplanung

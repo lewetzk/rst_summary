@@ -1,0 +1,14 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	8,10	0	1	die Damsdorfer
+other	10,12	0	16	am Sonntag
+other	12,15	0	17	für den Wechsel
+other	12,18	0	18	für den Wechsel und für Lehnin
+other	16,18	0	2	für Lehnin
+sbj	46,48	1	1	Die Damsdorfer
+sbj	52,54	1	1	die Bevölkerung
+dir-obj	54,59	1	22	das Recht auf einen Bürgerentscheid
+sbj	160,161	2	1	Sie
+dir-obj	162,163	2	20	das
+sbj	167,168	2	1	sie
+other	171,175	2	21	die Nähe zu Lehnin
+other	173,175	2	2	zu Lehnin

@@ -1,0 +1,18 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	12,13	0	_	Sie
+dir-obj	14,27	0	_	das Ergebnis der Wirtschaftlichkeitsrechnung für den Betrieb der Stammbahn von Potsdam nach Berlin
+other	16,18	0	_	der Wirtschaftlichkeitsrechnung
+other	18,27	0	_	für den Betrieb der Stammbahn von Potsdam nach Berlin
+other	21,27	0	_	der Stammbahn von Potsdam nach Berlin
+other	23,25	0	_	von Potsdam
+other	25,27	0	_	nach Berlin
+other	27,30	0	_	in diesem Jahr
+dir-obj	35,39	0	_	die Bekanntgabe der Zahlen
+other	37,39	0	_	der Zahlen
+dir-obj	94,102	1	_	die Belastungen für die Länder Berlin und Brandenburg
+other	96,102	1	_	für die Länder Berlin und Brandenburg
+other	99,100	1	_	Berlin
+other	101,102	1	_	Brandenburg
+sbj	141,143	2	_	die Stammbahn
+sbj	148,152	2	_	die Deutsche Bahn AG
+dir-obj	152,154	2	_	dieses Geld

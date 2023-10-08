@@ -1,0 +1,21 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	7,10	0	0	Die Berliner Staatsanwaltschaft
+other	11,12	0	0	ihr
+dir-obj	11,16	0	2	ihr Ermittlungsverfahren gegen Wolfgang Schäuble
+other	13,16	0	6	gegen Wolfgang Schäuble
+other	30,37	1	_	Auf den Vorstoß von CSU-Landesgruppenchef Michael Glos
+other	33,37	1	1	von CSU-Landesgruppenchef Michael Glos
+sbj	39,40	1	6	Schäuble
+sbj	47,48	1	6	er
+sbj	65,66	2	1	Glos
+other	75,76	2	6	Schäuble
+other	79,82	2	5	mit seinem Alleingang
+other	80,81	2	1	seinem
+other	82,83	2	18	Bayerns
+dir-obj	82,86	2	4	Bayerns Ministerpräsidenten Edmund Stoiber
+dir-obj	82,86	2	4	Bayerns Ministerpräsidenten Edmund Stoiber
+other	90,93	2	3	in der Unionsfraktion
+sbj	93,95	2	_	der Druck
+other	100,101	2	4	seinen
+dir-obj	100,105	2	16	seinen Anspruch auf die Kanzlerkandidatur
+other	102,105	2	20	auf die Kanzlerkandidatur

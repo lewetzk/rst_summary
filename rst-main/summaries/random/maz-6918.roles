@@ -1,0 +1,5 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	170,171	0	2	Stolpe
+other	142,148	1	1	bei der touristischen Erschließung der Konversionsflächen
+not_specified	146,148	1	8	der Konversionsflächen
+other	64,71	2	3	Um den etwa 7000 Hektar großen Naturpark

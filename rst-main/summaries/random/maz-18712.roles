@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	134,137	1	14	Mit seinem Ja
+other	135,136	1	3	seinem
+other	137,140	1	13	zu den Schlössernächten
+sbj	141,142	1	3	er
+sbj	154,155	1	3	er
+indir-obj	15,16	2	3	ihm
+indir-obj	16,18	2	2	die Ehrenbürgerwürde
+indir-obj	20,21	2	3	ihm
+sbj	21,22	2	1	Potsdam

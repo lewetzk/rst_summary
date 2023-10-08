@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	86,87	0	4	Deshalb
+sbj	88,89	0	3	er
+dir-obj	90,95	0	18	die Tuchfühlung zu den Meinungsführern
+other	92,95	0	0	zu den Meinungsführern
+sbj	106,109	1	1	Die jungen Autoren
+sbj	120,121	2	1	sie
+indir-obj	121,123	2	3	dem Kanzler
+sbj	147,149	3	3	der Bundeskanzler
+other	151,154	3	2	auf die alten

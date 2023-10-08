@@ -1,0 +1,28 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	3,5	1	0	Dagmar Ziegler
+other	6,9	2	4	in der Schuldenfalle
+other	12,17	3	4	der dramatischen Kassenlage in Brandenburg
+other	15,17	3	1	in Brandenburg
+sbj	18,19	3	0	sie
+other	37,38	3	2	darüber
+sbj	44,46	4	9	das Finanz-
+sbj	44,49	4	7	das Finanz- und das Bildungsressort
+sbj	47,49	4	3	das Bildungsressort
+dir-obj	49,51	4	2	das Lehrerpersonalkonzept
+sbj	55,59	4	14	Der Rückzieher der Finanzministerin
+other	57,59	5	0	der Finanzministerin
+other	84,86	6	_	anderen .
+other	87,88	6	_	Ministerkollegen
+sbj	87,89	6	_	Ministerkollegen werden
+sbj	96,98	7	_	Konzept wasserdicht
+dir-obj	127,132	9	_	Angebote des vorzeitigen Ausstiegs nutzen
+other	129,132	9	_	vorzeitigen Ausstiegs nutzen
+other	137,140	10	_	Reiches Personalpapier eigentlich
+other	138,139	10	_	Personalpapier
+sbj	144,146	10	_	Land hat
+sbj	161,170	12	_	große Einbruch der Schülerzahlen an den weiterführenden Schulen beginnt
+other	164,166	13	_	Schülerzahlen an
+other	166,170	13	_	den weiterführenden Schulen beginnt
+other	172,175	13	_	Herbst 2003 .
+sbj	176,178	13	_	Regierung muss
+other	194,197	14	_	Bildung .

@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,7	0	1	die Güterfelder Gemeindevertreter
+other	9,12	0	14	aus ihrer Eigenständigkeit
+other	10,11	0	1	ihrer
+other	59,60	1	20	Dabei
+other	64,67	1	_	um den Bauernmarkt
+other	72,76	1	23	nach den jüngsten Ereignissen
+indir-obj	167,169	2	10	diesem Gewissenskonflikt

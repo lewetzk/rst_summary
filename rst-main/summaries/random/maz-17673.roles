@@ -1,0 +1,16 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	104,107	0	15	Aus der Distanz
+sbj	108,109	0	5	sie
+dir-obj	109,111	0	2	das Geschehen
+indir-obj	113,118	0	1	den Beamten an den Monitoren
+other	115,118	0	19	an den Monitoren
+dir-obj	118,120	0	_	die Möglichkeit
+dir-obj	121,123	0	2	die Lage
+dir-obj	15,16	1	1	sie
+other	16,21	1	18	bei der Beobachtung des Dancehouse-Geländes
+other	19,21	1	17	des Dancehouse-Geländes
+sbj	132,136	2	3	das Objekt ihrer Aggression
+other	134,135	2	0	ihrer
+other	134,136	2	12	ihrer Aggression
+other	138,139	2	0	ihre
+sbj	138,140	2	11	ihre Sticheleien

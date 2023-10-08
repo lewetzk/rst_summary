@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	4,6	0	1	die Feuerwehr
+other	11,16	0	9	an jedem Ort der Stadt
+other	14,16	0	10	der Stadt
+other	19,20	0	19	derzeit
+sbj	21,22	0	20	es

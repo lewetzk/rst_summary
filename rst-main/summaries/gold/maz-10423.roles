@@ -1,0 +1,11 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	2,14	0	15	Die von den Elstalern lange herbei gesehnte Umgehungsstraße für den historischen Ortskern
+other	3,6	0	2	von den Elstalern
+other	10,14	0	0	für den historischen Ortskern
+sbj	48,50	1	1	die Fahrbahn
+sbj	122,124	2	16	der Bahnhaltepunkt
+sbj	129,131	2	1	die Straße
+other	131,132	2	1	ihren
+dir-obj	131,134	2	_	ihren eigentlichen Zweck
+dir-obj	137,139	2	8	den Verkehr
+other	139,142	2	7	aus dem Ort

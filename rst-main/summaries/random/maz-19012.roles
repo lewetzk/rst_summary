@@ -1,0 +1,8 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+other	115,118	0	11	In diesem Jahr
+sbj	119,120	0	1	sie
+other	122,125	0	12	in den Süden
+sbj	188,191	1	16	Die meisten Menschen
+other	193,196	1	1	auf den Wetterumschwung
+sbj	145,147	2	2	des Fest
+other	154,156	2	3	für uns

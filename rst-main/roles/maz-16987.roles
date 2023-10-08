@@ -1,0 +1,29 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+dir-obj	8,14	2	_	Den Brief an die gemeinsame Landesplanung
+other	10,14	3	15	an die gemeinsame Landesplanung
+other	17,25	3	5	gegen den geplanten Luft-Boden-Schießplatz in der Kyritz-Ruppiner Heide
+other	21,25	3	9	in der Kyritz-Ruppiner Heide
+sbj	29,32	3	16	Stadtverordnetenvorsitzender Thomas Settgast
+other	33,39	3	13	auf der Sitzung am 14. November
+other	36,39	3	1	am 14. November
+sbj	41,43	3	_	Der Beschluss
+dir-obj	44,45	4	0	ihn
+sbj	53,58	5	6	Mario Neubauer von der CDU-Fraktion
+other	55,58	5	2	von der CDU-Fraktion
+other	60,61	5	14	dafür
+sbj	66,67	6	6	er
+sbj	72,74	6	3	die Stadtverordneten
+sbj	85,88	7	0	solch ein Papier
+sbj	93,94	7	6	Neubauer
+other	94,97	7	1	am 14. November
+other	102,104	8	11	Am Mittwochabend
+sbj	105,107	8	2	die CDU-Fraktion
+other	109,112	8	12	während der Sitzung
+dir-obj	118,119	8	4	dies
+other	120,123	8	17	in die Tagesordnung
+other	125,128	8	4	Aus der Erklärung
+sbj	137,140	10	3	die gesamte Stadtverordnetenversammlung
+other	144,146	10	_	nicht gegen
+sbj	154,155	11	7	das
+sbj	161,163	12	10	die Argumente
+sbj	167,170	12	5	solch ein Schießplatz

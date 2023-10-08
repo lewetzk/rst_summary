@@ -1,0 +1,4 @@
+#Briefkästen trockenlegen
+0	Heißer als in anderen Nächten geht es Silvester zu.
+5	Beispielsweise mit einer Sandfüllung.
+10	Gut möglich, dass so dem einen oder anderen Knallfrosch der Spaß daran vergeht, anderen Menschen Sach-Schaden zuzufügen.

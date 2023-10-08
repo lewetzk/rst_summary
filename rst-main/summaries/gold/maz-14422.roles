@@ -1,0 +1,10 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	67,68	0	4	Sie
+other	73,74	0	4	ihr
+sbj	73,75	0	5	ihr Kind
+dir-obj	79,81	0	17	den Tag
+indir-obj	90,91	0	5	ihm
+dir-obj	173,174	2	18	das
+other	176,178	2	0	im Ort
+other	181,182	2	6	darum
+dir-obj	188,190	2	2	das Haus

@@ -1,0 +1,6 @@
+#ROLE	SPAN	SENTENCE	COREF	TOKENS
+sbj	41,43	0	0	die Verkehrsgesellschaft
+other	45,48	0	5	während der Planungsphase
+other	48,49	0	0	ihre
+dir-obj	48,50	0	4	ihre Einwände
+dir-obj	60,61	1	14	das
